@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>ITPE 통합 온톨로지</title>
+<meta name="description" content="정보관리기술사 14개 도메인 1,480개 토픽 통합 온톨로지 탐색기 (ITPE TOP반)">
+<style>
+:root{--bg:#F3F4F7;--surface:#fff;--ink:#18202E;--muted:#5A6476;--line:#DDE1E8;--accent:#2D47B8;--accent-soft:#E4E8FA}
+@media (prefers-color-scheme:dark){:root{--bg:#11151C;--surface:#1A1F29;--ink:#E6E9EF;--muted:#9AA3B2;--line:#2D3442;--accent:#8EA2F5;--accent-soft:#232C4A}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"Pretendard","Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif;line-height:1.6}
+main{max-width:760px;margin:0 auto;padding:40px 16px 56px}
+.eyebrow{font-size:13px;letter-spacing:.08em;color:var(--muted)}
+h1{font-size:30px;margin:6px 0 10px;line-height:1.3}
+.lead{color:var(--muted);margin:0 0 28px}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:28px}
+.stat{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+.stat b{display:block;font-size:22px}
+.stat span{font-size:12px;color:var(--muted)}
+.cards{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+a.card{display:block;text-decoration:none;color:inherit;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:18px}
+a.card:hover{border-color:var(--accent)}
+a.card.rec{border:2px solid var(--accent);background:var(--accent-soft)}
+.card h2{font-size:18px;margin:0 0 4px}
+.card p{margin:0;font-size:14px;color:var(--muted)}
+.tag{display:inline-block;font-size:11px;padding:1px 8px;border-radius:99px;background:var(--accent);color:#fff;margin-left:6px;vertical-align:2px}
+h3{font-size:15px;margin:32px 0 10px}
+ul.dl{list-style:none;padding:0;margin:0;background:var(--surface);border:1px solid var(--line);border-radius:12px}
+ul.dl li{padding:12px 16px;border-top:1px solid var(--line);font-size:14px}
+ul.dl li:first-child{border-top:0}
+ul.dl a{color:var(--accent);font-weight:600}
+ul.dl small{display:block;color:var(--muted)}
+footer{margin-top:36px;font-size:12px;color:var(--muted)}
+@media (max-width:560px){.stats{grid-template-columns:repeat(2,1fr)}.cards{grid-template-columns:1fr}h1{font-size:25px}}
+</style>
+</head>
+<body>
+<main>
+  <div class="eyebrow">ITPE TOP반 · 정보관리기술사</div>
+  <h1>ITPE 통합 온톨로지 탐색기</h1>
+  <p class="lead">14개 도메인 1,480개 토픽의 정의·핵심키워드·쉬운 설명, 기출 빈도와 중요도, 암기 두음, 유튜브·참고 셀테 링크를 관계망으로 탐색합니다.</p>
+
+  <div class="stats">
+    <div class="stat"><b>14</b><span>도메인</span></div>
+    <div class="stat"><b>1,480</b><span>토픽</span></div>
+    <div class="stat"><b>3,400</b><span>관계</span></div>
+    <div class="stat"><b>v2.4</b><span>2026-10-30</span></div>
+  </div>
+
+  <div class="cards">
+    <a class="card" id="pc" href="ontology.html"><h2>PC 버전</h2><p>트리·관계도·랭킹을 넓은 화면에서 함께 봅니다.</p></a>
+    <a class="card" id="mo" href="ontology-mobile.html"><h2>모바일 버전</h2><p>세로형 화면과 하단 탭으로 휴대폰에서 봅니다.</p></a>
+  </div>
+
+  <h3>데이터 내려받기 (JSON)</h3>
+  <ul class="dl">
+    <li><a href="data/itpe_selte_links.json" download>itpe_selte_links.json</a> — 참고 셀테 링크 팩
+      <small>탐색기 「내 노트 → 가져오기」로 불러오면 토픽별 셀테 링크가 추가됩니다.</small></li>
+    <li><a href="data/itpe_ontology.json" download>itpe_ontology.json</a> — 온톨로지 전체 데이터
+      <small>토픽·관계·정의·키워드·설명·두음·중요도 (v2.4)</small></li>
+  </ul>
+
+  <footer>© 유술사 ITPE TOP반 · 탐색기 사용 기한 2027-04-30 · 개인 노트·링크는 각자의 브라우저에만 저장됩니다.</footer>
+</main>
+<script>
+try{if(matchMedia('(max-width:760px)').matches||/Android|iPhone|iPad/i.test(navigator.userAgent)){
+  var m=document.getElementById('mo');m.classList.add('rec');m.querySelector('h2').insertAdjacentHTML('beforeend','<span class="tag">추천</span>');
+  document.querySelector('.cards').prepend(m);
+}else{var p=document.getElementById('pc');p.classList.add('rec');p.querySelector('h2').insertAdjacentHTML('beforeend','<span class="tag">추천</span>');}}catch(e){}
+</script>
+</body>
+</html>

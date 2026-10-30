@@ -1,0 +1,7188 @@
+{
+ "app": "ITPE 통합 온톨로지 셀테 링크",
+ "format": "itpe-selte-links",
+ "version": 1,
+ "source": "TOP반 기출문제 DB 참고 셀테",
+ "exported": "2026-10-30",
+ "ontologyVersion": "2.4",
+ "links": {
+  "nw_WiFi7": [
+   {
+    "t": "Wi-Fi 7    (139정)",
+    "u": "https://cafe.naver.com/strnd/33716",
+    "k": "1교시형",
+    "q": "139정-1-10"
+   },
+   {
+    "t": "Wi-Fi 7  (134컴)",
+    "u": "https://cafe.naver.com/strnd/31163",
+    "k": "1교시형",
+    "q": "134컴-1-01"
+   },
+   {
+    "t": "IEEE 802.11ax와 IEEE 802.11be 비교   (125컴)",
+    "u": "https://cafe.naver.com/strnd/11638",
+    "k": "1교시형",
+    "q": "125컴-1-01"
+   }
+  ],
+  "sc_CTEM": [
+   {
+    "t": "CTEM(Continuous Threat Exposure Management)    (139정)",
+    "u": "https://cafe.naver.com/strnd/33719",
+    "k": "1교시형",
+    "q": "139정-1-11"
+   }
+  ],
+  "sc_Pseudonym": [
+   {
+    "t": "개인정보보호를 위한 가명처리 기법    (139정)",
+    "u": "https://cafe.naver.com/strnd/33721",
+    "k": "1교시형",
+    "q": "139정-1-13"
+   },
+   {
+    "t": "개인정보의 가명 익명처리 기술에 대하여 설명하시오.   (128정)",
+    "u": "https://cafe.naver.com/strnd/16044",
+    "k": "1교시형",
+    "q": "128정-1-10"
+   }
+  ],
+  "os_Semaphore": [
+   {
+    "t": "운영체제의 프로세스 동기화 기법 중 뮤택스(Mutex), 세마포어(Semaphore), 모니터(Monitor)에 대하여 설명하시오.    (13",
+    "u": "https://cafe.naver.com/strnd/30828",
+    "k": "2교시형",
+    "q": "139정-4-02"
+   },
+   {
+    "t": "운영체제에서 동기화에 대하여 다음 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/24758",
+    "k": "1교시형",
+    "q": "138컴-4-02"
+   },
+   {
+    "t": "세마포어(Semaphore)의 개념과 주요 연산(P연산, V연산)   (132컴)",
+    "u": "https://cafe.naver.com/strnd/26560",
+    "k": "1교시형",
+    "q": "132컴-1-04"
+   },
+   {
+    "t": "세마포어(Semaphore)의 개념과 주요 연산(P연산, V연산)   (132컴)",
+    "u": "https://cafe.naver.com/strnd/24642",
+    "k": "2교시형",
+    "q": "132컴-1-04"
+   },
+   {
+    "t": "세마포어(Semaphore)   (126컴)",
+    "u": "https://cafe.naver.com/strnd/11407",
+    "k": "1교시형",
+    "q": "126컴-1-09"
+   }
+  ],
+  "os_Monitor": [
+   {
+    "t": "운영체제의 프로세스 동기화 기법 중 뮤택스(Mutex), 세마포어(Semaphore), 모니터(Monitor)에 대하여 설명하시오.    (13",
+    "u": "https://cafe.naver.com/strnd/30828",
+    "k": "2교시형",
+    "q": "139정-4-02"
+   }
+  ],
+  "os_VirtualMemory": [
+   {
+    "t": "가상메모리에 대하여 다음을 설명하시오",
+    "u": "https://cafe.naver.com/strnd/20925",
+    "k": "1교시형",
+    "q": "139정-4-04"
+   },
+   {
+    "t": "프로그램 실행 시 운영체제는 메모리를 4 가지 주요 영역으로 나누어 할당 및 관리한다.",
+    "u": "https://cafe.naver.com/strnd/19728",
+    "k": "1교시형",
+    "q": "138정-2-06"
+   },
+   {
+    "t": "가상 메모리(VirtualMemory)에 대하여 다음 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/26237",
+    "k": "2교시형",
+    "q": "138컴-3-03"
+   },
+   {
+    "t": "가상 메모리(VirtualMemory)에 대하여 다음 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/28454",
+    "k": "2교시형",
+    "q": "138컴-3-03"
+   },
+   {
+    "t": "프로그램 실행 시 운영체제는 메모리를 4 가지 주요 영역으로 나누어 할당 및 관리한다.",
+    "u": "https://cafe.naver.com/strnd/32945",
+    "k": "2교시형",
+    "q": "138정-2-06"
+   },
+   {
+    "t": "프로그램 실행 시 운영체제는 메모리를 4 가지 주요 영역으로 나누어 할당 및 관리한다.",
+    "u": "https://cafe.naver.com/strnd/32945%3c지문%3e-%20프로그램%20실행%20시%20운영체제는%20메모리를%204가지%20주요%20영역으로%20나누어%20할당%20및%20관리한다.%3c물어본%20것%3e1)%20각%20영역의%20역할과%20특징%20→%20(코드,%20데이터,%20힙)의%20역할과%20특징2)%20영역%20간%20동작%20메커니즘%20→%20(4가지%20주요%20영역에%20대한)영역%20간%20동작%20메커니즘",
+    "k": "2교시형",
+    "q": "138정-2-06"
+   },
+   {
+    "t": "가상메모리 주소 변환을 위해 사용하는 MMU(Memory Management Unit)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/11909",
+    "k": "1교시형",
+    "q": "137컴-3-02"
+   },
+   {
+    "t": "가상메모리 주소 변환을 위해 사용하는 MMU(Memory Management Unit)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32209",
+    "k": "2교시형",
+    "q": "137컴-3-02"
+   },
+   {
+    "t": "세그먼테이션 오류(Segmantation Fault)(136정)",
+    "u": "https://cafe.naver.com/strnd/29898",
+    "k": "1교시형",
+    "q": "136정-1-07"
+   },
+   {
+    "t": "세그먼테이션 오류(Segmantation Fault)(136정)",
+    "u": "https://cafe.naver.com/strnd/29930",
+    "k": "1교시형",
+    "q": "136정-1-07"
+   },
+   {
+    "t": "세그먼테이션 오류(Segmantation Fault)(136정)",
+    "u": "https://cafe.naver.com/strnd/32272",
+    "k": "1교시형",
+    "q": "136정-1-07"
+   },
+   {
+    "t": "TCAM(Ternary Content Addressable Memory)의 개념과 활용사례   (132컴)",
+    "u": "https://cafe.naver.com/strnd/28362",
+    "k": "1교시형",
+    "q": "132컴-1-01"
+   },
+   {
+    "t": "가상메모리(Virtual Memory) 관리기법 중 세그먼테이션(Segmentation) 기법   (126컴)",
+    "u": "https://cafe.naver.com/strnd/8144",
+    "k": "1교시형",
+    "q": "126컴-1-13"
+   }
+  ],
+  "nw_Subnetting": [
+   {
+    "t": "네트워크 서브네팅(Subnetting)과 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/33707",
+    "k": "2교시형",
+    "q": "139정-4-06"
+   },
+   {
+    "t": "네트워크 서브네팅(subnetting)과 관련하여 아래 사항들을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/18310",
+    "k": "2교시형",
+    "q": "130정-2-03"
+   }
+  ],
+  "pm_RiskMgmt": [
+   {
+    "t": "프로젝트 위험관리 (138정)",
+    "u": "https://cafe.naver.com/strnd/27195",
+    "k": "1교시형",
+    "q": "138정-1-02"
+   },
+   {
+    "t": "미국 국립표준기술연구소에서 발행한 AI RMF(Risk Management Framework)의 개념과 4 가지 핵심구조, 7 가지 신뢰 가능한",
+    "u": "https://cafe.naver.com/strnd/32801",
+    "k": "1교시형",
+    "q": "138정-1-01"
+   },
+   {
+    "t": "범용 AI(General-Purpose AI) 위험관리 프레임워크(136정)",
+    "u": "https://cafe.naver.com/strnd/32577",
+    "k": "1교시형",
+    "q": "136정-1-02"
+   },
+   {
+    "t": "IT 프로젝트 관리에서 리스크 대응에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/29195",
+    "k": "2교시형",
+    "q": "134정-4-01"
+   }
+  ],
+  "ai_NISTRMF": [
+   {
+    "t": "미국 국립표준기술연구소에서 발행한 AI RMF(Risk Management Framework)의 개념과 4 가지 핵심구조, 7 가지 신뢰 가능한",
+    "u": "https://cafe.naver.com/strnd/32801",
+    "k": "1교시형",
+    "q": "138정-1-01"
+   }
+  ],
+  "ai_ISO42001": [
+   {
+    "t": "ISO/IEC 42001:2023 (138컴)",
+    "u": "https://cafe.naver.com/strnd/23187",
+    "k": "1교시형",
+    "q": "138컴-1-08"
+   }
+  ],
+  "st_BayesTheorem": [
+   {
+    "t": "베이즈 정리 (138정)",
+    "u": "https://cafe.naver.com/strnd/16254",
+    "k": "1교시형",
+    "q": "138정-1-04"
+   },
+   {
+    "t": "베이즈 정리 (138정)",
+    "u": "https://cafe.naver.com/strnd/19556",
+    "k": "2교시형",
+    "q": "138정-1-04"
+   }
+  ],
+  "dg_Biometric": [
+   {
+    "t": "안면인식 결제 서비스 (138정)",
+    "u": "https://cafe.naver.com/strnd/33084",
+    "k": "1교시형",
+    "q": "138정-1-05"
+   },
+   {
+    "t": "TPM(Trusted Platform Module)   (132정)",
+    "u": "https://cafe.naver.com/strnd/26779",
+    "k": "1교시형",
+    "q": "132정-1-08"
+   }
+  ],
+  "se_Tailoring": [
+   {
+    "t": "소프트웨어 개발 프로젝트에서 선도개발을 위한 개발방법론 테일러링(Tailoring) (138정)",
+    "u": "https://cafe.naver.com/strnd/17131",
+    "k": "1교시형",
+    "q": "138정-1-06"
+   }
+  ],
+  "db_TimeSeriesDB": [
+   {
+    "t": "자기회귀모형(Autoregressive model)과 이동평균모형(Moving Average model) (138정)",
+    "u": "https://cafe.naver.com/strnd/28178",
+    "k": "1교시형",
+    "q": "138정-1-07"
+   }
+  ],
+  "db_DataObservability": [
+   {
+    "t": "데이터 관측가능성(Data Observability) (138정)",
+    "u": "https://cafe.naver.com/strnd/33574",
+    "k": "1교시형",
+    "q": "138정-1-08"
+   }
+  ],
+  "dg_OPCUA": [
+   {
+    "t": "정보모델링의 참조 무결성 (138정)",
+    "u": "https://cafe.naver.com/strnd/32839",
+    "k": "1교시형",
+    "q": "138정-1-09"
+   },
+   {
+    "t": "제조현장에서 활용되고 있는 OPC UA(Open Platform Communications Unit Architecture)에 대하여 설명하시오",
+    "u": "https://cafe.naver.com/strnd/32500",
+    "k": "1교시형",
+    "q": "137컴-3-03"
+   }
+  ],
+  "sc_KillChain": [
+   {
+    "t": "TTPs(Tactics, Techniques and Procedures) (138정)",
+    "u": "https://cafe.naver.com/strnd/33098",
+    "k": "1교시형",
+    "q": "138정-1-10"
+   }
+  ],
+  "os_Banker": [
+   {
+    "t": "은행가 알고리즘(Banker's Algorithm) (138정)",
+    "u": "https://cafe.naver.com/strnd/17331",
+    "k": "1교시형",
+    "q": "138정-1-11"
+   },
+   {
+    "t": "은행가 알고리즘(Banker's Algorithm) (138정)",
+    "u": "https://cafe.naver.com/strnd/18328",
+    "k": "2교시형",
+    "q": "138정-1-11"
+   }
+  ],
+  "ai_PromptInject": [
+   {
+    "t": "프롬프트 인젝션(Prompt Injection) (138정)",
+    "u": "https://cafe.naver.com/strnd/29685",
+    "k": "1교시형",
+    "q": "138정-1-12"
+   }
+  ],
+  "ai_PromptTuning": [
+   {
+    "t": "프롬프트 인젝션(Prompt Injection) (138정)",
+    "u": "https://cafe.naver.com/strnd/29685",
+    "k": "1교시형",
+    "q": "138정-1-12"
+   },
+   {
+    "t": "프롬프트 엔지니어링(Prompt Enginerng)의 기술 요소와 활용 방안에 대하여 설명하시오 (135정)",
+    "u": "https://cafe.naver.com/strnd/29000",
+    "k": "1교시형",
+    "q": "135정-3-02"
+   }
+  ],
+  "ai_AdvAttack": [
+   {
+    "t": "모델 전도 공격(Model Inversion Attack) (138정)",
+    "u": "https://cafe.naver.com/strnd/33048",
+    "k": "1교시형",
+    "q": "138정-1-13"
+   },
+   {
+    "t": "현재의 딥러닝 기술은 사람의 눈으로 식별되지 않을 만큼 작은 노이즈를 추가해서 만든 적대적 예제(Adversarial Example)를 활용한 ",
+    "u": "https://cafe.naver.com/strnd/5315",
+    "k": "1교시형",
+    "q": "131컴-3-01"
+   },
+   {
+    "t": "현재의 딥러닝 기술은 사람의 눈으로 식별되지 않을 만큼 작은 노이즈를 추가해서 만든 적대적 예제(Adversarial Example)를 활용한 ",
+    "u": "https://cafe.naver.com/strnd/21585",
+    "k": "2교시형",
+    "q": "131컴-3-01"
+   }
+  ],
+  "se_OSSLicense": [
+   {
+    "t": "최근 상용 DBMS 를 오픈소스 DBMS 로 전환하는 수요가 늘고 있다. 다음 내용을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/33502",
+    "k": "2교시형",
+    "q": "138정-2-01"
+   },
+   {
+    "t": "일부 오픈소스 라이선스가 개방형(예: MIT, BSD 등)에서 폐쇄형(예: SSPL(Server Side Public License), BSL(",
+    "u": "https://cafe.naver.com/strnd/1213",
+    "k": "1교시형",
+    "q": "134정-3-06"
+   },
+   {
+    "t": "일부 오픈소스 라이선스가 개방형(예: MIT, BSD 등)에서 폐쇄형(예: SSPL(Server Side Public License), BSL(",
+    "u": "https://cafe.naver.com/strnd/28580",
+    "k": "2교시형",
+    "q": "134정-3-06"
+   }
+  ],
+  "ca_GPU": [
+   {
+    "t": "인공지능 학습에 이용하는 GPU(Graphics Processing Unit)와 TPU(Tensor Processing Unit)에 대하여 다음",
+    "u": "https://cafe.naver.com/strnd/7607",
+    "k": "1교시형",
+    "q": "138정-2-03"
+   },
+   {
+    "t": "인공지능 학습에 이용하는 GPU(Graphics Processing Unit)와 TPU(Tensor Processing Unit)에 대하여 다음",
+    "u": "https://cafe.naver.com/strnd/32859",
+    "k": "2교시형",
+    "q": "138정-2-03"
+   },
+   {
+    "t": "GPU(Graphics Processing Unit)의 역할, 구조, 주요장점 및 활용분야(137컴)",
+    "u": "https://cafe.naver.com/strnd/32182",
+    "k": "1교시형",
+    "q": "137컴-1-10"
+   },
+   {
+    "t": "GPU(Graphics Processing Unit)의 역할, 구조, 주요장점 및 활용분야(137컴)",
+    "u": "https://cafe.naver.com/strnd/32857",
+    "k": "1교시형",
+    "q": "137컴-1-10"
+   },
+   {
+    "t": "딥러닝에서 대규모 신경망을 효율적으로 훈련하기 위한 멀티 GPU 기술에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/26586",
+    "k": "2교시형",
+    "q": "134정-4-02"
+   },
+   {
+    "t": "딥러닝에서 대규모 신경망을 효율적으로 훈련하기 위한 멀티 GPU 기술에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/28439",
+    "k": "2교시형",
+    "q": "134정-4-02"
+   },
+   {
+    "t": "인공지능시스템에서 활용되는 CPU, GPU, FPGA, ASIC 을 설명하고 처리 능력과 전력 소비 측면에서 비교하시오.   (126컴)",
+    "u": "https://cafe.naver.com/strnd/30701",
+    "k": "1교시형",
+    "q": "126컴-2-01"
+   },
+   {
+    "t": "인공지능시스템에서 활용되는 CPU, GPU, FPGA, ASIC 을 설명하고 처리 능력과 전력 소비 측면에서 비교하시오.   (126컴)",
+    "u": "https://cafe.naver.com/strnd/13261",
+    "k": "2교시형",
+    "q": "126컴-2-01"
+   }
+  ],
+  "se_Reengineering": [
+   {
+    "t": "소프트웨어 유지보수를 위한 재공학(Re-engineering)과 역공학(Reverseenigneering)에 대하여 다음 내용을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32648",
+    "k": "1교시형",
+    "q": "138정-2-05"
+   },
+   {
+    "t": "소프트웨어 유지보수 향상 및 비용절감을 위한 3R을 설명하시오.   (133정)",
+    "u": "https://cafe.naver.com/strnd/29372",
+    "k": "1교시형",
+    "q": "133정-1-11"
+   }
+  ],
+  "se_Maintenance": [
+   {
+    "t": "소프트웨어 유지보수를 위한 재공학(Re-engineering)과 역공학(Reverseenigneering)에 대하여 다음 내용을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32648",
+    "k": "1교시형",
+    "q": "138정-2-05"
+   },
+   {
+    "t": "소프트웨어 유지보수 향상 및 비용절감을 위한 3R을 설명하시오.   (133정)",
+    "u": "https://cafe.naver.com/strnd/29372",
+    "k": "1교시형",
+    "q": "133정-1-11"
+   },
+   {
+    "t": "리먼(Lehman)의 소프트웨어 진화 법칙에 대하여 설명하시오.   (129컴)",
+    "u": "https://cafe.naver.com/strnd/19814",
+    "k": "1교시형",
+    "q": "129컴-2-04"
+   }
+  ],
+  "dg_LowCode": [
+   {
+    "t": "A 사는 신규 정보시스템 개발 프로젝트에 로우코드(Low Code) 플랫폼을 적용하고자 한다. 다음 내용을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/21591",
+    "k": "1교시형",
+    "q": "138정-3-02"
+   },
+   {
+    "t": "노코드(no-code)   (130정)",
+    "u": "https://cafe.naver.com/strnd/22225",
+    "k": "1교시형",
+    "q": "130정-1-01"
+   }
+  ],
+  "db_DistDB": [
+   {
+    "t": "분산 데이터베이스 시스템 구축을 위한 데이터베이스 분할에 대하여 다음 내용을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/33508",
+    "k": "2교시형",
+    "q": "138정-3-03"
+   },
+   {
+    "t": "분산 데이터 베이스 5가지 투명성   (132정)",
+    "u": "https://cafe.naver.com/strnd/27724",
+    "k": "1교시형",
+    "q": "132정-1-13"
+   }
+  ],
+  "ca_Availability": [
+   {
+    "t": "가용성 보장에 대하여 다음 내용을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32256",
+    "k": "1교시형",
+    "q": "138정-3-04"
+   },
+   {
+    "t": "가용성 보장에 대하여 다음 내용을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32851",
+    "k": "2교시형",
+    "q": "138정-3-04"
+   }
+  ],
+  "sc_APT": [
+   {
+    "t": "IT 인프라 확장에 따른 사이버 위협에 대하여 다음 내용을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/33056",
+    "k": "2교시형",
+    "q": "138정-3-05"
+   },
+   {
+    "t": "BPFdoor(Berkeley Packet Filter door) 악성코드와 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32389",
+    "k": "2교시형",
+    "q": "137정-4-01"
+   }
+  ],
+  "ai_AIBasicAct": [
+   {
+    "t": "「인공지능 발전과 신뢰 기반 조성 등에 관한 기본법」(약칭, 인공지능기본법)이 2026 년 1 월 22 일 시행되었다. 다음 내용을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/29640",
+    "k": "1교시형",
+    "q": "138정-4-01"
+   }
+  ],
+  "ds_HashFunc": [
+   {
+    "t": "단방향 해시 함수(Hash Function)에 대하여 다음 내용을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/29689",
+    "k": "1교시형",
+    "q": "138정-4-02"
+   }
+  ],
+  "nw_AINativeNW": [
+   {
+    "t": "6G 이동통신기술 핵심 개념인 AI-Native Network 에 대하여 다음 내용을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/29688",
+    "k": "1교시형",
+    "q": "138정-4-03"
+   },
+   {
+    "t": "6G 이동통신기술 핵심 개념인 AI-Native Network 에 대하여 다음 내용을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/29738",
+    "k": "1교시형",
+    "q": "138정-4-03"
+   },
+   {
+    "t": "6G 이동통신기술 핵심 개념인 AI-Native Network 에 대하여 다음 내용을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/18685",
+    "k": "2교시형",
+    "q": "138정-4-03"
+   }
+  ],
+  "nw_SixG": [
+   {
+    "t": "6G 이동통신기술 핵심 개념인 AI-Native Network 에 대하여 다음 내용을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/29688",
+    "k": "1교시형",
+    "q": "138정-4-03"
+   },
+   {
+    "t": "6G 이동통신기술 핵심 개념인 AI-Native Network 에 대하여 다음 내용을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/29738",
+    "k": "1교시형",
+    "q": "138정-4-03"
+   },
+   {
+    "t": "6G 이동통신기술 핵심 개념인 AI-Native Network 에 대하여 다음 내용을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/18685",
+    "k": "2교시형",
+    "q": "138정-4-03"
+   },
+   {
+    "t": "6G이동통신기술에 대해여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/21486",
+    "k": "1교시형",
+    "q": "135정-2-04"
+   },
+   {
+    "t": "6G이동통신기술에 대해여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/28810",
+    "k": "2교시형",
+    "q": "135정-2-04"
+   },
+   {
+    "t": "5G와 6G 이동통신에 대한 특징과 발전 동향에 대하여 설명하시오.   (128컴)",
+    "u": "https://cafe.naver.com/strnd/15089",
+    "k": "1교시형",
+    "q": "128컴-4-02"
+   },
+   {
+    "t": "6G 이동통신을 위한 위성-상공-지상 통합형 무선 네트워크(Satelite-Aerial-Terrestrial Integrated Network,",
+    "u": "https://cafe.naver.com/strnd/24389",
+    "k": "1교시형",
+    "q": "128정-4-03"
+   },
+   {
+    "t": "6G 이동통신을 위한 위성-상공-지상 통합형 무선 네트워크(Satelite-Aerial-Terrestrial Integrated Network,",
+    "u": "https://cafe.naver.com/strnd/13829",
+    "k": "2교시형",
+    "q": "128정-4-03"
+   }
+  ],
+  "nw_ErrorControl": [
+   {
+    "t": "데이터 통신에서 신뢰성 있는 전송을 보장하기 위한 오류 제어(Error Control) 기술에",
+    "u": "https://cafe.naver.com/strnd/25048",
+    "k": "2교시형",
+    "q": "138정-4-04"
+   },
+   {
+    "t": "빅 엔디언(Big Endian) 과 리틀 엔디언(Little Endian)   (126정)",
+    "u": "https://cafe.naver.com/strnd/7349",
+    "k": "1교시형",
+    "q": "126정-1-11"
+   },
+   {
+    "t": "데이터링크 계층은 네트워크에서 오류제어를 담당한다. 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/11278",
+    "k": "1교시형",
+    "q": "125컴-4-03"
+   },
+   {
+    "t": "데이터링크 계층은 네트워크에서 오류제어를 담당한다. 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/1733",
+    "k": "2교시형",
+    "q": "125컴-4-03"
+   }
+  ],
+  "sc_Ransomware": [
+   {
+    "t": "랜섬웨어는 단순 암호화 공격을 넘어 RaaS(Ransomware-as-aService) 형태로 진화하고 있다. 랜섬웨어 공격의 최신 동향과 이에",
+    "u": "https://cafe.naver.com/strnd/19461",
+    "k": "1교시형",
+    "q": "138컴-4-01"
+   }
+  ],
+  "sc_PET": [
+   {
+    "t": "PET(Privacy Enhanced Technology) (138컴)",
+    "u": "https://cafe.naver.com/strnd/26847",
+    "k": "1교시형",
+    "q": "138컴-1-07"
+   },
+   {
+    "t": "인공지능(AI) 기술 확산으로 데이터의 가치가 증대됨에 따라, 프라이버시를 보호하면서도 데이터의 활용성을 극대화할 수 있는 개인정보 보호 강화기",
+    "u": "https://cafe.naver.com/strnd/28916",
+    "k": "2교시형",
+    "q": "138정-4-06"
+   }
+  ],
+  "sc_ISMSP": [
+   {
+    "t": "ISMS-P와 ISMS를 비교 (138정)",
+    "u": "https://cafe.naver.com/strnd/30191",
+    "k": "1교시형",
+    "q": "138정-1-01b2"
+   },
+   {
+    "t": "ISMS-P와 ISMS를 비교 (138정)",
+    "u": "https://cafe.naver.com/strnd/18683",
+    "k": "2교시형",
+    "q": "138정-1-01b2"
+   },
+   {
+    "t": "최근 정보보호 및 개인정보보호 관리체계 인증(ISMS-P)에 대한 간편인증이 발표 되었다. 다음에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/28899",
+    "k": "1교시형",
+    "q": "134컴-2-03"
+   },
+   {
+    "t": "최근 정보보호 및 개인정보보호 관리체계 인증(ISMS-P)에 대한 간편인증이 발표 되었다. 다음에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/26787",
+    "k": "2교시형",
+    "q": "134컴-2-03"
+   }
+  ],
+  "dg_SAELevel": [
+   {
+    "t": "ADAS(Advanced Driver Assistance System)와 ADS(Automated Driving System)의 차이점 (138",
+    "u": "https://cafe.naver.com/strnd/32952",
+    "k": "1교시형",
+    "q": "138컴-1-02"
+   },
+   {
+    "t": "ADAS(Advanced Driver Assistance System)와 ADS(Automated Driving System)의 차이점 (138",
+    "u": "https://cafe.naver.com/strnd/8387",
+    "k": "2교시형",
+    "q": "138컴-1-02"
+   }
+  ],
+  "se_DevOps": [
+   {
+    "t": "MLOps와 DevOps를 비교 (138컴)",
+    "u": "https://cafe.naver.com/strnd/14472",
+    "k": "1교시형",
+    "q": "138컴-1-03"
+   },
+   {
+    "t": "DevOps 장점과 단점(136정)",
+    "u": "https://cafe.naver.com/strnd/30372",
+    "k": "1교시형",
+    "q": "136정-1-06"
+   },
+   {
+    "t": "데이터옵스(DataOps)의 주요 기술을 설명하고, 데브옵스(DevOps)와의 차이점을 설명하시오   (131컴)",
+    "u": "https://cafe.naver.com/strnd/19720",
+    "k": "2교시형",
+    "q": "131컴-3-06"
+   },
+   {
+    "t": "데이터옵스(DataOps)와 데브옵스(DevOps)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32580",
+    "k": "1교시형",
+    "q": "130정-4-06"
+   },
+   {
+    "t": "데브옵스(DevOps)   (125정)",
+    "u": "https://cafe.naver.com/strnd/2118",
+    "k": "1교시형",
+    "q": "125정-1-07"
+   }
+  ],
+  "ai_MLOps": [
+   {
+    "t": "MLOps와 DevOps를 비교 (138컴)",
+    "u": "https://cafe.naver.com/strnd/14472",
+    "k": "1교시형",
+    "q": "138컴-1-03"
+   }
+  ],
+  "os_Deadlock": [
+   {
+    "t": "데드락(Deadlock)의 발생 조건 (138컴)",
+    "u": "https://cafe.naver.com/strnd/17518",
+    "k": "1교시형",
+    "q": "138컴-1-09"
+   },
+   {
+    "t": "데드락(Deadlock)의 발생 조건 (138컴)",
+    "u": "https://cafe.naver.com/strnd/28429",
+    "k": "2교시형",
+    "q": "138컴-1-09"
+   },
+   {
+    "t": "운영체제의 기아현상(Starvation)에 대하여 다음 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32222",
+    "k": "2교시형",
+    "q": "137컴-2-03"
+   },
+   {
+    "t": "교착 상태(Deadlock)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/26225",
+    "k": "1교시형",
+    "q": "134컴-2-05"
+   },
+   {
+    "t": "운영체제에서 발생할 수 있는 deadlock 현상에 대하여 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/28371",
+    "k": "2교시형",
+    "q": "132컴-4-04"
+   }
+  ],
+  "ca_NVM": [
+   {
+    "t": "FRAM(Ferroelectric RAM) (138컴)",
+    "u": "https://cafe.naver.com/strnd/32943",
+    "k": "1교시형",
+    "q": "138컴-1-11"
+   }
+  ],
+  "ca_SemiMemory": [
+   {
+    "t": "ROM(ReadOnlyMemory)의 주요 기능을 설명하고, ROM의 종류에 대하여 설명하시오. (138컴)",
+    "u": "https://cafe.naver.com/strnd/32899",
+    "k": "1교시형",
+    "q": "138컴-3-04"
+   },
+   {
+    "t": "FRAM(Ferroelectric RAM) (138컴)",
+    "u": "https://cafe.naver.com/strnd/32943",
+    "k": "1교시형",
+    "q": "138컴-1-11"
+   },
+   {
+    "t": "반도체 생태계를 차지하고자 하는 글로벌 기업들의 소리없는 전쟁이 계속되고 있다. 우리나라는 메모리 반도체의 강국이지만 비메모리 반도체 분야에서는",
+    "u": "https://cafe.naver.com/strnd/24765",
+    "k": "1교시형",
+    "q": "129정-4-03"
+   },
+   {
+    "t": "반도체 생태계를 차지하고자 하는 글로벌 기업들의 소리없는 전쟁이 계속되고 있다. 우리나라는 메모리 반도체의 강국이지만 비메모리 반도체 분야에서는",
+    "u": "https://cafe.naver.com/strnd/15510",
+    "k": "2교시형",
+    "q": "129정-4-03"
+   },
+   {
+    "t": "반도체 생태계를 차지하고자 하는 글로벌 기업들의 소리없는 전쟁이 계속되고 있다. 우리나라는 메모리 반도체의 강국이지만 비메모리 반도체 분야에서는",
+    "u": "https://cafe.naver.com/strnd/15539",
+    "k": "2교시형",
+    "q": "129정-4-03"
+   },
+   {
+    "t": "DDR SDRAM(Double Date Rate Synchronous DRAM)의 갱신(Refresh)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/20755",
+    "k": "2교시형",
+    "q": "129컴-3-06"
+   },
+   {
+    "t": "DRAM(Dynamic RAM)과 SRAM(Static RAM)   (125컴)",
+    "u": "https://cafe.naver.com/strnd/26485",
+    "k": "1교시형",
+    "q": "125컴-1-04"
+   }
+  ],
+  "ca_SSD": [
+   {
+    "t": "SSD(Solid State Drive) 장·단점 (138컴)",
+    "u": "https://cafe.naver.com/strnd/32944",
+    "k": "1교시형",
+    "q": "138컴-1-12"
+   },
+   {
+    "t": "대용량 비휘발성 저장장치로 불리우는 SSD(Solid State Drive) 제어기의 플래시 변환 계층(Flash Translation Laye",
+    "u": "https://cafe.naver.com/strnd/20783",
+    "k": "1교시형",
+    "q": "128컴-4-04"
+   },
+   {
+    "t": "플래시 메모리(Flash Memory)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/11444",
+    "k": "2교시형",
+    "q": "126컴-3-04"
+   }
+  ],
+  "os_SysCall": [
+   {
+    "t": "시스템 콜(System Call) (138컴)",
+    "u": "https://cafe.naver.com/strnd/32900",
+    "k": "1교시형",
+    "q": "138컴-1-13"
+   },
+   {
+    "t": "시스템 콜(System Call) (138컴)",
+    "u": "https://cafe.naver.com/strnd/11450",
+    "k": "2교시형",
+    "q": "138컴-1-13"
+   },
+   {
+    "t": "운영체제 다중 프로그래밍 환경에서 이중 모드(Dual mode) 구조에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/30661",
+    "k": "1교시형",
+    "q": "125컴-4-04"
+   }
+  ],
+  "ai_Neuromorphic": [
+   {
+    "t": "뉴로모픽 컴퓨팅(Neuromorphic Computing)과 기존 폰 노이만 아키텍처에 대하여 다음 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/20845",
+    "k": "1교시형",
+    "q": "138컴-2-01"
+   },
+   {
+    "t": "뉴로모픽 컴퓨팅(Neuromorphic Computing)과 기존 폰 노이만 아키텍처에 대하여 다음 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/25541",
+    "k": "1교시형",
+    "q": "138컴-2-01"
+   },
+   {
+    "t": "뉴로모픽 컴퓨팅(Neuromorphic Computing)과 기존 폰 노이만 아키텍처에 대하여 다음 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/5885",
+    "k": "1교시형",
+    "q": "138컴-2-01"
+   }
+  ],
+  "ca_VonNeumann": [
+   {
+    "t": "뉴로모픽 컴퓨팅(Neuromorphic Computing)과 기존 폰 노이만 아키텍처에 대하여 다음 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/20845",
+    "k": "1교시형",
+    "q": "138컴-2-01"
+   },
+   {
+    "t": "뉴로모픽 컴퓨팅(Neuromorphic Computing)과 기존 폰 노이만 아키텍처에 대하여 다음 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/25541",
+    "k": "1교시형",
+    "q": "138컴-2-01"
+   },
+   {
+    "t": "뉴로모픽 컴퓨팅(Neuromorphic Computing)과 기존 폰 노이만 아키텍처에 대하여 다음 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/5885",
+    "k": "1교시형",
+    "q": "138컴-2-01"
+   }
+  ],
+  "sc_OWASPTop10": [
+   {
+    "t": "대규모 언어 모델(LLM)이 서버·클라우드·엣지 환경에 적용되면서 새로운 보안 및 운영 문제가 발생하고 있다. OWASP의 LLM보안 위협을 중",
+    "u": "https://cafe.naver.com/strnd/18868",
+    "k": "1교시형",
+    "q": "138컴-2-02"
+   },
+   {
+    "t": "대규모 언어 모델(LLM)이 서버·클라우드·엣지 환경에 적용되면서 새로운 보안 및 운영 문제가 발생하고 있다. OWASP의 LLM보안 위협을 중",
+    "u": "https://cafe.naver.com/strnd/32450",
+    "k": "2교시형",
+    "q": "138컴-2-02"
+   }
+  ],
+  "os_Scheduling": [
+   {
+    "t": "운영체제의 프로세스 스케줄링에 대하여 다음 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/628",
+    "k": "1교시형",
+    "q": "138컴-2-05"
+   },
+   {
+    "t": "운영체제의 프로세스 스케줄링에 대하여 다음 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/760",
+    "k": "1교시형",
+    "q": "138컴-2-05"
+   },
+   {
+    "t": "운영체제의 프로세스 스케줄링에 대하여 다음 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/27944",
+    "k": "2교시형",
+    "q": "138컴-2-05"
+   },
+   {
+    "t": "운영체제 스케줄링 기법에 대한 각 내용을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/28455",
+    "k": "2교시형",
+    "q": "137정-3-01"
+   },
+   {
+    "t": "운영체제 스케줄링 기법에 대한 각 내용을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32212",
+    "k": "2교시형",
+    "q": "137정-3-01"
+   },
+   {
+    "t": "운영체제의 스케줄링 알고리즘에 대하여 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/13252",
+    "k": "1교시형",
+    "q": "135컴-3-04"
+   },
+   {
+    "t": "운영체제의 스케줄링 알고리즘에 대하여 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/26630",
+    "k": "2교시형",
+    "q": "135컴-3-04"
+   },
+   {
+    "t": "운영체제의 스케줄링 알고리즘에 대하여 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/28438",
+    "k": "2교시형",
+    "q": "135컴-3-04"
+   },
+   {
+    "t": "운영체제의 스케줄링 알고리즘에 대하여 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/28449",
+    "k": "2교시형",
+    "q": "135컴-3-04"
+   }
+  ],
+  "dg_AutoShip": [
+   {
+    "t": "최근 조선 산업의 성장과 더불어 조선과 IT의 융합이 이루어지며, 스마트 선박이 대두되고 있다. 국제해사기구(IMO)의 자율운항선박 자율화 등급",
+    "u": "https://cafe.naver.com/strnd/32982",
+    "k": "1교시형",
+    "q": "138컴-4-05"
+   }
+  ],
+  "nw_SAN": [
+   {
+    "t": "최근 조선 산업의 성장과 더불어 조선과 IT의 융합이 이루어지며, 스마트 선박이 대두되고 있다. 국제해사기구(IMO)의 자율운항선박 자율화 등급",
+    "u": "https://cafe.naver.com/strnd/32982",
+    "k": "1교시형",
+    "q": "138컴-4-05"
+   }
+  ],
+  "db_Replication": [
+   {
+    "t": "최근 공공망 배터리 화재로 인한 공공망 복구 지연 문제와 관련하여 인프라 관리,백업·복구,이중화 등의 관점에서 문제점 및 보완 대응 사항을 설명",
+    "u": "https://cafe.naver.com/strnd/33509",
+    "k": "2교시형",
+    "q": "138컴-4-06"
+   }
+  ],
+  "dg_APIM": [
+   {
+    "t": "동적 라우팅 프로토콜인 IGP(Interior Gateway Protocol)와 EGP(Exterior Gateway Protocol)를 설명하",
+    "u": "https://cafe.naver.com/strnd/32428",
+    "k": "1교시형",
+    "q": "137정-1-01"
+   }
+  ],
+  "nw_Routing": [
+   {
+    "t": "동적 라우팅 프로토콜인 IGP(Interior Gateway Protocol)와 EGP(Exterior Gateway Protocol)를 설명하",
+    "u": "https://cafe.naver.com/strnd/32428",
+    "k": "1교시형",
+    "q": "137정-1-01"
+   },
+   {
+    "t": "Ad-hoc 라우팅 프로토콜과 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/16065",
+    "k": "1교시형",
+    "q": "129컴-4-02"
+   }
+  ],
+  "nw_IGPEGP": [
+   {
+    "t": "동적 라우팅 프로토콜인 IGP(Interior Gateway Protocol)와 EGP(Exterior Gateway Protocol)를 설명하",
+    "u": "https://cafe.naver.com/strnd/32428",
+    "k": "1교시형",
+    "q": "137정-1-01"
+   }
+  ],
+  "sc_Forensics": [
+   {
+    "t": "디지털 포렌식에서 아트팩트(Artifact)를 설명하시오 (137정)",
+    "u": "https://cafe.naver.com/strnd/32427",
+    "k": "1교시형",
+    "q": "137정-1-02"
+   },
+   {
+    "t": "최근 많은 범죄들이 지능화, 고도화 되면서 디지털 포렌식의 중요성이 증가하고 있다.",
+    "u": "https://cafe.naver.com/strnd/15027",
+    "k": "1교시형",
+    "q": "130정-4-02"
+   },
+   {
+    "t": "최근 많은 범죄들이 지능화, 고도화 되면서 디지털 포렌식의 중요성이 증가하고 있다.",
+    "u": "https://cafe.naver.com/strnd/19458",
+    "k": "2교시형",
+    "q": "130정-4-02"
+   },
+   {
+    "t": "디지털 포렌식(forensic) 과정에서 실제로 증거를 수집하려면 네트워크, 시스템, 데이터베이스 및 응용 프로그램 등 다양한 분야에 관한 지식",
+    "u": "https://cafe.naver.com/strnd/12963",
+    "k": "2교시형",
+    "q": "128컴-3-03"
+   },
+   {
+    "t": "파일슬랙(File Slack)   (126정)",
+    "u": "https://cafe.naver.com/strnd/13755",
+    "k": "1교시형",
+    "q": "126정-1-13"
+   },
+   {
+    "t": "디지털 포렌식(Digital Forensic)의 증거수집을 중 하나인 파일 카빙(FC : File Carving)에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/7224",
+    "k": "1교시형",
+    "q": "126정-4-06"
+   },
+   {
+    "t": "디지털 포렌식(Digital Forensic)의 증거수집을 중 하나인 파일 카빙(FC : File Carving)에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/5316",
+    "k": "2교시형",
+    "q": "126정-4-06"
+   }
+  ],
+  "nw_Modbus": [
+   {
+    "t": "MODBUS 프로토콜을 설명하시오(137정)",
+    "u": "https://cafe.naver.com/strnd/32350",
+    "k": "1교시형",
+    "q": "137정-1-03"
+   }
+  ],
+  "ai_GNN": [
+   {
+    "t": "GNN(Graph Neural Network)을 설명하시오(137정)",
+    "u": "https://cafe.naver.com/strnd/32586",
+    "k": "1교시형",
+    "q": "137정-1-05"
+   }
+  ],
+  "ai_AIGovernance": [
+   {
+    "t": "AI 거버넌스(Artificial Intelligence Governance)를 설명하시오(137정)",
+    "u": "https://cafe.naver.com/strnd/32410",
+    "k": "1교시형",
+    "q": "137정-1-06"
+   }
+  ],
+  "ai_MoE": [
+   {
+    "t": "트랜스포머(Transformer)와 MoE(Mixture of Experts)를 설명하시오.(137정)",
+    "u": "https://cafe.naver.com/strnd/32555",
+    "k": "1교시형",
+    "q": "137정-1-07"
+   }
+  ],
+  "ai_Transformer": [
+   {
+    "t": "트랜스포머(Transformer)와 MoE(Mixture of Experts)를 설명하시오.(137정)",
+    "u": "https://cafe.naver.com/strnd/32555",
+    "k": "1교시형",
+    "q": "137정-1-07"
+   }
+  ],
+  "ai_CAT": [
+   {
+    "t": "AI 신뢰성 검인증 제도(CAT)를 설명하시오(137정)",
+    "u": "https://cafe.naver.com/strnd/32570",
+    "k": "1교시형",
+    "q": "137정-1-08"
+   }
+  ],
+  "st_BayesAB": [
+   {
+    "t": "A/B 테스팅을 설명하시오.(137정)",
+    "u": "https://cafe.naver.com/strnd/32307",
+    "k": "1교시형",
+    "q": "137정-1-09"
+   }
+  ],
+  "dg_DataLake": [
+   {
+    "t": "데이터 늪(Data Swamp)을 설명하시오.(137정)",
+    "u": "https://cafe.naver.com/strnd/32701",
+    "k": "1교시형",
+    "q": "137정-1-10"
+   }
+  ],
+  "ds_BST": [
+   {
+    "t": "이진 탐색 트리를 설명하시오.(137정)",
+    "u": "https://cafe.naver.com/strnd/32545",
+    "k": "1교시형",
+    "q": "137정-1-12"
+   },
+   {
+    "t": "이진 탐색 트리를 설명하시오.(137정)",
+    "u": "https://cafe.naver.com/strnd/30536",
+    "k": "2교시형",
+    "q": "137정-1-12"
+   }
+  ],
+  "ai_AssocRule": [
+   {
+    "t": "데이터마이닝의 연관 규칙 분석(Association Rule Analysis) 지표를 설명하시오.(137정)",
+    "u": "https://cafe.naver.com/strnd/32708",
+    "k": "1교시형",
+    "q": "137정-1-13"
+   }
+  ],
+  "ai_DataMining": [
+   {
+    "t": "데이터마이닝의 연관 규칙 분석(Association Rule Analysis) 지표를 설명하시오.(137정)",
+    "u": "https://cafe.naver.com/strnd/32708",
+    "k": "1교시형",
+    "q": "137정-1-13"
+   },
+   {
+    "t": "음성데이터 마이닝의 정의, 목적, 주요 기술, 활용 가능 분야, 발전 방향에 대하여 기술하시오.   (130정)",
+    "u": "https://cafe.naver.com/strnd/22764",
+    "k": "2교시형",
+    "q": "130정-4-01"
+   },
+   {
+    "t": "데이터 마이닝 기법 중 아래 기법에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/31327",
+    "k": "2교시형",
+    "q": "130정-2-01"
+   },
+   {
+    "t": "데이터 마이닝(Data Mining)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/13192",
+    "k": "2교시형",
+    "q": "129정-3-03"
+   }
+  ],
+  "ca_Cache": [
+   {
+    "t": "캐시 메모리(Cache Memory)에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/26508",
+    "k": "1교시형",
+    "q": "137정-2-01"
+   },
+   {
+    "t": "캐시 메모리(Cache Memory)에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32211",
+    "k": "2교시형",
+    "q": "137정-2-01"
+   },
+   {
+    "t": "캐쉬 메모리(Cache Memory)에 대하여 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/29929",
+    "k": "2교시형",
+    "q": "135컴-2-04"
+   },
+   {
+    "t": "컴퓨터 시스템의 캐시(Cache) 메모리와 관련하여 아래 사항을 설명하시오",
+    "u": "https://cafe.naver.com/strnd/17347",
+    "k": "1교시형",
+    "q": "132컴-4-01"
+   },
+   {
+    "t": "컴퓨터 시스템의 캐시(Cache) 메모리와 관련하여 아래 사항을 설명하시오",
+    "u": "https://cafe.naver.com/strnd/23112",
+    "k": "2교시형",
+    "q": "132컴-4-01"
+   },
+   {
+    "t": "캐쉬 메모리(Cache Memory)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/20129",
+    "k": "1교시형",
+    "q": "131컴-4-03"
+   },
+   {
+    "t": "캐쉬 메모리(Cache Memory)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/20886",
+    "k": "2교시형",
+    "q": "131컴-4-03"
+   },
+   {
+    "t": "캐쉬 메모리(Cache Memory)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/26629",
+    "k": "2교시형",
+    "q": "131컴-4-03"
+   }
+  ],
+  "se_SLA": [
+   {
+    "t": "(A)기업은 전자상거래 정보시스템 개발 프로젝트를 완료하고 운영으로 전환하고자 한다. 각 항목을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/23696",
+    "k": "1교시형",
+    "q": "137정-2-02"
+   },
+   {
+    "t": "(A)기업은 전자상거래 정보시스템 개발 프로젝트를 완료하고 운영으로 전환하고자 한다. 각 항목을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/31004",
+    "k": "2교시형",
+    "q": "137정-2-02"
+   }
+  ],
+  "ai_MCP": [
+   {
+    "t": "MCP(Model Context Protocol)를 이용한 인공지능 서비스 구축시 보안 취약점을 설명하고 대응방안을 제시하시오(137정)",
+    "u": "https://cafe.naver.com/strnd/30256",
+    "k": "1교시형",
+    "q": "137정-2-03"
+   }
+  ],
+  "ai_PublicAIGuide": [
+   {
+    "t": "\"공공부문 초거대 AI 도입, 활용 가이드라인 2.0\"에 대하여 다음을 설명하시오",
+    "u": "https://cafe.naver.com/strnd/12947",
+    "k": "1교시형",
+    "q": "137정-2-04"
+   },
+   {
+    "t": "\"공공부문 초거대 AI 도입, 활용 가이드라인 2.0\"에 대하여 다음을 설명하시오",
+    "u": "https://cafe.naver.com/strnd/32567",
+    "k": "2교시형",
+    "q": "137정-2-04"
+   },
+   {
+    "t": "최근 초거대 인공지능(Al: Artificial Intelligence) 도입 및 활용에 필요한 사항을 담은 \"공공 부문 초거대 AI 도입•활용",
+    "u": "https://cafe.naver.com/strnd/27329",
+    "k": "2교시형",
+    "q": "134컴-2-02"
+   }
+  ],
+  "se_SWTest": [
+   {
+    "t": "소프트웨어 테스트 중 동적 테스트에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32638",
+    "k": "2교시형",
+    "q": "137정-2-05"
+   },
+   {
+    "t": "소프트웨어 테스트에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/29334",
+    "k": "2교시형",
+    "q": "134정-3-02"
+   },
+   {
+    "t": "소프트웨어 테스트 유형 중 뮤테이션 테스트(Mutation Test)에 대하여 설명하시오.   (133정)",
+    "u": "https://cafe.naver.com/strnd/27500",
+    "k": "1교시형",
+    "q": "133정-1-02"
+   },
+   {
+    "t": "정보시스템 개발과 운영 단계에서 수행되는 소프트웨어 테스트의 종류를 쓰고, 이 중 신뢰성 테스트와 이식성 테스트의 세부 활동에 대하여 각각 설명",
+    "u": "https://cafe.naver.com/strnd/27520",
+    "k": "2교시형",
+    "q": "133정-4-02"
+   },
+   {
+    "t": "정보시스템 개발 및 운영 단계에서 수행하는 소프트웨어 테스트와 관련하여 다음 사항에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/19922",
+    "k": "2교시형",
+    "q": "129정-4-04"
+   }
+  ],
+  "se_DynamicTest": [
+   {
+    "t": "소프트웨어 테스트 중 동적 테스트에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32638",
+    "k": "2교시형",
+    "q": "137정-2-05"
+   }
+  ],
+  "ai_Text2SQL": [
+   {
+    "t": "TEXT2SQL 에 대하여 다음 각 항목을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/29614",
+    "k": "1교시형",
+    "q": "137정-2-06"
+   },
+   {
+    "t": "TEXT2SQL 에 대하여 다음 각 항목을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32572",
+    "k": "2교시형",
+    "q": "137정-2-06"
+   }
+  ],
+  "pr_ISAudit": [
+   {
+    "t": "정보시스템 감리의 시스템 운영 및 유지보수 감리에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32664",
+    "k": "2교시형",
+    "q": "137정-3-02"
+   },
+   {
+    "t": "정보시스템 구축 사업의 성공적인 수행을 위해 정보시스템 감리와 PMO(전자정부사업관리 위탁)를 활용하여 사업관리를 수행하고 있다. 이와 관련하여",
+    "u": "https://cafe.naver.com/strnd/31784",
+    "k": "1교시형",
+    "q": "136정-2-02"
+   },
+   {
+    "t": "정보시스템 구축 사업의 성공적인 수행을 위해 정보시스템 감리와 PMO(전자정부사업관리 위탁)를 활용하여 사업관리를 수행하고 있다. 이와 관련하여",
+    "u": "https://cafe.naver.com/strnd/32666",
+    "k": "2교시형",
+    "q": "136정-2-02"
+   },
+   {
+    "t": "정보시스템 감리와 PMO(Project Management Office) 비교   (131정)",
+    "u": "https://cafe.naver.com/strnd/19213",
+    "k": "1교시형",
+    "q": "131정-1-06"
+   },
+   {
+    "t": "정보시스템 감리기준 고시(2021-4호, 2021.1.19)에 의거한 현장감리의 활동, 작업내용을 기술하고 PMO(Project Manageme",
+    "u": "https://cafe.naver.com/strnd/19932",
+    "k": "1교시형",
+    "q": "129정-1-04"
+   },
+   {
+    "t": "사업유형이 정보시스템 개발인 경우 정보시스템 감리 점검 프레임워크 V3.0에 따라 다음 두 모델에 대하여 감리시점과 감리영역을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/1992",
+    "k": "2교시형",
+    "q": "125컴-2-04"
+   }
+  ],
+  "dg_DR": [
+   {
+    "t": "다중지역 동시 가동방식 (Multi-Region Active-Active) 재해복구시스템에 대하여 다음을 설명하시오",
+    "u": "https://cafe.naver.com/strnd/32699",
+    "k": "2교시형",
+    "q": "137정-3-03"
+   },
+   {
+    "t": "BCP(Business Continuity Planning) 수립 시의 주요 지표와 DRS(Disaster Recovery System) 구축 ",
+    "u": "https://cafe.naver.com/strnd/27731",
+    "k": "1교시형",
+    "q": "133정-1-09"
+   },
+   {
+    "t": "최근 대규모 공공 차세대 시스템이 오픈 이후에 많은 문제점이 발생되어 사회적 불편을",
+    "u": "https://cafe.naver.com/strnd/15906",
+    "k": "2교시형",
+    "q": "129정-2-04"
+   }
+  ],
+  "db_IsolationLevel": [
+   {
+    "t": "데이터베이스 트랜잭션 격리 수준(Transactional Isolation Level)과 관련하여 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/30670",
+    "k": "2교시형",
+    "q": "137정-3-04"
+   },
+   {
+    "t": "팬텀 충돌(Phantom Conflict) (135정)",
+    "u": "https://cafe.naver.com/strnd/29388",
+    "k": "1교시형",
+    "q": "135정-1-11"
+   },
+   {
+    "t": "트랜잭션 격리 수준(Transaction Isolation Level) 4가지를 사례 중심으로 설명하시오  (134정)",
+    "u": "https://cafe.naver.com/strnd/27788",
+    "k": "1교시형",
+    "q": "134정-2-06"
+   },
+   {
+    "t": "트랜잭션 격리 수준(Transaction Isolation Level) 4가지를 사례 중심으로 설명하시오  (134정)",
+    "u": "https://cafe.naver.com/strnd/29448",
+    "k": "2교시형",
+    "q": "134정-2-06"
+   }
+  ],
+  "nw_OSI": [
+   {
+    "t": "통신 프로토콜에 대하여 각 항목을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32471",
+    "k": "2교시형",
+    "q": "137정-3-05"
+   },
+   {
+    "t": "OSI 7 계층(Layer)에 대하여 계층 별 다음 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/31191",
+    "k": "1교시형",
+    "q": "134컴-2-06"
+   },
+   {
+    "t": "OSI 7 계층(Layer)에 대하여 계층 별 다음 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/28767",
+    "k": "2교시형",
+    "q": "134컴-2-06"
+   },
+   {
+    "t": "네트워크 스위치(Network Switch)와 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/19424",
+    "k": "2교시형",
+    "q": "129컴-3-02"
+   },
+   {
+    "t": "계층구조의 통신 프로토콜 설계 시 고려해야 할 다음 각 요소에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/30557",
+    "k": "1교시형",
+    "q": "128컴-3-01"
+   },
+   {
+    "t": "계층구조의 통신 프로토콜 설계 시 고려해야 할 다음 각 요소에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/11680",
+    "k": "2교시형",
+    "q": "128컴-3-01"
+   },
+   {
+    "t": "네트워크에서 다음 각 주소의 개념과 구조를 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/13745",
+    "k": "2교시형",
+    "q": "128컴-2-01"
+   }
+  ],
+  "sc_N2SF": [
+   {
+    "t": "2025 년 1 월 국가정보원에서는 공공기관을 대상으로 국가 망 보안체계(Naional Network Framework, N2SF)보안 가이드라",
+    "u": "https://cafe.naver.com/strnd/32444",
+    "k": "2교시형",
+    "q": "137정-3-06"
+   }
+  ],
+  "db_VectorDB": [
+   {
+    "t": "벡터 데이터베이스(Vector Database)의 효율적 검색을 위한",
+    "u": "https://cafe.naver.com/strnd/32753",
+    "k": "2교시형",
+    "q": "137정-4-02"
+   }
+  ],
+  "ds_VectorIndex": [
+   {
+    "t": "벡터 데이터베이스(Vector Database)의 효율적 검색을 위한",
+    "u": "https://cafe.naver.com/strnd/32753",
+    "k": "2교시형",
+    "q": "137정-4-02"
+   }
+  ],
+  "dg_Kubernetes": [
+   {
+    "t": "쿠버네티스(Kubernetes)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/27049",
+    "k": "1교시형",
+    "q": "137정-4-03"
+   },
+   {
+    "t": "쿠버네티스(Kubernetes)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32354",
+    "k": "2교시형",
+    "q": "137정-4-03"
+   }
+  ],
+  "se_UML": [
+   {
+    "t": "UML(Unified Modeling Language)에서 사용하는 행위 다이어그램(Behavior Diagram)인 활동 다이어그램(Activ",
+    "u": "https://cafe.naver.com/strnd/5935",
+    "k": "1교시형",
+    "q": "137정-4-04"
+   },
+   {
+    "t": "UML(Unified Modeling Language)에서 사용하는 행위 다이어그램(Behavior Diagram)인 활동 다이어그램(Activ",
+    "u": "https://cafe.naver.com/strnd/32639",
+    "k": "2교시형",
+    "q": "137정-4-04"
+   },
+   {
+    "t": "UML 2.0의 순차 다이어그램(Sequence Diagram)에 대한 아래의 사항을 작성하시오.",
+    "u": "https://cafe.naver.com/strnd/25701",
+    "k": "1교시형",
+    "q": "127정-4-05"
+   },
+   {
+    "t": "UML 2.0의 순차 다이어그램(Sequence Diagram)에 대한 아래의 사항을 작성하시오.",
+    "u": "https://cafe.naver.com/strnd/14497",
+    "k": "2교시형",
+    "q": "127정-4-05"
+   }
+  ],
+  "se_UserStory": [
+   {
+    "t": "UML(Unified Modeling Language)에서 사용하는 행위 다이어그램(Behavior Diagram)인 활동 다이어그램(Activ",
+    "u": "https://cafe.naver.com/strnd/5935",
+    "k": "1교시형",
+    "q": "137정-4-04"
+   },
+   {
+    "t": "UML(Unified Modeling Language)에서 사용하는 행위 다이어그램(Behavior Diagram)인 활동 다이어그램(Activ",
+    "u": "https://cafe.naver.com/strnd/32639",
+    "k": "2교시형",
+    "q": "137정-4-04"
+   },
+   {
+    "t": "다음 주사위게임 유스케이스(Usecase)에 대하여 작성하시오.",
+    "u": "https://cafe.naver.com/strnd/16707",
+    "k": "2교시형",
+    "q": "126정-2-04"
+   }
+  ],
+  "ai_GeneticAlgo": [
+   {
+    "t": "유전 알고리즘(Genetic Algorithm)에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32546",
+    "k": "2교시형",
+    "q": "137정-4-05"
+   }
+  ],
+  "pm_SWPricing": [
+   {
+    "t": "소프트웨어 사업 대가산정에 대하여 다음을 설명하시오",
+    "u": "https://cafe.naver.com/strnd/31715",
+    "k": "1교시형",
+    "q": "137정-4-06"
+   },
+   {
+    "t": "소프트웨어 사업 대가산정에 대하여 다음을 설명하시오",
+    "u": "https://cafe.naver.com/strnd/32692",
+    "k": "2교시형",
+    "q": "137정-4-06"
+   },
+   {
+    "t": "소프트웨어에(이하 SW) 운영단계 대가산정에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/27523",
+    "k": "2교시형",
+    "q": "132정-3-01"
+   }
+  ],
+  "nw_Streaming": [
+   {
+    "t": "멀티미디어 스트리밍 프로토콜의 종류(137정)",
+    "u": "https://cafe.naver.com/strnd/32296",
+    "k": "1교시형",
+    "q": "137정-1-01b2"
+   }
+  ],
+  "ai_OnDeviceAI": [
+   {
+    "t": "클라우드 AI와 온디바이스 AI의 개념 비교(137컴)",
+    "u": "https://cafe.naver.com/strnd/32179",
+    "k": "1교시형",
+    "q": "137컴-1-02"
+   },
+   {
+    "t": "온디바이스 AI  (134컴)",
+    "u": "https://cafe.naver.com/strnd/8795",
+    "k": "1교시형",
+    "q": "134컴-1-03"
+   },
+   {
+    "t": "온디바이스 AI  (134컴)",
+    "u": "https://cafe.naver.com/strnd/13183",
+    "k": "2교시형",
+    "q": "134컴-1-03"
+   }
+  ],
+  "dg_EdgeComputing": [
+   {
+    "t": "지능형 엣지 컴퓨팅(137컴)",
+    "u": "https://cafe.naver.com/strnd/32348",
+    "k": "2교시형",
+    "q": "137컴-1-03"
+   },
+   {
+    "t": "데이터처리의 효율성과 속도를 높이기 위한 엣지 컴퓨팅(Edge Computing)에 대하여 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/11977",
+    "k": "1교시형",
+    "q": "135컴-3-01"
+   },
+   {
+    "t": "데이터처리의 효율성과 속도를 높이기 위한 엣지 컴퓨팅(Edge Computing)에 대하여 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/28632",
+    "k": "2교시형",
+    "q": "135컴-3-01"
+   },
+   {
+    "t": "엣지 컴퓨팅(Edge Computing)의 장단점과 적용사례 및 보안취약점에 대하여 설명하시오.   (128컴)",
+    "u": "https://cafe.naver.com/strnd/9686",
+    "k": "1교시형",
+    "q": "128컴-4-03"
+   },
+   {
+    "t": "엣지 컴퓨팅(Edge Computing)의 장단점과 적용사례 및 보안취약점에 대하여 설명하시오.   (128컴)",
+    "u": "https://cafe.naver.com/strnd/21207",
+    "k": "2교시형",
+    "q": "128컴-4-03"
+   },
+   {
+    "t": "엣지컴퓨팅(Edge Computing)과 포그컴퓨팅(Fog Computiong)의 비교   (126컴)",
+    "u": "https://cafe.naver.com/strnd/22524",
+    "k": "1교시형",
+    "q": "126컴-1-12"
+   },
+   {
+    "t": "엣지컴퓨팅(Edge Computing)과 포그컴퓨팅(Fog Computiong)의 비교   (126컴)",
+    "u": "https://cafe.naver.com/strnd/25074",
+    "k": "2교시형",
+    "q": "126컴-1-12"
+   }
+  ],
+  "os_OSAccess": [
+   {
+    "t": "보안 운영체제(Secure OS)(137컴)",
+    "u": "https://cafe.naver.com/strnd/32184",
+    "k": "1교시형",
+    "q": "137컴-1-05"
+   }
+  ],
+  "se_EmbeddedTest": [
+   {
+    "t": "SIL(Software-in-the-Loop)과 HL(Hardware-in-the-Loop) 테스팅(137컴)",
+    "u": "https://cafe.naver.com/strnd/32626",
+    "k": "1교시형",
+    "q": "137컴-1-06"
+   },
+   {
+    "t": "임베디드 소프트웨어 테스트(Embedded Software Test)   (126정)",
+    "u": "https://cafe.naver.com/strnd/20892",
+    "k": "1교시형",
+    "q": "126정-1-09"
+   }
+  ],
+  "ca_HBM": [
+   {
+    "t": "HBM(High Bandwidth Memory)(137컴)",
+    "u": "https://cafe.naver.com/strnd/32217",
+    "k": "1교시형",
+    "q": "137컴-1-07"
+   }
+  ],
+  "ai_RAG": [
+   {
+    "t": "RAG(Retrieval Augmented Generation)과 Fine Tuning의 기본 개념과 대표 프레임워크(137컴)",
+    "u": "https://cafe.naver.com/strnd/32609",
+    "k": "2교시형",
+    "q": "137컴-1-08"
+   },
+   {
+    "t": "RAG(Retrieval-Augmented Generation) (135컴)",
+    "u": "https://cafe.naver.com/strnd/27283",
+    "k": "1교시형",
+    "q": "135컴-1-12"
+   },
+   {
+    "t": "RAG(Retrieval Augmented Generation)  (134정)",
+    "u": "https://cafe.naver.com/strnd/27301",
+    "k": "1교시형",
+    "q": "134정-1-13"
+   }
+  ],
+  "ai_FineTuning": [
+   {
+    "t": "RAG(Retrieval Augmented Generation)과 Fine Tuning의 기본 개념과 대표 프레임워크(137컴)",
+    "u": "https://cafe.naver.com/strnd/32609",
+    "k": "2교시형",
+    "q": "137컴-1-08"
+   },
+   {
+    "t": "파인튜닝(Fine-tuning)   (132컴)",
+    "u": "https://cafe.naver.com/strnd/24050",
+    "k": "1교시형",
+    "q": "132컴-1-11"
+   }
+  ],
+  "ai_MultimodalLLM": [
+   {
+    "t": "멀티모달(Multimodal)의 기술요소(137컴)",
+    "u": "https://cafe.naver.com/strnd/32553",
+    "k": "1교시형",
+    "q": "137컴-1-09"
+   },
+   {
+    "t": "멀티모달(Multimodal)의 기술요소(137컴)",
+    "u": "https://cafe.naver.com/strnd/31255",
+    "k": "2교시형",
+    "q": "137컴-1-09"
+   },
+   {
+    "t": "Multimodal LLM(Large Language Model) (135정)",
+    "u": "https://cafe.naver.com/strnd/28308",
+    "k": "1교시형",
+    "q": "135정-1-02"
+   },
+   {
+    "t": "「생성형 인공지능 학습을 위한 멀티모달 데이터의 품질검증 방법(정보통신단체표준, TTAK.KO-10.1558)」 에 대하여 아래 사항을 설명하시",
+    "u": "https://cafe.naver.com/strnd/28996",
+    "k": "2교시형",
+    "q": "135컴-2-01"
+   },
+   {
+    "t": "멀티모달 인공지능에 관한 다음 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/27425",
+    "k": "2교시형",
+    "q": "134컴-4-06"
+   }
+  ],
+  "sc_AISec": [
+   {
+    "t": "인공지능 시스템의 취약점(137컴)",
+    "u": "https://cafe.naver.com/strnd/32438",
+    "k": "1교시형",
+    "q": "137컴-1-11"
+   }
+  ],
+  "dg_CloudNativeSec": [
+   {
+    "t": "클라우드 네이티브 보안(137컴)",
+    "u": "https://cafe.naver.com/strnd/32469",
+    "k": "1교시형",
+    "q": "137컴-1-12"
+   }
+  ],
+  "ca_RISCV": [
+   {
+    "t": "RISC-V(137컴)",
+    "u": "https://cafe.naver.com/strnd/32185",
+    "k": "1교시형",
+    "q": "137컴-1-13"
+   }
+  ],
+  "dg_MyData": [
+   {
+    "t": "공공 마이데이터 활용 방안에 대하여 설명하시오.(137컴)",
+    "u": "https://cafe.naver.com/strnd/32425",
+    "k": "1교시형",
+    "q": "137컴-2-01"
+   },
+   {
+    "t": "공공 마이데이터 활용 방안에 대하여 설명하시오.(137컴)",
+    "u": "https://cafe.naver.com/strnd/30626",
+    "k": "2교시형",
+    "q": "137컴-2-01"
+   },
+   {
+    "t": "최근 개인정보보호위원회는 마이데이터 전송 시 개인정보의 안전한 처리를 보장하기 위한 가이드라인(마이데이터 전송 보안 안내서, 2023.09.)을",
+    "u": "https://cafe.naver.com/strnd/21480",
+    "k": "2교시형",
+    "q": "132정-2-04"
+   },
+   {
+    "t": "개정된 '데이터 3법'이 국회를 통과한 후에 데이터를 활용한 클라우드, IoT 등 여러 산업 군에서의 혁신과 신사업 개발 속도가 빨라지고 있다.",
+    "u": "https://cafe.naver.com/strnd/9256",
+    "k": "2교시형",
+    "q": "128정-2-04"
+   },
+   {
+    "t": "마이데이터 서비스에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/5532",
+    "k": "2교시형",
+    "q": "126컴-3-05"
+   }
+  ],
+  "se_SWQuality": [
+   {
+    "t": "소프트웨어 프로세스(SP, Software Process), 품질인증 제도에 대하여 다음 사항을 설명 하시오.",
+    "u": "https://cafe.naver.com/strnd/10825",
+    "k": "1교시형",
+    "q": "137컴-2-02"
+   },
+   {
+    "t": "소프트웨어 프로세스(SP, Software Process), 품질인증 제도에 대하여 다음 사항을 설명 하시오.",
+    "u": "https://cafe.naver.com/strnd/32697",
+    "k": "2교시형",
+    "q": "137컴-2-02"
+   },
+   {
+    "t": "소프트웨어 품질 속성 중 보안 품질에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/30160",
+    "k": "2교시형",
+    "q": "136정-4-06"
+   },
+   {
+    "t": "소프트웨어 품질보증과 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32063",
+    "k": "2교시형",
+    "q": "136정-3-03"
+   },
+   {
+    "t": "소프트웨어 품질성능 평가시험  (134컴)",
+    "u": "https://cafe.naver.com/strnd/27641",
+    "k": "1교시형",
+    "q": "134컴-1-13"
+   },
+   {
+    "t": "소프트웨어 프로세스 품질인증 제도의 운영과 활성화를 위하여 \"소프트웨어 프로세스 (SP: Software Process) 품질인중 운영에 관한 ",
+    "u": "https://cafe.naver.com/strnd/27626",
+    "k": "2교시형",
+    "q": "134컴-4-01"
+   },
+   {
+    "t": "최근 시스템이 복잡해지고 안전(Safety)이 중요시되면서 다양한 위험분석 방법이 적요오디고 있다. 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/19975",
+    "k": "2교시형",
+    "q": "128정-3-03"
+   },
+   {
+    "t": "소프트웨어 품질인증   (126정)",
+    "u": "https://cafe.naver.com/strnd/5781",
+    "k": "1교시형",
+    "q": "126정-1-06"
+   }
+  ],
+  "pm_QualityMgmt": [
+   {
+    "t": "소프트웨어 프로세스(SP, Software Process), 품질인증 제도에 대하여 다음 사항을 설명 하시오.",
+    "u": "https://cafe.naver.com/strnd/10825",
+    "k": "1교시형",
+    "q": "137컴-2-02"
+   },
+   {
+    "t": "소프트웨어 프로세스(SP, Software Process), 품질인증 제도에 대하여 다음 사항을 설명 하시오.",
+    "u": "https://cafe.naver.com/strnd/32697",
+    "k": "2교시형",
+    "q": "137컴-2-02"
+   },
+   {
+    "t": "행정안전부에서는 고품질의 공공데이터 제공 및 활용의 선제적 대응을 위해 '공공데이터 베이스 표준화 관리 매뉴얼(2023.04.)'을 마련하여 예",
+    "u": "https://cafe.naver.com/strnd/22835",
+    "k": "2교시형",
+    "q": "132정-4-02"
+   },
+   {
+    "t": "인공지능 학습용 데이터 허브 구축 과정에서 생성된 학습용 데이터 셋의 품질확보를 위한 주요활동과 데이터 생애 주기별 품질관리 수행절차에 대하여 ",
+    "u": "https://cafe.naver.com/strnd/24139",
+    "k": "2교시형",
+    "q": "131정-3-01"
+   },
+   {
+    "t": "최근 시스템이 복잡해지고 안전(Safety)이 중요시되면서 다양한 위험분석 방법이 적요오디고 있다. 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/19975",
+    "k": "2교시형",
+    "q": "128정-3-03"
+   }
+  ],
+  "os_Starvation": [
+   {
+    "t": "운영체제의 기아현상(Starvation)에 대하여 다음 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32222",
+    "k": "2교시형",
+    "q": "137컴-2-03"
+   }
+  ],
+  "ai_LLM": [
+   {
+    "t": "sLLM(Smaller Large Language Model)에 대하여 다음 사항을 설명하시오",
+    "u": "https://cafe.naver.com/strnd/18825",
+    "k": "1교시형",
+    "q": "137컴-2-04"
+   },
+   {
+    "t": "sLLM(Smaller Large Language Model)에 대하여 다음 사항을 설명하시오",
+    "u": "https://cafe.naver.com/strnd/32584",
+    "k": "2교시형",
+    "q": "137컴-2-04"
+   },
+   {
+    "t": "AI 기반 소프트웨어 개발에서 LLM(Large Language Model)을 도입할 때 고려해야 할보안 위험을 3 가지 이상 쓰고 각 대응 방",
+    "u": "https://cafe.naver.com/strnd/30256",
+    "k": "2교시형",
+    "q": "136정-2-03"
+   },
+   {
+    "t": "대형언어모델(LIM, Large Language Model)의 활용이 급격히 중가함에 따라 그와 관련된 보안 위협이 새롭게 대두되고 있다. OW",
+    "u": "https://cafe.naver.com/strnd/32450",
+    "k": "2교시형",
+    "q": "136정-4-05"
+   },
+   {
+    "t": "Multimodal LLM(Large Language Model) (135정)",
+    "u": "https://cafe.naver.com/strnd/28308",
+    "k": "1교시형",
+    "q": "135정-1-02"
+   },
+   {
+    "t": "최근 많은 공공기관에서 거대 언어 모델(Large Language Model)의 적용을 준비하고 있다. 다음에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/29152",
+    "k": "2교시형",
+    "q": "135정-2-05"
+   },
+   {
+    "t": "Multimodal LLM(Large Language Model) (135정)",
+    "u": "https://cafe.naver.com/strnd/31255",
+    "k": "2교시형",
+    "q": "135정-1-02"
+   },
+   {
+    "t": "자연어 언어모델에서의 PLM(Pre-trained Language Model)의 특성을 설명하고, 이 모델이 최종 LLM(Large Langua",
+    "u": "https://cafe.naver.com/strnd/27615",
+    "k": "2교시형",
+    "q": "133정-2-04"
+   }
+  ],
+  "ai_sLLM": [
+   {
+    "t": "sLLM(Smaller Large Language Model)에 대하여 다음 사항을 설명하시오",
+    "u": "https://cafe.naver.com/strnd/18825",
+    "k": "1교시형",
+    "q": "137컴-2-04"
+   },
+   {
+    "t": "sLLM(Smaller Large Language Model)에 대하여 다음 사항을 설명하시오",
+    "u": "https://cafe.naver.com/strnd/32584",
+    "k": "2교시형",
+    "q": "137컴-2-04"
+   }
+  ],
+  "pr_SWImpact": [
+   {
+    "t": "소프트웨어 영향평가에 대하여 다음 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/6630",
+    "k": "1교시형",
+    "q": "137컴-2-05"
+   },
+   {
+    "t": "소프트웨어 영향평가에 대하여 다음 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32644",
+    "k": "2교시형",
+    "q": "137컴-2-05"
+   }
+  ],
+  "ca_DMA": [
+   {
+    "t": "I/O(Input/Output) 장치와 메모리 사이에서 데이터를 직접 주고받기 위해서 사용하는 DMA(Direct Memory Access)에 ",
+    "u": "https://cafe.naver.com/strnd/5824",
+    "k": "1교시형",
+    "q": "137컴-2-06"
+   },
+   {
+    "t": "I/O(Input/Output) 장치와 메모리 사이에서 데이터를 직접 주고받기 위해서 사용하는 DMA(Direct Memory Access)에 ",
+    "u": "https://cafe.naver.com/strnd/11434",
+    "k": "2교시형",
+    "q": "137컴-2-06"
+   },
+   {
+    "t": "I/O(Input/Output) 장치와 메모리 사이에서 데이터를 직접 주고받기 위해서 사용하는 DMA(Direct Memory Access)에 ",
+    "u": "https://cafe.naver.com/strnd/32218",
+    "k": "2교시형",
+    "q": "137컴-2-06"
+   }
+  ],
+  "dg_CloudComputing": [
+   {
+    "t": "클라우드 컴퓨팅 서비스 유형에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32308",
+    "k": "2교시형",
+    "q": "137컴-3-01"
+   },
+   {
+    "t": "멀티클라우드(Multicloud) (135컴)",
+    "u": "https://cafe.naver.com/strnd/32341",
+    "k": "1교시형",
+    "q": "135컴-1-06"
+   },
+   {
+    "t": "멀티클라우드(MultiCloud)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32250",
+    "k": "2교시형",
+    "q": "135정-3-03"
+   },
+   {
+    "t": "「행정기관 및 공공기관의 클라우드 컴퓨팅 서비스 이용 기준 및 안전성 확보 등에 관한 고시」의 서비스 운영 분야 안전성 검토 항목  (134컴)",
+    "u": "https://cafe.naver.com/strnd/28691",
+    "k": "1교시형",
+    "q": "134컴-1-10"
+   },
+   {
+    "t": "클라우드 컴퓨팅의 Service Model과 Deployment Model 비교   (131정)",
+    "u": "https://cafe.naver.com/strnd/23731",
+    "k": "1교시형",
+    "q": "131정-1-04"
+   },
+   {
+    "t": "조직이 클라우드 컴퓨팅 서비스를 이용하고자 할 경우, 클라우드 서비스 제공자(CSP, Cloud Service Provider)에 대한 리스크를",
+    "u": "https://cafe.naver.com/strnd/18612",
+    "k": "2교시형",
+    "q": "129정-4-06"
+   },
+   {
+    "t": "클라우드 컴퓨팅 도입 후 클라우드에서 제공하는 다음 서비스에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/14885",
+    "k": "2교시형",
+    "q": "125컴-3-05"
+   }
+  ],
+  "os_MMU": [
+   {
+    "t": "가상메모리 주소 변환을 위해 사용하는 MMU(Memory Management Unit)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/11909",
+    "k": "1교시형",
+    "q": "137컴-3-02"
+   },
+   {
+    "t": "가상메모리 주소 변환을 위해 사용하는 MMU(Memory Management Unit)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32209",
+    "k": "2교시형",
+    "q": "137컴-3-02"
+   }
+  ],
+  "dg_OpenPlatform": [
+   {
+    "t": "제조현장에서 활용되고 있는 OPC UA(Open Platform Communications Unit Architecture)에 대하여 설명하시오",
+    "u": "https://cafe.naver.com/strnd/32500",
+    "k": "1교시형",
+    "q": "137컴-3-03"
+   },
+   {
+    "t": "개방형 API(Open API)에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/26973",
+    "k": "2교시형",
+    "q": "134정-4-04"
+   },
+   {
+    "t": "금융 환경의 변화로 최근 은행권 공동 오픈 플랫폼을 구축하여 핀테크서비스가 활성화 되고 있다. 다음 내용에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/1658",
+    "k": "1교시형",
+    "q": "125정-4-01"
+   },
+   {
+    "t": "금융 환경의 변화로 최근 은행권 공동 오픈 플랫폼을 구축하여 핀테크서비스가 활성화 되고 있다. 다음 내용에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/5061",
+    "k": "2교시형",
+    "q": "125정-4-01"
+   }
+  ],
+  "os_PriorityInversion": [
+   {
+    "t": "실시간 시스템에서 발생할 수 있는 우선순위 역전(Priority Inversion) 현상에 대하여 다음을 설명 하시오.",
+    "u": "https://cafe.naver.com/strnd/28422",
+    "k": "1교시형",
+    "q": "137컴-3-04"
+   },
+   {
+    "t": "실시간 시스템에서 발생할 수 있는 우선순위 역전(Priority Inversion) 현상에 대하여 다음을 설명 하시오.",
+    "u": "https://cafe.naver.com/strnd/17335",
+    "k": "2교시형",
+    "q": "137컴-3-04"
+   }
+  ],
+  "se_WhiteBox": [
+   {
+    "t": "샌드박스와 화이트박스의 목적, 적용 방법 및 예시를 설명 하시오.(137컴)",
+    "u": "https://cafe.naver.com/strnd/32449",
+    "k": "1교시형",
+    "q": "137컴-3-05"
+   },
+   {
+    "t": "화이트박스 테스트(White Box Test)와 블랙박스 테스트(Black Box Test)   (129정)",
+    "u": "https://cafe.naver.com/strnd/22373",
+    "k": "1교시형",
+    "q": "129정-1-08"
+   },
+   {
+    "t": "화이트박스 테스트(White Box Test)와 블랙박스 테스트(Black Box Test)   (129정)",
+    "u": "https://cafe.naver.com/strnd/5612",
+    "k": "2교시형",
+    "q": "129정-1-08"
+   }
+  ],
+  "os_MicroVM": [
+   {
+    "t": "샌드박스와 화이트박스의 목적, 적용 방법 및 예시를 설명 하시오.(137컴)",
+    "u": "https://cafe.naver.com/strnd/32449",
+    "k": "1교시형",
+    "q": "137컴-3-05"
+   },
+   {
+    "t": "샌드박스(Sandbox)의 주요 구성요소 및 활용분야   (126컴)",
+    "u": "https://cafe.naver.com/strnd/11677",
+    "k": "1교시형",
+    "q": "126컴-1-03"
+   }
+  ],
+  "ca_Bus": [
+   {
+    "t": "시스템 버스(System Bus)와 버스 중재(Bus Arbitration) 방식을 설명하시오(137컴)",
+    "u": "https://cafe.naver.com/strnd/32189",
+    "k": "1교시형",
+    "q": "137컴-3-06"
+   },
+   {
+    "t": "버스중재(Bus Arbitration) 방식   (128컴)",
+    "u": "https://cafe.naver.com/strnd/28378",
+    "k": "1교시형",
+    "q": "128컴-1-04"
+   }
+  ],
+  "ai_AIaaS": [
+   {
+    "t": "AIaaS(AI as a Service)의 개념, 특징 및 도입 시 고려사항에 대하여 설명하시오.(137컴)",
+    "u": "https://cafe.naver.com/strnd/30266",
+    "k": "1교시형",
+    "q": "137컴-4-02"
+   },
+   {
+    "t": "AIaaS(AI as a Service)의 개념, 특징 및 도입 시 고려사항에 대하여 설명하시오.(137컴)",
+    "u": "https://cafe.naver.com/strnd/32294",
+    "k": "2교시형",
+    "q": "137컴-4-02"
+   },
+   {
+    "t": "클라우드 서비스 제공자는 AIaaS(AI as a Service)를 통해 인공지능을 쉽게 이용할 수 있도록 다양한 API(Application ",
+    "u": "https://cafe.naver.com/strnd/32387",
+    "k": "1교시형",
+    "q": "128컴-3-04"
+   },
+   {
+    "t": "클라우드 서비스 제공자는 AIaaS(AI as a Service)를 통해 인공지능을 쉽게 이용할 수 있도록 다양한 API(Application ",
+    "u": "https://cafe.naver.com/strnd/19319",
+    "k": "2교시형",
+    "q": "128컴-3-04"
+   }
+  ],
+  "ai_QML": [
+   {
+    "t": "양자 머신러닝(QML, Quantum Machine Learning)의 주요 기술 및 알고리즘을 설명하고, 기존 머신러닝과 비교하시오.(137컴",
+    "u": "https://cafe.naver.com/strnd/30627",
+    "k": "2교시형",
+    "q": "137컴-4-03"
+   }
+  ],
+  "nw_DNS": [
+   {
+    "t": "DNS(Domain Name System)에 대하여 다음 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/26327",
+    "k": "1교시형",
+    "q": "137컴-4-04"
+   },
+   {
+    "t": "DNS(Domain Name System)에 대하여 다음 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32419",
+    "k": "2교시형",
+    "q": "137컴-4-04"
+   }
+  ],
+  "sc_Firewall": [
+   {
+    "t": "침입차단시스템(Firewall), 침입탐지시스템(IDS, Intrusion Detection System), 침입방지시스템(IPS, Intrus",
+    "u": "https://cafe.naver.com/strnd/32503",
+    "k": "2교시형",
+    "q": "137컴-4-05"
+   },
+   {
+    "t": "웹방화벽, 침입탐지시스템(IDS: Intrusion Detection System) 및 침입방지시스템 (IPS: Intrusion Prevent",
+    "u": "https://cafe.naver.com/strnd/26788",
+    "k": "2교시형",
+    "q": "134컴-3-06"
+   },
+   {
+    "t": "웹 애플리케이션 방화벽(WAF : Web Application Firewall)   (129컴)",
+    "u": "https://cafe.naver.com/strnd/19503",
+    "k": "1교시형",
+    "q": "129컴-1-03"
+   }
+  ],
+  "nw_VPN": [
+   {
+    "t": "침입차단시스템(Firewall), 침입탐지시스템(IDS, Intrusion Detection System), 침입방지시스템(IPS, Intrus",
+    "u": "https://cafe.naver.com/strnd/32503",
+    "k": "2교시형",
+    "q": "137컴-4-05"
+   },
+   {
+    "t": "VPN (Virtual Private Network)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/13764",
+    "k": "1교시형",
+    "q": "133정-4-06"
+   },
+   {
+    "t": "VPN (Virtual Private Network)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/23876",
+    "k": "2교시형",
+    "q": "133정-4-06"
+   }
+  ],
+  "dg_DigitalContract": [
+   {
+    "t": "디지털서비스 전문계약제도에 대하여 주요 특징, 디지털서비스 종류 및 기대효과를 설명하시오.(137컴)",
+    "u": "https://cafe.naver.com/strnd/17254",
+    "k": "1교시형",
+    "q": "137컴-4-06"
+   },
+   {
+    "t": "디지털서비스 전문계약제도에 대하여 주요 특징, 디지털서비스 종류 및 기대효과를 설명하시오.(137컴)",
+    "u": "https://cafe.naver.com/strnd/32688",
+    "k": "2교시형",
+    "q": "137컴-4-06"
+   }
+  ],
+  "mg_GrowthHacking": [
+   {
+    "t": "화이트 레이블 마케팅(White Label Marketing)(136정)",
+    "u": "https://cafe.naver.com/strnd/32700",
+    "k": "1교시형",
+    "q": "136정-1-01"
+   }
+  ],
+  "ai_AgenticAI": [
+   {
+    "t": "에이전틱 AI(Agentic AI)(136정)",
+    "u": "https://cafe.naver.com/strnd/30255",
+    "k": "1교시형",
+    "q": "136정-1-03"
+   }
+  ],
+  "db_NF4": [
+   {
+    "t": "제 4 정규형(136정)",
+    "u": "https://cafe.naver.com/strnd/32713",
+    "k": "1교시형",
+    "q": "136정-1-04"
+   }
+  ],
+  "se_DesignPattern": [
+   {
+    "t": "프록시 디자인 패턴(136정)",
+    "u": "https://cafe.naver.com/strnd/32632",
+    "k": "1교시형",
+    "q": "136정-1-05"
+   },
+   {
+    "t": "아키텍처 스타일과 디자인 패턴에 대하여 다음을 설명하시오.   (131정)",
+    "u": "https://cafe.naver.com/strnd/22386",
+    "k": "1교시형",
+    "q": "131정-2-06"
+   },
+   {
+    "t": "객체지향 기법 중에는 리팩토링(Refactoring)과 디자인패턴(Design Pattern)이 있다.",
+    "u": "https://cafe.naver.com/strnd/15065",
+    "k": "1교시형",
+    "q": "129정-2-06"
+   },
+   {
+    "t": "객체지향 기법 중에는 리팩토링(Refactoring)과 디자인패턴(Design Pattern)이 있다.",
+    "u": "https://cafe.naver.com/strnd/19945",
+    "k": "2교시형",
+    "q": "129정-2-06"
+   }
+  ],
+  "ca_CXL": [
+   {
+    "t": "CXL(Compute Express Link)(136정)",
+    "u": "https://cafe.naver.com/strnd/32220",
+    "k": "1교시형",
+    "q": "136정-1-08"
+   },
+   {
+    "t": "CXL(Compute Express Link)(136정)",
+    "u": "https://cafe.naver.com/strnd/26589",
+    "k": "2교시형",
+    "q": "136정-1-08"
+   }
+  ],
+  "dg_Serverless": [
+   {
+    "t": "서버리스 컴퓨팅(Serverless Computing)(136정)",
+    "u": "https://cafe.naver.com/strnd/11289",
+    "k": "1교시형",
+    "q": "136정-1-09"
+   }
+  ],
+  "sc_SafeZone": [
+   {
+    "t": "10, 개인정보 안심구역과 데이터안심구역 비교(136정)",
+    "u": "https://cafe.naver.com/strnd/32460",
+    "k": "1교시형",
+    "q": "136정-1-10"
+   },
+   {
+    "t": "개인정보 안심구역 (135정)",
+    "u": "https://cafe.naver.com/strnd/32432",
+    "k": "1교시형",
+    "q": "135정-1-07"
+   }
+  ],
+  "sc_CCEval": [
+   {
+    "t": "CC(Common Criteria)(136정)",
+    "u": "https://cafe.naver.com/strnd/32446",
+    "k": "1교시형",
+    "q": "136정-1-11"
+   }
+  ],
+  "sc_PubCrypto": [
+   {
+    "t": "타원곡선 암호(ECC, Eliptic Curve Cryptography)(136정)",
+    "u": "https://cafe.naver.com/strnd/30164",
+    "k": "1교시형",
+    "q": "136정-1-12"
+   },
+   {
+    "t": "대칭 암호화와 비대칭 암호화   (132정)",
+    "u": "https://cafe.naver.com/strnd/26775",
+    "k": "1교시형",
+    "q": "132정-1-04"
+   },
+   {
+    "t": "디피-헬만 알고리즘(Diffie-Hellman Algorithm)   (128컴)",
+    "u": "https://cafe.naver.com/strnd/30556",
+    "k": "1교시형",
+    "q": "128컴-1-12"
+   }
+  ],
+  "mg_SCM": [
+   {
+    "t": "공급망관리(SCM, Supply Chain Management)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32716",
+    "k": "2교시형",
+    "q": "136정-2-01"
+   },
+   {
+    "t": "코로나 19로 인한 중국 물류수급 문제 및 반도체 대란에 따른 전체 산업분야에서 재고관리의 중요성이 대두되고 있다. 공급망관리(SCM) 관련하여",
+    "u": "https://cafe.naver.com/strnd/22917",
+    "k": "2교시형",
+    "q": "128정-2-03"
+   }
+  ],
+  "pr_EGovPMO": [
+   {
+    "t": "정보시스템 구축 사업의 성공적인 수행을 위해 정보시스템 감리와 PMO(전자정부사업관리 위탁)를 활용하여 사업관리를 수행하고 있다. 이와 관련하여",
+    "u": "https://cafe.naver.com/strnd/31784",
+    "k": "1교시형",
+    "q": "136정-2-02"
+   },
+   {
+    "t": "정보시스템 구축 사업의 성공적인 수행을 위해 정보시스템 감리와 PMO(전자정부사업관리 위탁)를 활용하여 사업관리를 수행하고 있다. 이와 관련하여",
+    "u": "https://cafe.naver.com/strnd/32666",
+    "k": "2교시형",
+    "q": "136정-2-02"
+   },
+   {
+    "t": "전자정부사업관리 위탁(PMO, Project Management Office)   (132컴)",
+    "u": "https://cafe.naver.com/strnd/22257",
+    "k": "1교시형",
+    "q": "132컴-1-07"
+   }
+  ],
+  "pm_PMO": [
+   {
+    "t": "정보시스템 구축 사업의 성공적인 수행을 위해 정보시스템 감리와 PMO(전자정부사업관리 위탁)를 활용하여 사업관리를 수행하고 있다. 이와 관련하여",
+    "u": "https://cafe.naver.com/strnd/31784",
+    "k": "1교시형",
+    "q": "136정-2-02"
+   },
+   {
+    "t": "정보시스템 구축 사업의 성공적인 수행을 위해 정보시스템 감리와 PMO(전자정부사업관리 위탁)를 활용하여 사업관리를 수행하고 있다. 이와 관련하여",
+    "u": "https://cafe.naver.com/strnd/32666",
+    "k": "2교시형",
+    "q": "136정-2-02"
+   },
+   {
+    "t": "프로젝트 관리에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/29241",
+    "k": "2교시형",
+    "q": "135정-3-01"
+   },
+   {
+    "t": "전자정부사업관리 위탁(PMO, Project Management Office)   (132컴)",
+    "u": "https://cafe.naver.com/strnd/22257",
+    "k": "1교시형",
+    "q": "132컴-1-07"
+   },
+   {
+    "t": "정보시스템 감리와 PMO(Project Management Office) 비교   (131정)",
+    "u": "https://cafe.naver.com/strnd/19213",
+    "k": "1교시형",
+    "q": "131정-1-06"
+   },
+   {
+    "t": "정보시스템 감리기준 고시(2021-4호, 2021.1.19)에 의거한 현장감리의 활동, 작업내용을 기술하고 PMO(Project Manageme",
+    "u": "https://cafe.naver.com/strnd/19932",
+    "k": "1교시형",
+    "q": "129정-1-04"
+   },
+   {
+    "t": "IT 프로젝트의 위험도가 크거나 대규모 사업은 상주감리 제도를 적용할 수 있다. 상주감리 업무 수행 범위와 절차를 설명하고, PMO(Projec",
+    "u": "https://cafe.naver.com/strnd/2258",
+    "k": "2교시형",
+    "q": "125정-3-02"
+   }
+  ],
+  "se_Methodology": [
+   {
+    "t": "소프트웨어 개발방법론 중 하나인 제품계열(Product Line) 방법론에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/30396",
+    "k": "2교시형",
+    "q": "136정-2-04"
+   },
+   {
+    "t": "클라우드 관리 플랫폼의 정의 및 필요성, 필수 기능, 플랫폼 선정기준, 기대효과를 설명하시오   (132정)",
+    "u": "https://cafe.naver.com/strnd/27089",
+    "k": "2교시형",
+    "q": "132정-3-02"
+   },
+   {
+    "t": "소프트웨어 개발 방법론이 발전하면서 제품은 더 빨리 출시되며 기능 추가와 보완을 위해 더 자주 배포되고 있다. 개발 결과물을 고객에게 제공하기 ",
+    "u": "https://cafe.naver.com/strnd/29269",
+    "k": "1교시형",
+    "q": "127정-2-02"
+   },
+   {
+    "t": "소프트웨어 개발 방법론이 발전하면서 제품은 더 빨리 출시되며 기능 추가와 보완을 위해 더 자주 배포되고 있다. 개발 결과물을 고객에게 제공하기 ",
+    "u": "https://cafe.naver.com/strnd/8846",
+    "k": "2교시형",
+    "q": "127정-2-02"
+   }
+  ],
+  "db_ClusteredIdx": [
+   {
+    "t": "데이터베이스 인덱스(Index)를 설명하고, 클러스터드 인덱스(Clustered Index)와",
+    "u": "https://cafe.naver.com/strnd/32727",
+    "k": "2교시형",
+    "q": "136정-2-05"
+   }
+  ],
+  "db_Index": [
+   {
+    "t": "데이터베이스 인덱스(Index)를 설명하고, 클러스터드 인덱스(Clustered Index)와",
+    "u": "https://cafe.naver.com/strnd/32727",
+    "k": "2교시형",
+    "q": "136정-2-05"
+   }
+  ],
+  "nw_L4": [
+   {
+    "t": "인터넷 통신에서 보안성 강화를 위해 활용되는 TLS(Transport Layer Security) 1.2 에대한 취약점이 발견되어 TLS 1.3",
+    "u": "https://cafe.naver.com/strnd/31214",
+    "k": "1교시형",
+    "q": "136정-2-06"
+   },
+   {
+    "t": "인터넷 통신에서 보안성 강화를 위해 활용되는 TLS(Transport Layer Security) 1.2 에대한 취약점이 발견되어 TLS 1.3",
+    "u": "https://cafe.naver.com/strnd/30161",
+    "k": "2교시형",
+    "q": "136정-2-06"
+   },
+   {
+    "t": "TCP 전송계층 프로토콜에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/12959",
+    "k": "2교시형",
+    "q": "125컴-3-02"
+   },
+   {
+    "t": "전송계층(Transport Layer)에서 전송 데이터의 단위는 Segment이다. 전송계층 기능 중 흐름제어(Flow Control)에 대하여",
+    "u": "https://cafe.naver.com/strnd/5322",
+    "k": "2교시형",
+    "q": "125컴-3-01"
+   }
+  ],
+  "nw_TLS": [
+   {
+    "t": "인터넷 통신에서 보안성 강화를 위해 활용되는 TLS(Transport Layer Security) 1.2 에대한 취약점이 발견되어 TLS 1.3",
+    "u": "https://cafe.naver.com/strnd/31214",
+    "k": "1교시형",
+    "q": "136정-2-06"
+   },
+   {
+    "t": "인터넷 통신에서 보안성 강화를 위해 활용되는 TLS(Transport Layer Security) 1.2 에대한 취약점이 발견되어 TLS 1.3",
+    "u": "https://cafe.naver.com/strnd/30161",
+    "k": "2교시형",
+    "q": "136정-2-06"
+   }
+  ],
+  "pm_StakeholderMgmt": [
+   {
+    "t": "IT 프로젝트 수행 시 PM 은 프로젝트 내 외부의 다양한 갈등을 관리하고 해소하여야  한다. PM 의 입장에서 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/30373",
+    "k": "2교시형",
+    "q": "136정-3-01"
+   }
+  ],
+  "pm_CommMgmt": [
+   {
+    "t": "IT 프로젝트 수행 시 PM 은 프로젝트 내 외부의 다양한 갈등을 관리하고 해소하여야  한다. PM 의 입장에서 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/30373",
+    "k": "2교시형",
+    "q": "136정-3-01"
+   }
+  ],
+  "dg_DX": [
+   {
+    "t": "최근 인공지능(AI)을 활용한 기업의 디지털 전환(AX, Al Transformation)이 다양한 산업  분야에서 빠르게 진행되고 있다. 이와",
+    "u": "https://cafe.naver.com/strnd/24354",
+    "k": "1교시형",
+    "q": "136정-3-02"
+   },
+   {
+    "t": "최근 인공지능(AI)을 활용한 기업의 디지털 전환(AX, Al Transformation)이 다양한 산업  분야에서 빠르게 진행되고 있다. 이와",
+    "u": "https://cafe.naver.com/strnd/30224",
+    "k": "2교시형",
+    "q": "136정-3-02"
+   },
+   {
+    "t": "디지털 트랜스포메이션(Digital Transformation)   (131정)",
+    "u": "https://cafe.naver.com/strnd/27823",
+    "k": "1교시형",
+    "q": "131정-1-01"
+   }
+  ],
+  "ai_AITest": [
+   {
+    "t": "소프트웨어 품질보증과 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32063",
+    "k": "2교시형",
+    "q": "136정-3-03"
+   }
+  ],
+  "ai_Outlier": [
+   {
+    "t": "데이터 분석 시 아웃라이어(Outlier)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/30234",
+    "k": "2교시형",
+    "q": "136정-3-04"
+   }
+  ],
+  "ai_ConfMatrix": [
+   {
+    "t": "혼동행렬(Confusion Matrix) 결과를 참고하여 다음을 계산하고 설명하시오. 결과 : True Positive(TP)=100, Fals",
+    "u": "https://cafe.naver.com/strnd/32573",
+    "k": "1교시형",
+    "q": "136정-3-05"
+   }
+  ],
+  "os_MemAlloc": [
+   {
+    "t": "메모리 관리 기법 중 동적 메모리 할당과 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/11433",
+    "k": "1교시형",
+    "q": "136정-3-06"
+   },
+   {
+    "t": "메모리 관리 기법 중 동적 메모리 할당과 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/29829",
+    "k": "2교시형",
+    "q": "136정-3-06"
+   },
+   {
+    "t": "메모리 관리 기법 중 동적 메모리 할당과 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32215",
+    "k": "2교시형",
+    "q": "136정-3-06"
+   }
+  ],
+  "ai_AIEthics": [
+   {
+    "t": "국내 인공지능(AI) 윤리기준과 생성형 AI에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/31343",
+    "k": "1교시형",
+    "q": "136정-4-01"
+   },
+   {
+    "t": "국내 인공지능(AI) 윤리기준과 생성형 AI에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32547",
+    "k": "2교시형",
+    "q": "136정-4-01"
+   },
+   {
+    "t": "정부의 인공지능 윤리기준(과학기술정보통신부 2020.12.23)에서 제시한 인공지능의 3대 기본원칙 및 10대 핵심요건   (129정)",
+    "u": "https://cafe.naver.com/strnd/19435",
+    "k": "1교시형",
+    "q": "129정-1-02"
+   }
+  ],
+  "ai_GenAI": [
+   {
+    "t": "국내 인공지능(AI) 윤리기준과 생성형 AI에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/31343",
+    "k": "1교시형",
+    "q": "136정-4-01"
+   },
+   {
+    "t": "국내 인공지능(AI) 윤리기준과 생성형 AI에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32547",
+    "k": "2교시형",
+    "q": "136정-4-01"
+   },
+   {
+    "t": "「생성형 인공지능 학습을 위한 멀티모달 데이터의 품질검증 방법(정보통신단체표준, TTAK.KO-10.1558)」 에 대하여 아래 사항을 설명하시",
+    "u": "https://cafe.naver.com/strnd/28996",
+    "k": "2교시형",
+    "q": "135컴-2-01"
+   },
+   {
+    "t": "국가사이버안보센터는 생성형AI의 보안위협과 안전한 활용을 위한 가이드라인(챗GPT 등 생성형 AI 활용 보안 가이드라인, 2023.6)을 발간하",
+    "u": "https://cafe.naver.com/strnd/27424",
+    "k": "2교시형",
+    "q": "133정-3-02"
+   }
+  ],
+  "os_IPC": [
+   {
+    "t": "프로세스 간 통신을 위해 사용되는 IPC(Inter Process Communication)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/11396",
+    "k": "1교시형",
+    "q": "136정-4-02"
+   },
+   {
+    "t": "프로세스 간 통신을 위해 사용되는 IPC(Inter Process Communication)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/29897",
+    "k": "2교시형",
+    "q": "136정-4-02"
+   },
+   {
+    "t": "프로세스 간 통신을 위해 사용되는 IPC(Inter Process Communication)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/29932",
+    "k": "2교시형",
+    "q": "136정-4-02"
+   }
+  ],
+  "pr_NegoContract": [
+   {
+    "t": "대규모 중요 소프트웨어 사업 평가의 전문성을 높이고 수요기관의 전문성을 보완해 공정한 경쟁을 유도하기 위하여 '조달청 협상에 의한 계약 제안서평",
+    "u": "https://cafe.naver.com/strnd/30354",
+    "k": "2교시형",
+    "q": "136정-4-03"
+   }
+  ],
+  "sc_ZeroTrust": [
+   {
+    "t": "공급망 보안(Supply Chain Security)을 설명하고, 제로트러스트(Zero Trust) 기반 공급망 보안 아키텍처를 설명하시오.(1",
+    "u": "https://cafe.naver.com/strnd/17245",
+    "k": "1교시형",
+    "q": "136정-4-04"
+   },
+   {
+    "t": "공급망 보안(Supply Chain Security)을 설명하고, 제로트러스트(Zero Trust) 기반 공급망 보안 아키텍처를 설명하시오.(1",
+    "u": "https://cafe.naver.com/strnd/32494",
+    "k": "2교시형",
+    "q": "136정-4-04"
+   },
+   {
+    "t": "경계 기반 보안(Perimeter Security)과 제로 트러스트(Zero Trust) 성숙도모델 2.0에 대하여 비교 설명하고, 제로 트러스",
+    "u": "https://cafe.naver.com/strnd/31161",
+    "k": "1교시형",
+    "q": "135정-4-06"
+   },
+   {
+    "t": "경계 기반 보안(Perimeter Security)과 제로 트러스트(Zero Trust) 성숙도모델 2.0에 대하여 비교 설명하고, 제로 트러스",
+    "u": "https://cafe.naver.com/strnd/28742",
+    "k": "2교시형",
+    "q": "135정-4-06"
+   },
+   {
+    "t": "제로 트러스트(Zero Trust)  (134컴)",
+    "u": "https://cafe.naver.com/strnd/28781",
+    "k": "2교시형",
+    "q": "134컴-1-05"
+   },
+   {
+    "t": "제로 트러스트 보안모델의 보안원리, 핵심원칙, 적용분야를 트러스트 보안 모델과 비교하여 설명하시오.   (131정)",
+    "u": "https://cafe.naver.com/strnd/21541",
+    "k": "2교시형",
+    "q": "131정-2-04"
+   }
+  ],
+  "ai_ROCPR": [
+   {
+    "t": "PR(Precision Recall) 곡선과 ROC(Receiver Operating Characteristic) 곡선 비교 (135정)",
+    "u": "https://cafe.naver.com/strnd/28998",
+    "k": "1교시형",
+    "q": "135정-1-01"
+   }
+  ],
+  "se_RTM": [
+   {
+    "t": "요구사항 추적표(Requirement Traceability Matrix) (135정)",
+    "u": "https://cafe.naver.com/strnd/29180",
+    "k": "1교시형",
+    "q": "135정-1-03"
+   }
+  ],
+  "nw_IBN": [
+   {
+    "t": "IBN(Intent-Based Networking) (135정)",
+    "u": "https://cafe.naver.com/strnd/30131",
+    "k": "1교시형",
+    "q": "135정-1-04"
+   }
+  ],
+  "sc_SIEM": [
+   {
+    "t": "SIEM(Security Information & Event Management) & SOAR(Security Orchestration Auto",
+    "u": "https://cafe.naver.com/strnd/28838",
+    "k": "1교시형",
+    "q": "135정-1-05"
+   },
+   {
+    "t": "기업은 다양한 솔루션을 도입하여 보안관제시스템을 운영하고 있으며, 보다 효율적인 운영을 위해 융합보안관제를 구축하고자 한다. 이와 관련하여 다음",
+    "u": "https://cafe.naver.com/strnd/11663",
+    "k": "2교시형",
+    "q": "128컴-2-04"
+   },
+   {
+    "t": "SOAR(Security Orchestration, Automation and Response)의 개념 및 등장 배경, 구성요소, 주요 기능, ",
+    "u": "https://cafe.naver.com/strnd/9216",
+    "k": "2교시형",
+    "q": "127정-3-06"
+   }
+  ],
+  "ai_ClusterEval": [
+   {
+    "t": "실루엣 계수(Silhouette Coefficient) (135정)",
+    "u": "https://cafe.naver.com/strnd/29079",
+    "k": "1교시형",
+    "q": "135정-1-06"
+   }
+  ],
+  "st_Estimation": [
+   {
+    "t": "불편추정량(Unbiased Estimator) (135정)",
+    "u": "https://cafe.naver.com/strnd/29067",
+    "k": "1교시형",
+    "q": "135정-1-08"
+   },
+   {
+    "t": "모집단의 특성을 추론하는 점추정과 구간추정 비교   (132정)",
+    "u": "https://cafe.naver.com/strnd/27413",
+    "k": "1교시형",
+    "q": "132정-1-10"
+   },
+   {
+    "t": "추정통계의 표본과 불편 추정량   (127정)",
+    "u": "https://cafe.naver.com/strnd/10028",
+    "k": "1교시형",
+    "q": "127정-1-03"
+   }
+  ],
+  "se_TechDebt": [
+   {
+    "t": "소프트웨어 기술 부채의 유형과 관리 방법 (135정)",
+    "u": "https://cafe.naver.com/strnd/29227",
+    "k": "1교시형",
+    "q": "135정-1-09"
+   }
+  ],
+  "nw_WiFi8": [
+   {
+    "t": "IEEE 802.11bn (135정)",
+    "u": "https://cafe.naver.com/strnd/28813",
+    "k": "1교시형",
+    "q": "135정-1-10"
+   }
+  ],
+  "ai_VAE": [
+   {
+    "t": "VAE(Variational AutoEncoder) (135정)",
+    "u": "https://cafe.naver.com/strnd/29006",
+    "k": "1교시형",
+    "q": "135정-1-12"
+   }
+  ],
+  "ai_AIClass": [
+   {
+    "t": "AGI(Artificial General Intelligence) 측면에서 ANI(Artificial Narrow Intelligence)의 필",
+    "u": "https://cafe.naver.com/strnd/29007",
+    "k": "1교시형",
+    "q": "135정-1-13"
+   }
+  ],
+  "se_DataModeling": [
+   {
+    "t": "물리 데이터 모델링 중 반정규화에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/29549",
+    "k": "2교시형",
+    "q": "135정-2-01"
+   },
+   {
+    "t": "DBMS를 적용하기 위한 데이터 모델링에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/27246",
+    "k": "1교시형",
+    "q": "133정-4-04"
+   },
+   {
+    "t": "데이터모델링에서 CRUD 매트릭스(Matrix)를 사용하는 목적과 이를 표현하는 방법에 래하여 설명하시오.   (133정)",
+    "u": "https://cafe.naver.com/strnd/29426",
+    "k": "1교시형",
+    "q": "133정-1-07"
+   },
+   {
+    "t": "DBMS를 적용하기 위한 데이터 모델링에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/27795",
+    "k": "2교시형",
+    "q": "133정-4-04"
+   }
+  ],
+  "db_Denormalization": [
+   {
+    "t": "물리 데이터 모델링 중 반정규화에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/29549",
+    "k": "2교시형",
+    "q": "135정-2-01"
+   }
+  ],
+  "se_CICD": [
+   {
+    "t": "CI/CD(Continuous Integration/Continuous Delivery or Continuous Deployment) 파이프라인",
+    "u": "https://cafe.naver.com/strnd/26840",
+    "k": "1교시형",
+    "q": "135정-2-02"
+   },
+   {
+    "t": "CI/CD(Continuous Integration/Continuous Delivery or Continuous Deployment) 파이프라인",
+    "u": "https://cafe.naver.com/strnd/29369",
+    "k": "2교시형",
+    "q": "135정-2-02"
+   },
+   {
+    "t": "클라우드 컴퓨팅의 Service Model과 Deployment Model 비교   (131정)",
+    "u": "https://cafe.naver.com/strnd/23731",
+    "k": "1교시형",
+    "q": "131정-1-04"
+   }
+  ],
+  "se_DevSecOps": [
+   {
+    "t": "CI/CD(Continuous Integration/Continuous Delivery or Continuous Deployment) 파이프라인",
+    "u": "https://cafe.naver.com/strnd/26840",
+    "k": "1교시형",
+    "q": "135정-2-02"
+   },
+   {
+    "t": "CI/CD(Continuous Integration/Continuous Delivery or Continuous Deployment) 파이프라인",
+    "u": "https://cafe.naver.com/strnd/29369",
+    "k": "2교시형",
+    "q": "135정-2-02"
+   }
+  ],
+  "st_Multicollinear": [
+   {
+    "t": "회귀모형에서 오차의 등분산성(Homoscedasticity)과 다중공선성(Multicollinearity)에 대하여 설명하시오. (135정)",
+    "u": "https://cafe.naver.com/strnd/29030",
+    "k": "1교시형",
+    "q": "135정-2-03"
+   },
+   {
+    "t": "다중공선성   (132정)",
+    "u": "https://cafe.naver.com/strnd/27341",
+    "k": "1교시형",
+    "q": "132정-1-11"
+   }
+  ],
+  "dg_EduTech": [
+   {
+    "t": "AI디지털교과서에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/28522",
+    "k": "2교시형",
+    "q": "135정-2-06"
+   },
+   {
+    "t": "xAPI(eXperience Application Interface)   (131컴)",
+    "u": "https://cafe.naver.com/strnd/27002",
+    "k": "1교시형",
+    "q": "131컴-1-11"
+   }
+  ],
+  "ai_PromptEng": [
+   {
+    "t": "프롬프트 엔지니어링(Prompt Enginerng)의 기술 요소와 활용 방안에 대하여 설명하시오 (135정)",
+    "u": "https://cafe.naver.com/strnd/29000",
+    "k": "1교시형",
+    "q": "135정-3-02"
+   }
+  ],
+  "mg_DataValuation": [
+   {
+    "t": "데이터 거래를 위한 데이터 가치평가에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/29550",
+    "k": "2교시형",
+    "q": "135정-3-05"
+   }
+  ],
+  "dg_DataMarket": [
+   {
+    "t": "데이터 거래를 위한 데이터 가치평가에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/29550",
+    "k": "2교시형",
+    "q": "135정-3-05"
+   },
+   {
+    "t": "데이터 거래소   (132정)",
+    "u": "https://cafe.naver.com/strnd/22928",
+    "k": "1교시형",
+    "q": "132정-1-02"
+   },
+   {
+    "t": "데이터 커머스(Data Commerce)의 중요성이 점차 증대되고 있다. 데이터 커머스에 대한 아래의 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/13275",
+    "k": "2교시형",
+    "q": "127정-4-02"
+   }
+  ],
+  "ai_Deepfake": [
+   {
+    "t": "딥페이크(Deeptake)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/26710",
+    "k": "1교시형",
+    "q": "135정-3-06"
+   },
+   {
+    "t": "딥페이크(Deeptake)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/28766",
+    "k": "2교시형",
+    "q": "135정-3-06"
+   }
+  ],
+  "ds_HashTable": [
+   {
+    "t": "확장성 해싱 (Extendible Hashing)기법에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/29032",
+    "k": "2교시형",
+    "q": "135정-4-01"
+   }
+  ],
+  "db_DBIntegrity": [
+   {
+    "t": "릴레이션 무결성 제약의 유형과 사례를 제시하고, 구현 방법에 대하여 설명하시오. (135정)",
+    "u": "https://cafe.naver.com/strnd/32728",
+    "k": "2교시형",
+    "q": "135정-4-02"
+   },
+   {
+    "t": "데이터베이스 무결성 제약 조건에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/27820",
+    "k": "2교시형",
+    "q": "134컴-3-04"
+   },
+   {
+    "t": "데이터 통합 및 마이그레이션 프로젝트에서 데이터 무결성 목표를 달성하기 위해서는 데이터들의 정합성을 확보하고 신뢰도를 높이는 일이 매우 중요하다",
+    "u": "https://cafe.naver.com/strnd/13229",
+    "k": "2교시형",
+    "q": "128정-3-05"
+   }
+  ],
+  "st_BinomPoisson": [
+   {
+    "t": "이항 분포(Binomial Distribution)와 포아송 분포(Poisson Distribution)를 비교 설명하시오. (135정)",
+    "u": "https://cafe.naver.com/strnd/28979",
+    "k": "1교시형",
+    "q": "135정-4-03"
+   },
+   {
+    "t": "베르누이 분포 (Bernoulli distribution)와 기하 분포 (Geometric Distribution)   (130정)",
+    "u": "https://cafe.naver.com/strnd/22011",
+    "k": "1교시형",
+    "q": "130정-1-12"
+   }
+  ],
+  "db_BigDataViz": [
+   {
+    "t": "빅데이터 시각화(Visualization)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32732",
+    "k": "1교시형",
+    "q": "135정-4-04"
+   },
+   {
+    "t": "빅데이터 시각화(Visualization)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/29430",
+    "k": "2교시형",
+    "q": "135정-4-04"
+   },
+   {
+    "t": "데이터 시각화(Data Visualization)와 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/19088",
+    "k": "1교시형",
+    "q": "131정-2-02"
+   },
+   {
+    "t": "데이터 시각화(Data Visualization)와 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/20169",
+    "k": "2교시형",
+    "q": "131정-2-02"
+   }
+  ],
+  "se_AITest": [
+   {
+    "t": "인공지능 소프트웨어 품질 보증을 위한 테스트 기법에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/29010",
+    "k": "2교시형",
+    "q": "135정-4-05"
+   }
+  ],
+  "mg_IPR": [
+   {
+    "t": "지식재산권의 종류 (135컴)",
+    "u": "https://cafe.naver.com/strnd/30008",
+    "k": "1교시형",
+    "q": "135컴-1-01"
+   },
+   {
+    "t": "지식재산권의 종류 (135컴)",
+    "u": "https://cafe.naver.com/strnd/32293",
+    "k": "1교시형",
+    "q": "135컴-1-01"
+   }
+  ],
+  "nw_RESTAPI": [
+   {
+    "t": "SOAP(Simple Object Access Protocol)와 REST(Representational State Transter)를 비교 설",
+    "u": "https://cafe.naver.com/strnd/30036",
+    "k": "1교시형",
+    "q": "135컴-1-02"
+   },
+   {
+    "t": "REST API(REpresentational State Transfer Application Programming Interface)에 대하여",
+    "u": "https://cafe.naver.com/strnd/32310",
+    "k": "1교시형",
+    "q": "133정-1-01"
+   }
+  ],
+  "ai_MCTS": [
+   {
+    "t": "몬테카를로 트리탐색(Monte Carlo Tree Search) (135컴)",
+    "u": "https://cafe.naver.com/strnd/29093",
+    "k": "1교시형",
+    "q": "135컴-1-04"
+   }
+  ],
+  "dg_MSA": [
+   {
+    "t": "모놀리식 아키텍처(Monolithic Architecture)와 마이크로서비스 아키텍처(MicroServiceArchitecture)를 비교 설",
+    "u": "https://cafe.naver.com/strnd/29222",
+    "k": "1교시형",
+    "q": "135컴-1-05"
+   }
+  ],
+  "se_MSAArch": [
+   {
+    "t": "모놀리식 아키텍처(Monolithic Architecture)와 마이크로서비스 아키텍처(MicroServiceArchitecture)를 비교 설",
+    "u": "https://cafe.naver.com/strnd/29222",
+    "k": "1교시형",
+    "q": "135컴-1-05"
+   }
+  ],
+  "se_Monolith": [
+   {
+    "t": "모놀리식 아키텍처(Monolithic Architecture)와 마이크로서비스 아키텍처(MicroServiceArchitecture)를 비교 설",
+    "u": "https://cafe.naver.com/strnd/29222",
+    "k": "1교시형",
+    "q": "135컴-1-05"
+   }
+  ],
+  "se_HWSizing": [
+   {
+    "t": "[정보시스템 하드웨어 규모산정 지침 (TTAKIKO-10.0292/R3) 에 따른 하드 웨어 규모산정 방법 3가지 (135컴)",
+    "u": "https://cafe.naver.com/strnd/29224",
+    "k": "1교시형",
+    "q": "135컴-1-08"
+   },
+   {
+    "t": "[정보시스템 하드웨어 규모산정 지침 (TTAKIKO-10.0292/R3) 에 따른 하드 웨어 규모산정 방법 3가지 (135컴)",
+    "u": "https://cafe.naver.com/strnd/23466",
+    "k": "2교시형",
+    "q": "135컴-1-08"
+   },
+   {
+    "t": "현행 데이터베이스 데이터량을 기준으로 TO-BE 데이터량을 예측하고자 한다. 이와 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/22250",
+    "k": "2교시형",
+    "q": "131컴-2-03"
+   },
+   {
+    "t": "정보시스템 하드웨어 규모산정지침(TTAK.KO-10.0292/R2)\"\"과 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/19977",
+    "k": "2교시형",
+    "q": "129컴-2-05"
+   },
+   {
+    "t": "“정보시스템 하드웨어 규모산정 지침(TTAKKO-10.0292/R2)”에 따른 하드웨어 규모산정 절차   (126컴)",
+    "u": "https://cafe.naver.com/strnd/16600",
+    "k": "1교시형",
+    "q": "126컴-1-05"
+   }
+  ],
+  "ai_CurseDim": [
+   {
+    "t": "인공지능 성능 관련 차원의 저주 (Curse of Dimensionality) (135컴)",
+    "u": "https://cafe.naver.com/strnd/29065",
+    "k": "1교시형",
+    "q": "135컴-1-09"
+   }
+  ],
+  "db_DQCert": [
+   {
+    "t": "공공데이터 품질인증 (135컴)",
+    "u": "https://cafe.naver.com/strnd/29398",
+    "k": "1교시형",
+    "q": "135컴-1-10"
+   }
+  ],
+  "nw_ZSM": [
+   {
+    "t": "European Telecommunications Standards Institute(ETSI)의 Zero-touch network and Se",
+    "u": "https://cafe.naver.com/strnd/28830",
+    "k": "1교시형",
+    "q": "135컴-1-13"
+   }
+  ],
+  "dg_SmartCity": [
+   {
+    "t": "인구 구조적 변화와 환경문제 해결책으로 제시되는 지속 가능한 스마트시티(Smart City)를 설명하시오. (135컴)",
+    "u": "https://cafe.naver.com/strnd/32251",
+    "k": "2교시형",
+    "q": "135컴-2-02"
+   },
+   {
+    "t": "스마트시티 데이터 거버넌스(Smart City Data Governance)에 대하여 설명하시오. (135컴)",
+    "u": "https://cafe.naver.com/strnd/32292",
+    "k": "2교시형",
+    "q": "135컴-4-02"
+   }
+  ],
+  "se_Structured": [
+   {
+    "t": "인구 구조적 변화와 환경문제 해결책으로 제시되는 지속 가능한 스마트시티(Smart City)를 설명하시오. (135컴)",
+    "u": "https://cafe.naver.com/strnd/32251",
+    "k": "2교시형",
+    "q": "135컴-2-02"
+   },
+   {
+    "t": "A 기업은 다수의 기존 정보시스템을 운영 및 유지보수를 하고 있으며 신규 시스템에",
+    "u": "https://cafe.naver.com/strnd/19934",
+    "k": "2교시형",
+    "q": "129정-2-05"
+   }
+  ],
+  "sc_AccessModel": [
+   {
+    "t": "정보시스템의 접근통제 정책에는 강제적 접근통제(MAC,",
+    "u": "https://cafe.naver.com/strnd/25342",
+    "k": "1교시형",
+    "q": "135컴-2-03"
+   },
+   {
+    "t": "정보시스템의 접근통제 정책에는 강제적 접근통제(MAC,",
+    "u": "https://cafe.naver.com/strnd/28903",
+    "k": "2교시형",
+    "q": "135컴-2-03"
+   },
+   {
+    "t": "정보보호 방법을 암호화와 접근제어로 크게 분류할 때, 접근제어에 대하여 그 개념과 정책, 절차, 그리고 이를 구현하는 매커니즘에 대하여 설명하시",
+    "u": "https://cafe.naver.com/strnd/23941",
+    "k": "2교시형",
+    "q": "133정-4-03"
+   },
+   {
+    "t": "만리장성 모델(Chinese Wall Model, Brewer-Nash Model)   (132컴)",
+    "u": "https://cafe.naver.com/strnd/21451",
+    "k": "1교시형",
+    "q": "132컴-1-10"
+   },
+   {
+    "t": "접근 제어(Access Control)의 통제정책과 경량 디렉토리 엑세스 프로토콜(LDAP: Lightweight Directory Access",
+    "u": "https://cafe.naver.com/strnd/19501",
+    "k": "1교시형",
+    "q": "129정-2-02"
+   },
+   {
+    "t": "접근 제어(Access Control)의 통제정책과 경량 디렉토리 엑세스 프로토콜(LDAP: Lightweight Directory Access",
+    "u": "https://cafe.naver.com/strnd/13790",
+    "k": "2교시형",
+    "q": "129정-2-02"
+   },
+   {
+    "t": "아래의 접근 통제 보안 모델에 대하여 설명 하시오.",
+    "u": "https://cafe.naver.com/strnd/9257",
+    "k": "2교시형",
+    "q": "127정-2-06"
+   },
+   {
+    "t": "통신 프로토콜 매체접근제어 방식인 CSMA/CD 개념과 동작원리를 설명하고 I-Persistent, P-Persistent, Non-Persis",
+    "u": "https://cafe.naver.com/strnd/26233",
+    "k": "1교시형",
+    "q": "125컴-4-01"
+   }
+  ],
+  "sc_HashMAC": [
+   {
+    "t": "정보시스템의 접근통제 정책에는 강제적 접근통제(MAC,",
+    "u": "https://cafe.naver.com/strnd/25342",
+    "k": "1교시형",
+    "q": "135컴-2-03"
+   },
+   {
+    "t": "정보시스템의 접근통제 정책에는 강제적 접근통제(MAC,",
+    "u": "https://cafe.naver.com/strnd/28903",
+    "k": "2교시형",
+    "q": "135컴-2-03"
+   },
+   {
+    "t": "메시지 인증 코드(Message Authentication Code)   (127정)",
+    "u": "https://cafe.naver.com/strnd/11615",
+    "k": "1교시형",
+    "q": "127정-1-05"
+   }
+  ],
+  "nw_PolicingShaping": [
+   {
+    "t": "트래픽 폴리싱(Traffic Policing)과 트래픽 쉐이핑(Traffic Shaping)에 대하여 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/28730",
+    "k": "2교시형",
+    "q": "135컴-2-05"
+   }
+  ],
+  "db_Transaction": [
+   {
+    "t": "데이터베이스 트랜잭션 회복(Recovery) 기법에 대하여 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/26101",
+    "k": "2교시형",
+    "q": "135컴-2-06"
+   },
+   {
+    "t": "데이터베이스에 사용되는 트랜잭션의 개념과 이를 정의하는 4가지 중요한 속성을 가리키는 ACID의 각 요소에 대하여 설명하시오.   (131컴)",
+    "u": "https://cafe.naver.com/strnd/20048",
+    "k": "1교시형",
+    "q": "131컴-3-04"
+   },
+   {
+    "t": "데이터베이스 트랜잭션(Transaction)의 특징   (129정)",
+    "u": "https://cafe.naver.com/strnd/13325",
+    "k": "1교시형",
+    "q": "129정-1-06"
+   }
+  ],
+  "dg_AntiDrone": [
+   {
+    "t": "『안티드론 시스템 프레임워크(정보통신단체표준, TTAK,KO-10.1460)」 에 대하여 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/28704",
+    "k": "1교시형",
+    "q": "135컴-3-02"
+   },
+   {
+    "t": "『안티드론 시스템 프레임워크(정보통신단체표준, TTAK,KO-10.1460)」 에 대하여 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/28626",
+    "k": "2교시형",
+    "q": "135컴-3-02"
+   },
+   {
+    "t": "안티드론(Anti-Drone)   (125컴)",
+    "u": "https://cafe.naver.com/strnd/9489",
+    "k": "1교시형",
+    "q": "125컴-1-08"
+   }
+  ],
+  "sc_ZTGuide": [
+   {
+    "t": "과학기술정보통신부는 2024년 12월 「철통 인증 지침(제로트러스트 가이드라인) 2.0」 을 발표하였다. 이와 관련하여 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/31161",
+    "k": "1교시형",
+    "q": "135컴-3-03"
+   },
+   {
+    "t": "과학기술정보통신부는 2024년 12월 「철통 인증 지침(제로트러스트 가이드라인) 2.0」 을 발표하였다. 이와 관련하여 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/28781",
+    "k": "2교시형",
+    "q": "135컴-3-03"
+   }
+  ],
+  "dg_Blockchain": [
+   {
+    "t": "블록체인(Blockchain)의 네트워크 종류와 차이점에 대하여 설명하시오. (135컴)",
+    "u": "https://cafe.naver.com/strnd/30905",
+    "k": "1교시형",
+    "q": "135컴-3-05"
+   },
+   {
+    "t": "블록체인(Blockchain)의 네트워크 종류와 차이점에 대하여 설명하시오. (135컴)",
+    "u": "https://cafe.naver.com/strnd/32380",
+    "k": "2교시형",
+    "q": "135컴-3-05"
+   },
+   {
+    "t": "데이터 중심 사회에서 데이터의 프라이버시와 보안은 매우 중요한 이슈로 부상하고 있고, 이를 해결하기 위한 다양한 기술적 접근이 시도되고 있다. ",
+    "u": "https://cafe.naver.com/strnd/23673",
+    "k": "2교시형",
+    "q": "133정-4-01"
+   },
+   {
+    "t": "데이터저장 측면에서 파일, 데이터베이스, 블록체인을 비교하시오.   (130정)",
+    "u": "https://cafe.naver.com/strnd/19144",
+    "k": "1교시형",
+    "q": "130정-3-02"
+   },
+   {
+    "t": "데이터저장 측면에서 파일, 데이터베이스, 블록체인을 비교하시오.   (130정)",
+    "u": "https://cafe.naver.com/strnd/15213",
+    "k": "2교시형",
+    "q": "130정-3-02"
+   },
+   {
+    "t": "퍼블릭 블록체인(Public Blockchain), 프라이빗 블록체인(Private Blockchain), 하이브리드 블록체인(Hybrid Bl",
+    "u": "https://cafe.naver.com/strnd/22646",
+    "k": "2교시형",
+    "q": "126정-2-05"
+   }
+  ],
+  "ds_LinkedList": [
+   {
+    "t": "연결 리스트(Linked List)에 대하여 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/29042",
+    "k": "2교시형",
+    "q": "135컴-3-06"
+   }
+  ],
+  "dg_CBDC": [
+   {
+    "t": "중앙은행 디지털 화폐(CBDC, Central Bank Digital Currency) 설계를 위한 고려 사항에 대하여 설명하시오. (135컴)",
+    "u": "https://cafe.naver.com/strnd/30596",
+    "k": "1교시형",
+    "q": "135컴-4-01"
+   },
+   {
+    "t": "중앙은행 디지털 화폐(CBDC, Central Bank Digital Currency) 설계를 위한 고려 사항에 대하여 설명하시오. (135컴)",
+    "u": "https://cafe.naver.com/strnd/28687",
+    "k": "2교시형",
+    "q": "135컴-4-01"
+   }
+  ],
+  "db_DataGov": [
+   {
+    "t": "스마트시티 데이터 거버넌스(Smart City Data Governance)에 대하여 설명하시오. (135컴)",
+    "u": "https://cafe.naver.com/strnd/32292",
+    "k": "2교시형",
+    "q": "135컴-4-02"
+   },
+   {
+    "t": "데이터 거버넌스   (130정)",
+    "u": "https://cafe.naver.com/strnd/22933",
+    "k": "1교시형",
+    "q": "130정-1-04"
+   },
+   {
+    "t": "데이터 거버넌스   (130정)",
+    "u": "https://cafe.naver.com/strnd/26330",
+    "k": "2교시형",
+    "q": "130정-1-04"
+   }
+  ],
+  "dg_DataGov": [
+   {
+    "t": "스마트시티 데이터 거버넌스(Smart City Data Governance)에 대하여 설명하시오. (135컴)",
+    "u": "https://cafe.naver.com/strnd/32292",
+    "k": "2교시형",
+    "q": "135컴-4-02"
+   },
+   {
+    "t": "데이터 거버넌스   (130정)",
+    "u": "https://cafe.naver.com/strnd/22933",
+    "k": "1교시형",
+    "q": "130정-1-04"
+   },
+   {
+    "t": "데이터 거버넌스   (130정)",
+    "u": "https://cafe.naver.com/strnd/26330",
+    "k": "2교시형",
+    "q": "130정-1-04"
+   }
+  ],
+  "nw_HA": [
+   {
+    "t": "고장허용(Fault Tolerant) 시스템과 고가용성(High Availability) 시스템에 대하여 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32247",
+    "k": "1교시형",
+    "q": "135컴-4-05"
+   },
+   {
+    "t": "고장허용(Fault Tolerant) 시스템과 고가용성(High Availability) 시스템에 대하여 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/28443",
+    "k": "2교시형",
+    "q": "135컴-4-05"
+   },
+   {
+    "t": "서버 이중화 구성 방안에 대하여 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/28863",
+    "k": "2교시형",
+    "q": "135컴-4-03"
+   }
+  ],
+  "se_Deployment": [
+   {
+    "t": "소프트웨어 무중단 배포(Zero Downtime Deployment) 방식에 대하여 설명하시오. (135컴)",
+    "u": "https://cafe.naver.com/strnd/29269",
+    "k": "1교시형",
+    "q": "135컴-4-04"
+   },
+   {
+    "t": "소프트웨어 무중단 배포(Zero Downtime Deployment) 방식에 대하여 설명하시오. (135컴)",
+    "u": "https://cafe.naver.com/strnd/8846",
+    "k": "2교시형",
+    "q": "135컴-4-04"
+   },
+   {
+    "t": "Canary Test   (132컴)",
+    "u": "https://cafe.naver.com/strnd/29197",
+    "k": "1교시형",
+    "q": "132컴-1-03"
+   }
+  ],
+  "ca_Hazard": [
+   {
+    "t": "파이프라인 해저드(Pipeline Hazard)에 대하여 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/12933",
+    "k": "1교시형",
+    "q": "135컴-4-06"
+   },
+   {
+    "t": "파이프라인 해저드(Pipeline Hazard)에 대하여 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/28423",
+    "k": "2교시형",
+    "q": "135컴-4-06"
+   }
+  ],
+  "pm_Tuckman": [
+   {
+    "t": "프로젝트관리 터크만 사다리 모델(Tuckman Ladder Model)의 팀 발달 단계별 특징  (134정)",
+    "u": "https://cafe.naver.com/strnd/32684",
+    "k": "1교시형",
+    "q": "134정-1-01"
+   },
+   {
+    "t": "프로젝트관리 터크만 사다리 모델(Tuckman Ladder Model)의 팀 발달 단계별 특징  (134정)",
+    "u": "https://cafe.naver.com/strnd/30382",
+    "k": "2교시형",
+    "q": "134정-1-01"
+   }
+  ],
+  "mg_TAMMgt": [
+   {
+    "t": "시장 규모 추정 방법인 TAM-SAM-SOM (Total Addressable Market-Serviceable Addressable Marke",
+    "u": "https://cafe.naver.com/strnd/29460",
+    "k": "1교시형",
+    "q": "134정-1-02"
+   },
+   {
+    "t": "기술수용모델(Technology Acceptance Model: TAM)의 개념과 주요 구성요소에 대하여 설명하시오.   (133정)",
+    "u": "https://cafe.naver.com/strnd/23578",
+    "k": "1교시형",
+    "q": "133정-1-06"
+   }
+  ],
+  "ca_CPUTime": [
+   {
+    "t": "머신러닝(Machine Learning) 성능지표  (134정)",
+    "u": "https://cafe.naver.com/strnd/27295",
+    "k": "1교시형",
+    "q": "134정-1-03"
+   },
+   {
+    "t": "정보시스템의 성능 요구사항 작성 시 고려해야 하는 주요 성능지표 및 내용에 대해 설명하시오.   (132정)",
+    "u": "https://cafe.naver.com/strnd/27601",
+    "k": "2교시형",
+    "q": "132정-3-06"
+   },
+   {
+    "t": "시스템 성능 테스트 수행 시 성능 지표 관련하여 다음 물음에 답하시오.",
+    "u": "https://cafe.naver.com/strnd/22354",
+    "k": "2교시형",
+    "q": "131컴-4-05"
+   }
+  ],
+  "se_Baseline": [
+   {
+    "t": "형상관리의 개념과 형상관리 기준선(Baseline)  (134정)",
+    "u": "https://cafe.naver.com/strnd/29373",
+    "k": "1교시형",
+    "q": "134정-1-04"
+   }
+  ],
+  "se_CM": [
+   {
+    "t": "형상관리의 개념과 형상관리 기준선(Baseline)  (134정)",
+    "u": "https://cafe.naver.com/strnd/29373",
+    "k": "1교시형",
+    "q": "134정-1-04"
+   },
+   {
+    "t": "소프트웨어 형상관리   (125정)",
+    "u": "https://cafe.naver.com/strnd/1989",
+    "k": "1교시형",
+    "q": "125정-1-13"
+   }
+  ],
+  "se_InfoHiding": [
+   {
+    "t": "객체 간의 데이터 보호를 위한 정보은닉(Information",
+    "u": "https://cafe.naver.com/strnd/29218",
+    "k": "1교시형",
+    "q": "134정-1-05"
+   },
+   {
+    "t": "객체지향 방법론에서 캡슐화(Encapsulation)와 정보은닉(Information Hiding)   (131정)",
+    "u": "https://cafe.naver.com/strnd/29375",
+    "k": "1교시형",
+    "q": "131정-1-12"
+   }
+  ],
+  "ai_DataAnnot": [
+   {
+    "t": "이미지 데이터 어노테이션(Data Annotation) 유형과 기법  (134정)",
+    "u": "https://cafe.naver.com/strnd/27368",
+    "k": "1교시형",
+    "q": "134정-1-06"
+   }
+  ],
+  "nw_RIP": [
+   {
+    "t": "RIP(Routing Information Protocol)와 OSPF(Open Shortest Path First) 비교  (134정)",
+    "u": "https://cafe.naver.com/strnd/28727",
+    "k": "1교시형",
+    "q": "134정-1-08"
+   }
+  ],
+  "nw_OSPF": [
+   {
+    "t": "RIP(Routing Information Protocol)와 OSPF(Open Shortest Path First) 비교  (134정)",
+    "u": "https://cafe.naver.com/strnd/28727",
+    "k": "1교시형",
+    "q": "134정-1-08"
+   }
+  ],
+  "dg_Intermittent": [
+   {
+    "t": "인터미턴트 컴퓨팅(Intermittent Computing)  (134정)",
+    "u": "https://cafe.naver.com/strnd/31810",
+    "k": "1교시형",
+    "q": "134정-1-09"
+   }
+  ],
+  "dg_StorageVirt": [
+   {
+    "t": "스토리지 가상화(Storage Virtualization) 유형별 특징  (134정)",
+    "u": "https://cafe.naver.com/strnd/30039",
+    "k": "1교시형",
+    "q": "134정-1-10"
+   }
+  ],
+  "dg_SaaS": [
+   {
+    "t": "국가기관, 지방자치단체 및 공공기관이 안전하고 효율적으로 Saas(Software as a Service)를 이용하기 위해 공공부문 Saas 이",
+    "u": "https://cafe.naver.com/strnd/28546",
+    "k": "2교시형",
+    "q": "134정-2-01"
+   },
+   {
+    "t": "NaaS(Network as a Service)   (131컴)",
+    "u": "https://cafe.naver.com/strnd/22698",
+    "k": "1교시형",
+    "q": "131컴-1-02"
+   }
+  ],
+  "sc_DarkPattern": [
+   {
+    "t": "소비자를 기만하여 이익을 편취하고자 하는 다크패턴(Dark Pattern)이 발생하고 있다. 이와 관련하여 다크패턴의 세부 유형 및 대응 방안을",
+    "u": "https://cafe.naver.com/strnd/26937",
+    "k": "2교시형",
+    "q": "134정-2-02"
+   }
+  ],
+  "pr_ITGov": [
+   {
+    "t": "IT 거버넌스에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/27915",
+    "k": "2교시형",
+    "q": "134정-2-03"
+   },
+   {
+    "t": "ESG(Environment, Social, Governance) 경영에 대하여 설명하시오",
+    "u": "https://cafe.naver.com/strnd/29482",
+    "k": "2교시형",
+    "q": "134정-2-05"
+   },
+   {
+    "t": "IS0 14000 인증의 개념과 필요성, 인증규격, 구축 및 인증절차, 인증효과를 설명하시오.   (132정)",
+    "u": "https://cafe.naver.com/strnd/27783",
+    "k": "2교시형",
+    "q": "132정-2-05"
+   },
+   {
+    "t": "기업의 ESG(Environment, Social, Governance) 실현에서 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/13603",
+    "k": "2교시형",
+    "q": "129정-3-06"
+   }
+  ],
+  "dg_DataCenter": [
+   {
+    "t": "대규모 AI 서비스를 위한 데이터센터 구축 기술에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/30079",
+    "k": "1교시형",
+    "q": "134정-2-04"
+   },
+   {
+    "t": "대규모 AI 서비스를 위한 데이터센터 구축 기술에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/27157",
+    "k": "2교시형",
+    "q": "134정-2-04"
+   },
+   {
+    "t": "데이터센터와 관련하여 미국통신산업협회(Telecommunication Industry Association) TIA-942 가이드라인에 대하여 ",
+    "u": "https://cafe.naver.com/strnd/19214",
+    "k": "1교시형",
+    "q": "129컴-2-02"
+   },
+   {
+    "t": "귀하는 데이터센터의 운영관리자이다. 최근 다수 장비들의 전원을 공급하는 UPS(Uninterruptible Power Supply) 시스템에 장",
+    "u": "https://cafe.naver.com/strnd/12569",
+    "k": "2교시형",
+    "q": "126컴-4-03"
+   }
+  ],
+  "mg_ITGovMgt": [
+   {
+    "t": "ESG(Environment, Social, Governance) 경영에 대하여 설명하시오",
+    "u": "https://cafe.naver.com/strnd/29482",
+    "k": "2교시형",
+    "q": "134정-2-05"
+   },
+   {
+    "t": "IS0 14000 인증의 개념과 필요성, 인증규격, 구축 및 인증절차, 인증효과를 설명하시오.   (132정)",
+    "u": "https://cafe.naver.com/strnd/27783",
+    "k": "2교시형",
+    "q": "132정-2-05"
+   },
+   {
+    "t": "기업의 ESG(Environment, Social, Governance) 실현에서 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/13603",
+    "k": "2교시형",
+    "q": "129정-3-06"
+   }
+  ],
+  "se_TestStrategy": [
+   {
+    "t": "실행 중인 애플리케이션에 대한 배포 전략 및 테스트 전략에 대하여 설명하시오.  (134정)",
+    "u": "https://cafe.naver.com/strnd/29270",
+    "k": "1교시형",
+    "q": "134정-3-01"
+   }
+  ],
+  "se_SBOM": [
+   {
+    "t": "SBOM(Software Bill of Materials)  (134컴)",
+    "u": "https://cafe.naver.com/strnd/23710",
+    "k": "1교시형",
+    "q": "134컴-1-07"
+   },
+   {
+    "t": "SBOM(Software Bill of Materials)  (134컴)",
+    "u": "https://cafe.naver.com/strnd/28750",
+    "k": "2교시형",
+    "q": "134컴-1-07"
+   }
+  ],
+  "al_TimeSpace": [
+   {
+    "t": "알고리즘의 복잡도를 설명하고 성능을 표기하기 위한 O-Notation의 개념과 유형 및 유형별 연산시간의 차이를 설명하시오.  (134정)",
+    "u": "https://cafe.naver.com/strnd/29155",
+    "k": "2교시형",
+    "q": "134정-3-04"
+   },
+   {
+    "t": "알고리즘의 시간복잡도(Time Complexity), 공간복잡도(Space Complexity)   (131컴)",
+    "u": "https://cafe.naver.com/strnd/27384",
+    "k": "1교시형",
+    "q": "131컴-1-09"
+   }
+  ],
+  "db_RTree": [
+   {
+    "t": "다차원 색인구조(Multidimensional Index Structure)의 개념, 유형, 활용 사례에 대하여 설명하시오.  (134정)",
+    "u": "https://cafe.naver.com/strnd/27732",
+    "k": "1교시형",
+    "q": "134정-3-05"
+   }
+  ],
+  "mg_ITDecisionFW": [
+   {
+    "t": "일부 오픈소스 라이선스가 개방형(예: MIT, BSD 등)에서 폐쇄형(예: SSPL(Server Side Public License), BSL(",
+    "u": "https://cafe.naver.com/strnd/1213",
+    "k": "1교시형",
+    "q": "134정-3-06"
+   },
+   {
+    "t": "일부 오픈소스 라이선스가 개방형(예: MIT, BSD 등)에서 폐쇄형(예: SSPL(Server Side Public License), BSL(",
+    "u": "https://cafe.naver.com/strnd/28580",
+    "k": "2교시형",
+    "q": "134정-3-06"
+   }
+  ],
+  "dg_API": [
+   {
+    "t": "개방형 API(Open API)에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/26973",
+    "k": "2교시형",
+    "q": "134정-4-04"
+   },
+   {
+    "t": "REST API(REpresentational State Transfer Application Programming Interface)에 대하여",
+    "u": "https://cafe.naver.com/strnd/32310",
+    "k": "1교시형",
+    "q": "133정-1-01"
+   },
+   {
+    "t": "클라우드 서비스 제공자는 AIaaS(AI as a Service)를 통해 인공지능을 쉽게 이용할 수 있도록 다양한 API(Application ",
+    "u": "https://cafe.naver.com/strnd/32387",
+    "k": "1교시형",
+    "q": "128컴-3-04"
+   },
+   {
+    "t": "클라우드 서비스 제공자는 AIaaS(AI as a Service)를 통해 인공지능을 쉽게 이용할 수 있도록 다양한 API(Application ",
+    "u": "https://cafe.naver.com/strnd/19319",
+    "k": "2교시형",
+    "q": "128컴-3-04"
+   }
+  ],
+  "se_AgileMethod": [
+   {
+    "t": "클라우드 전환 사업의 단계별 감리 방법과 검토 항목에 대하여 설명하시오.  (134정)",
+    "u": "https://cafe.naver.com/strnd/27531",
+    "k": "2교시형",
+    "q": "134정-4-05"
+   }
+  ],
+  "ai_SOM": [
+   {
+    "t": "군집분석 기법인 SOM(Self Organizing Map)에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/27807",
+    "k": "2교시형",
+    "q": "134정-4-06"
+   }
+  ],
+  "ai_Clustering": [
+   {
+    "t": "군집분석 기법인 SOM(Self Organizing Map)에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/27807",
+    "k": "2교시형",
+    "q": "134정-4-06"
+   },
+   {
+    "t": "K-Means Clustering과 DBSCAN(Density-Based Spatial Clustering of Applications with",
+    "u": "https://cafe.naver.com/strnd/13191",
+    "k": "1교시형",
+    "q": "129정-1-05"
+   }
+  ],
+  "sc_KC4": [
+   {
+    "t": "제로데이(Zero Day) 취약점  (134컴)",
+    "u": "https://cafe.naver.com/strnd/28799",
+    "k": "1교시형",
+    "q": "134컴-1-02"
+   }
+  ],
+  "dg_TactileInternet": [
+   {
+    "t": "촉각 인터넷(Tactile Internet)  (134컴)",
+    "u": "https://cafe.naver.com/strnd/27005",
+    "k": "1교시형",
+    "q": "134컴-1-04"
+   }
+  ],
+  "ai_NPU": [
+   {
+    "t": "신경망 처리장치(NPU: Neural Processing Unit)  (134컴)",
+    "u": "https://cafe.naver.com/strnd/28503",
+    "k": "1교시형",
+    "q": "134컴-1-08"
+   }
+  ],
+  "dg_PlatformEng": [
+   {
+    "t": "플랫폼 엔지니어링(Platform Engineering)  (134컴)",
+    "u": "https://cafe.naver.com/strnd/29271",
+    "k": "1교시형",
+    "q": "134컴-1-09"
+   }
+  ],
+  "dg_EGov": [
+   {
+    "t": "전자정부 정보시스템 성과 측정지표  (134컴)",
+    "u": "https://cafe.naver.com/strnd/30509",
+    "k": "1교시형",
+    "q": "134컴-1-12"
+   },
+   {
+    "t": "전자정부 웹사이트 UI/UX 설계기준 7가지와 웹접근성, 웹호환성, 웹개방성, 웹최적화에 대해 각각 설명하시오.   (126정)",
+    "u": "https://cafe.naver.com/strnd/4986",
+    "k": "1교시형",
+    "q": "126정-3-02"
+   },
+   {
+    "t": "전자정부 웹사이트 UI/UX 설계기준 7가지와 웹접근성, 웹호환성, 웹개방성, 웹최적화에 대해 각각 설명하시오.   (126정)",
+    "u": "https://cafe.naver.com/strnd/9572",
+    "k": "2교시형",
+    "q": "126정-3-02"
+   }
+  ],
+  "se_GSCert": [
+   {
+    "t": "소프트웨어 품질성능 평가시험  (134컴)",
+    "u": "https://cafe.naver.com/strnd/27641",
+    "k": "1교시형",
+    "q": "134컴-1-13"
+   },
+   {
+    "t": "소프트웨어진흥법에 따라 국가기관 등의 장은 상용소프트웨어를 직접 구매하는 경우, 품질성능 평가시험을 직접하거나 지정된 시험기관에 품질성능 평가시",
+    "u": "https://cafe.naver.com/strnd/5877",
+    "k": "2교시형",
+    "q": "126컴-4-04"
+   }
+  ],
+  "nw_Ethernet": [
+   {
+    "t": "PoE(Power of Ethernet) 에 관하여 다음 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/26791",
+    "k": "1교시형",
+    "q": "134컴-2-01"
+   },
+   {
+    "t": "PoE(Power of Ethernet) 에 관하여 다음 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/26776",
+    "k": "2교시형",
+    "q": "134컴-2-01"
+   },
+   {
+    "t": "이더넷(Ethernet) 표준에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/16081",
+    "k": "1교시형",
+    "q": "129컴-3-05"
+   },
+   {
+    "t": "이더넷(Ethernet) 표준에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/13739",
+    "k": "2교시형",
+    "q": "129컴-3-05"
+   }
+  ],
+  "nw_PoE": [
+   {
+    "t": "PoE(Power of Ethernet) 에 관하여 다음 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/26791",
+    "k": "1교시형",
+    "q": "134컴-2-01"
+   },
+   {
+    "t": "PoE(Power of Ethernet) 에 관하여 다음 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/26776",
+    "k": "2교시형",
+    "q": "134컴-2-01"
+   }
+  ],
+  "nw_ARP": [
+   {
+    "t": "스푸핑(Spoofing) 공격에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/30053",
+    "k": "2교시형",
+    "q": "134컴-2-04"
+   }
+  ],
+  "pr_EA": [
+   {
+    "t": "정보기술 아키텍처의 도입과 운영에 필요한 사항을 정하기 위한 \"정보기술 아키텍처 (EA: Enterprise Architecture) 도입•운영",
+    "u": "https://cafe.naver.com/strnd/27727",
+    "k": "2교시형",
+    "q": "134컴-3-01"
+   }
+  ],
+  "mg_IntelligentInfoAct": [
+   {
+    "t": "빅데이터 관련 정보화 사업에 대한 감리 수행 점검항목을 제시하는 \"지능정보기술 감리 실무 가이드\"에 대해서 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/27572",
+    "k": "2교시형",
+    "q": "134컴-3-02"
+   },
+   {
+    "t": "지능정보화 기본법   (131컴)",
+    "u": "https://cafe.naver.com/strnd/22790",
+    "k": "1교시형",
+    "q": "131컴-1-10"
+   },
+   {
+    "t": "공공기관 정보화 사업 추진 시 국가정보원 보안성 검토 절차를 설명하시오.   (131컴)",
+    "u": "https://cafe.naver.com/strnd/21353",
+    "k": "2교시형",
+    "q": "131컴-3-05"
+   }
+  ],
+  "nw_NWProtocol": [
+   {
+    "t": "네트워크 프로토콜에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/28694",
+    "k": "1교시형",
+    "q": "134컴-3-05"
+   },
+   {
+    "t": "네트워크 프로토콜에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/26777",
+    "k": "2교시형",
+    "q": "134컴-3-05"
+   }
+  ],
+  "sc_WAF": [
+   {
+    "t": "웹방화벽, 침입탐지시스템(IDS: Intrusion Detection System) 및 침입방지시스템 (IPS: Intrusion Prevent",
+    "u": "https://cafe.naver.com/strnd/26788",
+    "k": "2교시형",
+    "q": "134컴-3-06"
+   },
+   {
+    "t": "웹 애플리케이션 방화벽(WAF : Web Application Firewall)   (129컴)",
+    "u": "https://cafe.naver.com/strnd/19503",
+    "k": "1교시형",
+    "q": "129컴-1-03"
+   }
+  ],
+  "dg_ISO26262": [
+   {
+    "t": "자동차에 대한 기능안전 규격인 ISO 26262에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/29209",
+    "k": "2교시형",
+    "q": "134컴-4-02"
+   }
+  ],
+  "se_TestType": [
+   {
+    "t": "소프트웨어 테스트 유형 중 뮤테이션 테스트(Mutation Test)에 대하여 설명하시오.   (133정)",
+    "u": "https://cafe.naver.com/strnd/27500",
+    "k": "1교시형",
+    "q": "133정-1-02"
+   }
+  ],
+  "db_NoSQL": [
+   {
+    "t": "NoSQL 유형과 모델링 절차를 설명하시오.   (133정)",
+    "u": "https://cafe.naver.com/strnd/29530",
+    "k": "1교시형",
+    "q": "133정-1-03"
+   },
+   {
+    "t": "NoSQL 유형과 모델링 절차를 설명하시오.   (133정)",
+    "u": "https://cafe.naver.com/strnd/31844",
+    "k": "2교시형",
+    "q": "133정-1-03"
+   },
+   {
+    "t": "NoSQL의 CAP(Consistency, Availability, Partition Tolerance)   (131컴)",
+    "u": "https://cafe.naver.com/strnd/26291",
+    "k": "1교시형",
+    "q": "131컴-1-07"
+   },
+   {
+    "t": "NoSQL의 3가지 구조에 대하여 설명하시오.   (128정)",
+    "u": "https://cafe.naver.com/strnd/12438",
+    "k": "1교시형",
+    "q": "128정-1-06"
+   }
+  ],
+  "sc_PKI": [
+   {
+    "t": "전자봉투 생성절차와 개봉절차를 설명하시오.   (133정)",
+    "u": "https://cafe.naver.com/strnd/28708",
+    "k": "1교시형",
+    "q": "133정-1-04"
+   },
+   {
+    "t": "전자봉투 생성절차와 개봉절차를 설명하시오.   (133정)",
+    "u": "https://cafe.naver.com/strnd/1028",
+    "k": "2교시형",
+    "q": "133정-1-04"
+   }
+  ],
+  "sc_HomoEnc": [
+   {
+    "t": "동형암호(Homomorphic Eneryption)의 동작원리와 유형을 설명하시오.   (133정)",
+    "u": "https://cafe.naver.com/strnd/23909",
+    "k": "1교시형",
+    "q": "133정-1-05"
+   },
+   {
+    "t": "동형암호(Homomorphic Encryption)   (125정)",
+    "u": "https://cafe.naver.com/strnd/26905",
+    "k": "1교시형",
+    "q": "125정-1-02"
+   }
+  ],
+  "dg_TAM": [
+   {
+    "t": "기술수용모델(Technology Acceptance Model: TAM)의 개념과 주요 구성요소에 대하여 설명하시오.   (133정)",
+    "u": "https://cafe.naver.com/strnd/23578",
+    "k": "1교시형",
+    "q": "133정-1-06"
+   }
+  ],
+  "db_CRUD": [
+   {
+    "t": "데이터모델링에서 CRUD 매트릭스(Matrix)를 사용하는 목적과 이를 표현하는 방법에 래하여 설명하시오.   (133정)",
+    "u": "https://cafe.naver.com/strnd/29426",
+    "k": "1교시형",
+    "q": "133정-1-07"
+   }
+  ],
+  "ai_TrustAI": [
+   {
+    "t": "인공지능 신뢰성의 개념과 핵심 속성에 대하여 설명하시오.   (133정)",
+    "u": "https://cafe.naver.com/strnd/27370",
+    "k": "1교시형",
+    "q": "133정-1-08"
+   }
+  ],
+  "mg_BCP": [
+   {
+    "t": "BCP(Business Continuity Planning) 수립 시의 주요 지표와 DRS(Disaster Recovery System) 구축 ",
+    "u": "https://cafe.naver.com/strnd/27731",
+    "k": "1교시형",
+    "q": "133정-1-09"
+   }
+  ],
+  "nw_TCPHandshake": [
+   {
+    "t": "TCP 프로토콜의 3-way handshake와 4-way handshake를 설명하시오.   (133정)",
+    "u": "https://cafe.naver.com/strnd/26924",
+    "k": "1교시형",
+    "q": "133정-1-13"
+   },
+   {
+    "t": "TCP 프로토콜의 3-way handshake와 4-way handshake를 설명하시오.   (133정)",
+    "u": "https://cafe.naver.com/strnd/8427",
+    "k": "2교시형",
+    "q": "133정-1-13"
+   },
+   {
+    "t": "전송 제어 프로토콜(TCP, Transmission Control Protocol)의 4-way handshake   (132컴)",
+    "u": "https://cafe.naver.com/strnd/21597",
+    "k": "1교시형",
+    "q": "132컴-1-05"
+   },
+   {
+    "t": "전송 제어 프로토콜(TCP, Transmission Control Protocol)의 4-way handshake   (132컴)",
+    "u": "https://cafe.naver.com/strnd/17154",
+    "k": "2교시형",
+    "q": "132컴-1-05"
+   }
+  ],
+  "nw_TCP": [
+   {
+    "t": "TCP 프로토콜의 3-way handshake와 4-way handshake를 설명하시오.   (133정)",
+    "u": "https://cafe.naver.com/strnd/26924",
+    "k": "1교시형",
+    "q": "133정-1-13"
+   },
+   {
+    "t": "TCP 프로토콜의 3-way handshake와 4-way handshake를 설명하시오.   (133정)",
+    "u": "https://cafe.naver.com/strnd/8427",
+    "k": "2교시형",
+    "q": "133정-1-13"
+   },
+   {
+    "t": "전송 제어 프로토콜(TCP, Transmission Control Protocol)의 4-way handshake   (132컴)",
+    "u": "https://cafe.naver.com/strnd/21597",
+    "k": "1교시형",
+    "q": "132컴-1-05"
+   },
+   {
+    "t": "전송 제어 프로토콜(TCP, Transmission Control Protocol)의 4-way handshake   (132컴)",
+    "u": "https://cafe.naver.com/strnd/17154",
+    "k": "2교시형",
+    "q": "132컴-1-05"
+   },
+   {
+    "t": "TCP(Transmission Control Protocol)는 네트워크에 혼잡(Congestion)이 발생한 경우 이를 해소하기 위한 다양한 ",
+    "u": "https://cafe.naver.com/strnd/19395",
+    "k": "2교시형",
+    "q": "130정-3-03"
+   },
+   {
+    "t": "다음 표준 통신 프로토콜에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/19457",
+    "k": "2교시형",
+    "q": "129컴-4-01"
+   },
+   {
+    "t": "TCP(Transmission Control Protocol)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/9213",
+    "k": "1교시형",
+    "q": "128컴-3-02"
+   },
+   {
+    "t": "TCP(Transmission Control Protocol)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/13698",
+    "k": "2교시형",
+    "q": "128컴-3-02"
+   },
+   {
+    "t": "TCP wrapper   (125컴)",
+    "u": "https://cafe.naver.com/strnd/11689",
+    "k": "1교시형",
+    "q": "125컴-1-09"
+   },
+   {
+    "t": "TCP 전송계층 프로토콜에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/12959",
+    "k": "2교시형",
+    "q": "125컴-3-02"
+   }
+  ],
+  "dg_EgovUIUX": [
+   {
+    "t": "‘디지털 정부서비스 UI/UX 가이드라인'(2024.2, 행정안전부)은 디지털 서비스를 구성하는 사용자 인터페이스(User Interface; ",
+    "u": "https://cafe.naver.com/strnd/27153",
+    "k": "2교시형",
+    "q": "133정-2-02"
+   }
+  ],
+  "mg_ISO20000Mgt": [
+   {
+    "t": "ISO/IEC 20000에서 제시하는 기준을 중심으로, 정보기술 서비스 관리체계(ITSM)의 개념을 설명하고, 이 시스템의 서비스 설계 및 구축",
+    "u": "https://cafe.naver.com/strnd/27893",
+    "k": "2교시형",
+    "q": "133정-2-03"
+   }
+  ],
+  "se_ISO20000": [
+   {
+    "t": "ISO/IEC 20000에서 제시하는 기준을 중심으로, 정보기술 서비스 관리체계(ITSM)의 개념을 설명하고, 이 시스템의 서비스 설계 및 구축",
+    "u": "https://cafe.naver.com/strnd/27893",
+    "k": "2교시형",
+    "q": "133정-2-03"
+   }
+  ],
+  "se_ITSM": [
+   {
+    "t": "ISO/IEC 20000에서 제시하는 기준을 중심으로, 정보기술 서비스 관리체계(ITSM)의 개념을 설명하고, 이 시스템의 서비스 설계 및 구축",
+    "u": "https://cafe.naver.com/strnd/27893",
+    "k": "2교시형",
+    "q": "133정-2-03"
+   }
+  ],
+  "ai_PLM": [
+   {
+    "t": "자연어 언어모델에서의 PLM(Pre-trained Language Model)의 특성을 설명하고, 이 모델이 최종 LLM(Large Langua",
+    "u": "https://cafe.naver.com/strnd/27615",
+    "k": "2교시형",
+    "q": "133정-2-04"
+   }
+  ],
+  "sc_PbD": [
+   {
+    "t": "PbD(Privacy by Design)는 광범위한 네트워크 환경에서 발생할 수 있는 데이터 처리의 폐해를 방지하기 위해 캐나다 온타리오주의 정",
+    "u": "https://cafe.naver.com/strnd/29623",
+    "k": "1교시형",
+    "q": "133정-2-05"
+   },
+   {
+    "t": "PbD(Privacy by Design)는 광범위한 네트워크 환경에서 발생할 수 있는 데이터 처리의 폐해를 방지하기 위해 캐나다 온타리오주의 정",
+    "u": "https://cafe.naver.com/strnd/26761",
+    "k": "2교시형",
+    "q": "133정-2-05"
+   }
+  ],
+  "ai_PrivacyTech": [
+   {
+    "t": "PbD(Privacy by Design)는 광범위한 네트워크 환경에서 발생할 수 있는 데이터 처리의 폐해를 방지하기 위해 캐나다 온타리오주의 정",
+    "u": "https://cafe.naver.com/strnd/29623",
+    "k": "1교시형",
+    "q": "133정-2-05"
+   },
+   {
+    "t": "PbD(Privacy by Design)는 광범위한 네트워크 환경에서 발생할 수 있는 데이터 처리의 폐해를 방지하기 위해 캐나다 온타리오주의 정",
+    "u": "https://cafe.naver.com/strnd/26761",
+    "k": "2교시형",
+    "q": "133정-2-05"
+   }
+  ],
+  "mg_ITCompliance": [
+   {
+    "t": "안티포렌식(Anti-Forensic)이 등장하게 된 배경 및 기술을 설명하고, 안티포렌식에 대응하기 위한 컴플라이언스(Compliance) 시스",
+    "u": "https://cafe.naver.com/strnd/12828",
+    "k": "1교시형",
+    "q": "133정-3-01"
+   },
+   {
+    "t": "안티포렌식(Anti-Forensic)이 등장하게 된 배경 및 기술을 설명하고, 안티포렌식에 대응하기 위한 컴플라이언스(Compliance) 시스",
+    "u": "https://cafe.naver.com/strnd/23872",
+    "k": "2교시형",
+    "q": "133정-3-01"
+   }
+  ],
+  "sc_AntiForensics": [
+   {
+    "t": "안티포렌식(Anti-Forensic)이 등장하게 된 배경 및 기술을 설명하고, 안티포렌식에 대응하기 위한 컴플라이언스(Compliance) 시스",
+    "u": "https://cafe.naver.com/strnd/12828",
+    "k": "1교시형",
+    "q": "133정-3-01"
+   },
+   {
+    "t": "안티포렌식(Anti-Forensic)이 등장하게 된 배경 및 기술을 설명하고, 안티포렌식에 대응하기 위한 컴플라이언스(Compliance) 시스",
+    "u": "https://cafe.naver.com/strnd/23872",
+    "k": "2교시형",
+    "q": "133정-3-01"
+   }
+  ],
+  "ai_GPT": [
+   {
+    "t": "국가사이버안보센터는 생성형AI의 보안위협과 안전한 활용을 위한 가이드라인(챗GPT 등 생성형 AI 활용 보안 가이드라인, 2023.6)을 발간하",
+    "u": "https://cafe.naver.com/strnd/27424",
+    "k": "2교시형",
+    "q": "133정-3-02"
+   }
+  ],
+  "dg_SuperApp": [
+   {
+    "t": "슈퍼앱에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/26976",
+    "k": "1교시형",
+    "q": "133정-3-03"
+   },
+   {
+    "t": "슈퍼앱에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/23744",
+    "k": "2교시형",
+    "q": "133정-3-03"
+   }
+  ],
+  "mg_SWOT": [
+   {
+    "t": "경영환경을 분석하는 방법인 SWOT(Strengths, Weaknesses, Opportunities, Threats), 3C(Customer,",
+    "u": "https://cafe.naver.com/strnd/29432",
+    "k": "2교시형",
+    "q": "133정-3-04"
+   }
+  ],
+  "mg_PEST": [
+   {
+    "t": "경영환경을 분석하는 방법인 SWOT(Strengths, Weaknesses, Opportunities, Threats), 3C(Customer,",
+    "u": "https://cafe.naver.com/strnd/29432",
+    "k": "2교시형",
+    "q": "133정-3-04"
+   }
+  ],
+  "ca_CacheMiss": [
+   {
+    "t": "경영환경을 분석하는 방법인 SWOT(Strengths, Weaknesses, Opportunities, Threats), 3C(Customer,",
+    "u": "https://cafe.naver.com/strnd/29432",
+    "k": "2교시형",
+    "q": "133정-3-04"
+   }
+  ],
+  "se_ReqEng": [
+   {
+    "t": "소프트웨어 요구공학(Requirement Engineering)에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/24296",
+    "k": "2교시형",
+    "q": "133정-3-05"
+   },
+   {
+    "t": "IT프로젝트를 성공적으로 수행하기 위해 요구사항이 체계적인 관리와 문서화가 매우 중요하다.",
+    "u": "https://cafe.naver.com/strnd/18089",
+    "k": "1교시형",
+    "q": "130정-4-04"
+   },
+   {
+    "t": "IT프로젝트를 성공적으로 수행하기 위해 요구사항이 체계적인 관리와 문서화가 매우 중요하다.",
+    "u": "https://cafe.naver.com/strnd/16838",
+    "k": "2교시형",
+    "q": "130정-4-04"
+   }
+  ],
+  "ai_ANN": [
+   {
+    "t": "인공신경망에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/27327",
+    "k": "2교시형",
+    "q": "133정-3-06"
+   }
+  ],
+  "nw_PrivateFiveG": [
+   {
+    "t": "5G특화망을 위한 네트워크를 구축할 때 고려되어야 할 사항에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/11690",
+    "k": "1교시형",
+    "q": "133정-4-05"
+   },
+   {
+    "t": "5G특화망을 위한 네트워크를 구축할 때 고려되어야 할 사항에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/23942",
+    "k": "2교시형",
+    "q": "133정-4-05"
+   },
+   {
+    "t": "5G특화망 구축에 있어 아래 네트워크 구축 기술방식에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/5288",
+    "k": "1교시형",
+    "q": "126컴-4-06"
+   },
+   {
+    "t": "5G 특화망은 개인을 위한 통신뿐만 아니라 산업환경 전체를 혁신하고 ICT 서비스의 차원을 높일 수 있는 핵심적인 경제인프라이다. 이와 관련하여",
+    "u": "https://cafe.naver.com/strnd/13766",
+    "k": "2교시형",
+    "q": "126컴-2-06"
+   }
+  ],
+  "mg_ISO31000": [
+   {
+    "t": "ISO 31000   (132정)",
+    "u": "https://cafe.naver.com/strnd/27526",
+    "k": "1교시형",
+    "q": "132정-1-01"
+   }
+  ],
+  "ai_BayesOpt": [
+   {
+    "t": "베이지안 최적화(Bayesian Optimization)   (132정)",
+    "u": "https://cafe.naver.com/strnd/27386",
+    "k": "1교시형",
+    "q": "132정-1-03"
+   }
+  ],
+  "sc_SymCrypto": [
+   {
+    "t": "대칭 암호화와 비대칭 암호화   (132정)",
+    "u": "https://cafe.naver.com/strnd/26775",
+    "k": "1교시형",
+    "q": "132정-1-04"
+   }
+  ],
+  "sc_ServerSec": [
+   {
+    "t": "ISA/IEC 62443   (132정)",
+    "u": "https://cafe.naver.com/strnd/26768",
+    "k": "1교시형",
+    "q": "132정-1-05"
+   },
+   {
+    "t": "산업제어시스템(Industrial Control System)의 퍼듀(Purdure) 모델에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/1867",
+    "k": "1교시형",
+    "q": "125정-4-06"
+   },
+   {
+    "t": "산업제어시스템(Industrial Control System)의 퍼듀(Purdure) 모델에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/18734",
+    "k": "2교시형",
+    "q": "125정-4-06"
+   }
+  ],
+  "sc_Phishing": [
+   {
+    "t": "큐싱(Qshing)   (132정)",
+    "u": "https://cafe.naver.com/strnd/23851",
+    "k": "1교시형",
+    "q": "132정-1-06"
+   }
+  ],
+  "dg_Observability": [
+   {
+    "t": "ELK(Elasticsearch/Logstash/Kibana) 스택   (132정)",
+    "u": "https://cafe.naver.com/strnd/22815",
+    "k": "1교시형",
+    "q": "132정-1-07"
+   }
+  ],
+  "se_GoodSW": [
+   {
+    "t": "좋은 소프트웨어가 갖추어야 할 4가지 특징   (132정)",
+    "u": "https://cafe.naver.com/strnd/27665",
+    "k": "1교시형",
+    "q": "132정-1-09"
+   }
+  ],
+  "dg_StorageType": [
+   {
+    "t": "블록스토리지,파일스토리지, 오브젝트스토리지 데이터 접근방식   (132정)",
+    "u": "https://cafe.naver.com/strnd/27046",
+    "k": "1교시형",
+    "q": "132정-1-12"
+   }
+  ],
+  "st_CLT": [
+   {
+    "t": "중심극한정리, t-검정, z-검정을 설명하시오.   (132정)",
+    "u": "https://cafe.naver.com/strnd/27325",
+    "k": "2교시형",
+    "q": "132정-2-01"
+   }
+  ],
+  "st_TTest": [
+   {
+    "t": "중심극한정리, t-검정, z-검정을 설명하시오.   (132정)",
+    "u": "https://cafe.naver.com/strnd/27325",
+    "k": "2교시형",
+    "q": "132정-2-01"
+   },
+   {
+    "t": "독립표본 t-검정(Independent t-test)과 대응표본 t-검정(Paired t-test)   (131정)",
+    "u": "https://cafe.naver.com/strnd/27389",
+    "k": "1교시형",
+    "q": "131정-1-09"
+   }
+  ],
+  "ai_SVM": [
+   {
+    "t": "서포트 벡터 머신(Support Vector Machine)은 기계학습 분야에서 많이 활용되는 학습",
+    "u": "https://cafe.naver.com/strnd/22837",
+    "k": "2교시형",
+    "q": "132컴-4-05"
+   },
+   {
+    "t": "머신러닝의 분류 모델인 서포트 벡터 머신(Support Vector Machine) 중 선형 서포트 벡터 머신의 마진(Margin) 분류 방법 ",
+    "u": "https://cafe.naver.com/strnd/27722",
+    "k": "2교시형",
+    "q": "132정-2-02"
+   },
+   {
+    "t": "SVM(Support Vector Machine)   (127정)",
+    "u": "https://cafe.naver.com/strnd/12647",
+    "k": "1교시형",
+    "q": "127정-1-10"
+   }
+  ],
+  "se_SWEngineer": [
+   {
+    "t": "현재, 소프트웨어 기술자 구분은 과거 기술자 등급제에서 IT역량분류체계를 기반으로 한 직무제(이하 IT직무제)로 변경되어 운영되고 있으나 실무 ",
+    "u": "https://cafe.naver.com/strnd/27537",
+    "k": "2교시형",
+    "q": "132정-2-03"
+   }
+  ],
+  "ds_S01": [
+   {
+    "t": "선형 자료 구조인 스택, 큐, 리스트의 자료 입출력 원리를 설명하시오.   (132정)",
+    "u": "https://cafe.naver.com/strnd/24047",
+    "k": "1교시형",
+    "q": "132정-2-06"
+   },
+   {
+    "t": "데이터 구조(Data Structure)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/21901",
+    "k": "2교시형",
+    "q": "131정-3-02"
+   },
+   {
+    "t": "선형 자료구조와 비선형 자료구조   (125정)",
+    "u": "https://cafe.naver.com/strnd/19701",
+    "k": "1교시형",
+    "q": "125정-1-04"
+   }
+  ],
+  "ca_IOMethod": [
+   {
+    "t": "선형 자료 구조인 스택, 큐, 리스트의 자료 입출력 원리를 설명하시오.   (132정)",
+    "u": "https://cafe.naver.com/strnd/24047",
+    "k": "1교시형",
+    "q": "132정-2-06"
+   },
+   {
+    "t": "입출력장치 인터페이스의 개념과 필요성   (128컴)",
+    "u": "https://cafe.naver.com/strnd/13175",
+    "k": "1교시형",
+    "q": "128컴-1-08"
+   }
+  ],
+  "ai_TFIDF": [
+   {
+    "t": "다음과 같이 형태소 분석을 통하여 문서 별로 단어의 점수가 식별되었다. 각 문서의 TF-IDF(Term Frequency-Inverse Docu",
+    "u": "https://cafe.naver.com/strnd/24109",
+    "k": "2교시형",
+    "q": "132정-3-03"
+   }
+  ],
+  "nw_SCTP": [
+   {
+    "t": "SCTP(Stream Control Transmission Protocol)와 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/577",
+    "k": "1교시형",
+    "q": "132정-3-04"
+   },
+   {
+    "t": "SCTP(Stream Control Transmission Protocol)와 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/21566",
+    "k": "2교시형",
+    "q": "132정-3-04"
+   },
+   {
+    "t": "다음 표준 통신 프로토콜에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/19457",
+    "k": "2교시형",
+    "q": "129컴-4-01"
+   }
+  ],
+  "sc_PIPA": [
+   {
+    "t": "APEC(Asia-Pacific Economic Cooperation) '] CBPR(Cross Border Privacy Rules)ol",
+    "u": "https://cafe.naver.com/strnd/21491",
+    "k": "1교시형",
+    "q": "132정-3-05"
+   },
+   {
+    "t": "APEC(Asia-Pacific Economic Cooperation) '] CBPR(Cross Border Privacy Rules)ol",
+    "u": "https://cafe.naver.com/strnd/21399",
+    "k": "2교시형",
+    "q": "132정-3-05"
+   },
+   {
+    "t": "최근(2023년 2월 27일) 국회에서 개인정보보호법 개정안이 의결되었다.",
+    "u": "https://cafe.naver.com/strnd/16069",
+    "k": "2교시형",
+    "q": "130정-2-04"
+   },
+   {
+    "t": "개정된 '데이터 3법'이 국회를 통과한 후에 데이터를 활용한 클라우드, IoT 등 여러 산업 군에서의 혁신과 신사업 개발 속도가 빨라지고 있다.",
+    "u": "https://cafe.naver.com/strnd/9256",
+    "k": "2교시형",
+    "q": "128정-2-04"
+   }
+  ],
+  "dg_PHM": [
+   {
+    "t": "설비 예지정비(Predictive Maintenance) 시스템 구축 시 LangChain 프레임위크를 활용할 수 있는 방안에 대하여 다음을 설",
+    "u": "https://cafe.naver.com/strnd/24035",
+    "k": "2교시형",
+    "q": "132정-4-03"
+   }
+  ],
+  "ai_LLMFramework": [
+   {
+    "t": "설비 예지정비(Predictive Maintenance) 시스템 구축 시 LangChain 프레임위크를 활용할 수 있는 방안에 대하여 다음을 설",
+    "u": "https://cafe.naver.com/strnd/24035",
+    "k": "2교시형",
+    "q": "132정-4-03"
+   }
+  ],
+  "pm_CostEstimation": [
+   {
+    "t": "소프트웨어 개발에 필요한 규모 산정 방식 종류와 특징을 비교 설명하고, 공공 소프트웨어 사업 규모 산정 방식의 현실적 개선 방안에 대하여 설명하",
+    "u": "https://cafe.naver.com/strnd/22244",
+    "k": "2교시형",
+    "q": "132정-4-05"
+   }
+  ],
+  "pr_TechEval": [
+   {
+    "t": "\"소프트웨어 기술성 평가기준 지침\"(과학기술정보통신부고시, 제2021-98호)에 명시된 기술제안서 평가항목   (132컴)",
+    "u": "https://cafe.naver.com/strnd/27527",
+    "k": "1교시형",
+    "q": "132컴-1-06"
+   }
+  ],
+  "nw_NRTK": [
+   {
+    "t": "네트워크 실시간 측위(NRTK, Network RealTime Kinematic)   (132컴)",
+    "u": "https://cafe.naver.com/strnd/21450",
+    "k": "1교시형",
+    "q": "132컴-1-09"
+   }
+  ],
+  "dg_ZKP": [
+   {
+    "t": "영지식 중명(Zero Knowledge Proof)   (132컴)",
+    "u": "https://cafe.naver.com/strnd/23702",
+    "k": "1교시형",
+    "q": "132컴-1-12"
+   }
+  ],
+  "ca_Interrupt": [
+   {
+    "t": "컴퓨터 시스템은 내부/외부에서 발생하는 각종 event에 대처하기 위해, 다양한 방식으로 인터럽트(intemupt) 체계를 구현하고 있다. 이와",
+    "u": "https://cafe.naver.com/strnd/28437",
+    "k": "2교시형",
+    "q": "132컴-2-01"
+   }
+  ],
+  "dg_IoT": [
+   {
+    "t": "사물인터넷은 일생생활에서 A와 융합되어 지능형 I0T로 진화하고 있다. 이와 관련하여 아래 사함을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/27004",
+    "k": "2교시형",
+    "q": "132컴-2-02"
+   }
+  ],
+  "nw_ICMP": [
+   {
+    "t": "인터넷 제어 메시지 프로토콜(ICMP, Intemet Control Message Protoco)과 인터넷 그룹 관리 프로토콜(IGMP, Int",
+    "u": "https://cafe.naver.com/strnd/23853",
+    "k": "1교시형",
+    "q": "132컴-2-03"
+   },
+   {
+    "t": "인터넷 제어 메시지 프로토콜(ICMP, Intemet Control Message Protoco)과 인터넷 그룹 관리 프로토콜(IGMP, Int",
+    "u": "https://cafe.naver.com/strnd/21414",
+    "k": "2교시형",
+    "q": "132컴-2-03"
+   }
+  ],
+  "dg_HRI": [
+   {
+    "t": "이동형 로봇의 대인 충돌 안전성 평가 방법(정보통신단체표준, TTAK.KO-10.1223)에 대하여 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/22387",
+    "k": "2교시형",
+    "q": "132컴-2-04"
+   }
+  ],
+  "pr_ISMP": [
+   {
+    "t": "정보시스템 마스터플랜(ISMP, Information System Master Plan)에 대하여 아래 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/22462",
+    "k": "2교시형",
+    "q": "132컴-2-05"
+   },
+   {
+    "t": "정보시스템마스터플랜(ISMP)의 기본 구성 내용 (단계별 활동, 세부내용, 산출물)   (130정)",
+    "u": "https://cafe.naver.com/strnd/20266",
+    "k": "1교시형",
+    "q": "130정-1-10"
+   },
+   {
+    "t": "한국지능정보사회진흥원(NIA) 및 기획재정부는 최근 'ISP(Information Strategy",
+    "u": "https://cafe.naver.com/strnd/10062",
+    "k": "1교시형",
+    "q": "129정-3-01"
+   },
+   {
+    "t": "한국지능정보사회진흥원(NIA) 및 기획재정부는 최근 'ISP(Information Strategy",
+    "u": "https://cafe.naver.com/strnd/14496",
+    "k": "2교시형",
+    "q": "129정-3-01"
+   },
+   {
+    "t": "정보시스템 마스터 플랜(ISMP, Information System Master Plan) 방법론에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/2120",
+    "k": "2교시형",
+    "q": "125컴-2-03"
+   },
+   {
+    "t": "대부분 공공부문 소프트웨어 사업에 ISMP(Information System Master Plan)를 적용하고 있다. ISMP의 방법론 체계를 ",
+    "u": "https://cafe.naver.com/strnd/2121",
+    "k": "2교시형",
+    "q": "125정-2-01"
+   }
+  ],
+  "nw_ORAN": [
+   {
+    "t": "개방형 무선 접속망 Open RAN(Open Radio Access Network)은 서로 다른 장비 간 상호 연동을 가능하게 하는 기술이다. ",
+    "u": "https://cafe.naver.com/strnd/6691",
+    "k": "1교시형",
+    "q": "132컴-2-06"
+   },
+   {
+    "t": "개방형 무선 접속망 Open RAN(Open Radio Access Network)은 서로 다른 장비 간 상호 연동을 가능하게 하는 기술이다. ",
+    "u": "https://cafe.naver.com/strnd/21378",
+    "k": "2교시형",
+    "q": "132컴-2-06"
+   }
+  ],
+  "dg_Ambient": [
+   {
+    "t": "앰비언트 컴퓨팅(Ambient Computing)은 인간의 개입이 없어도 시스템이 스스로 동작하는 기술이다. 이와 관련하여 아래 사항을 설명하시",
+    "u": "https://cafe.naver.com/strnd/26997",
+    "k": "2교시형",
+    "q": "132컴-3-01"
+   }
+  ],
+  "dg_VMContainer": [
+   {
+    "t": "가상머신(Virtual Machine)과 컨테이너(Container)에 대하여 구체적으로 설명하고, 공통점과 차이점을 상세히 설명하시오.   (",
+    "u": "https://cafe.naver.com/strnd/28120",
+    "k": "1교시형",
+    "q": "132컴-3-02"
+   },
+   {
+    "t": "가상머신(Virtual Machine)과 컨테이너(Container)에 대하여 구체적으로 설명하고, 공통점과 차이점을 상세히 설명하시오.   (",
+    "u": "https://cafe.naver.com/strnd/27068",
+    "k": "2교시형",
+    "q": "132컴-3-02"
+   }
+  ],
+  "dg_Container": [
+   {
+    "t": "가상머신(Virtual Machine)과 컨테이너(Container)에 대하여 구체적으로 설명하고, 공통점과 차이점을 상세히 설명하시오.   (",
+    "u": "https://cafe.naver.com/strnd/28120",
+    "k": "1교시형",
+    "q": "132컴-3-02"
+   },
+   {
+    "t": "가상머신(Virtual Machine)과 컨테이너(Container)에 대하여 구체적으로 설명하고, 공통점과 차이점을 상세히 설명하시오.   (",
+    "u": "https://cafe.naver.com/strnd/27068",
+    "k": "2교시형",
+    "q": "132컴-3-02"
+   }
+  ],
+  "nw_Manchester": [
+   {
+    "t": "맨체스터 코딩(Manchester Coding)은 데이터 저장과 디지털 데이터 동신 분야에서 다양하게 활용되는 코딩방식이다. 이와 관련하여 아래",
+    "u": "https://cafe.naver.com/strnd/21675",
+    "k": "2교시형",
+    "q": "132컴-3-03"
+   }
+  ],
+  "ca_CISCRISC": [
+   {
+    "t": "중앙처리장치(CPU) 내에 구성된 제어장치(Control Unit)의 구현 방법과 관련하여 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/28459",
+    "k": "2교시형",
+    "q": "132컴-3-04"
+   },
+   {
+    "t": "ARM(Advanced RISC Machine) 프로세서의 동작 모드 종류와 명령어 처리과정에 대하여 설명하시오.   (126컴)",
+    "u": "https://cafe.naver.com/strnd/8087",
+    "k": "1교시형",
+    "q": "126컴-4-05"
+   }
+  ],
+  "se_OOP": [
+   {
+    "t": "객체 지향 프로그래밍 기법을 활용한 소프트웨어 설계 시 고려해야 할 원칙(일명 SOLID 원칙) 5가지를 제시하고 설명하시오   (132컴)",
+    "u": "https://cafe.naver.com/strnd/22418",
+    "k": "2교시형",
+    "q": "132컴-3-05"
+   },
+   {
+    "t": "절차지향 프로그래밍(Procedure Oriented Programming) 방법과 객체지향 프로그래밍(Object Oriented Progra",
+    "u": "https://cafe.naver.com/strnd/31784",
+    "k": "2교시형",
+    "q": "125정-4-05"
+   }
+  ],
+  "se_SOLID": [
+   {
+    "t": "객체 지향 프로그래밍 기법을 활용한 소프트웨어 설계 시 고려해야 할 원칙(일명 SOLID 원칙) 5가지를 제시하고 설명하시오   (132컴)",
+    "u": "https://cafe.naver.com/strnd/22418",
+    "k": "2교시형",
+    "q": "132컴-3-05"
+   }
+  ],
+  "dg_CloudService": [
+   {
+    "t": "한국지능정보사회진흥원에서 제시한 클라우드 서비스 활용사업 감리 점검에 대하여 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/28169",
+    "k": "1교시형",
+    "q": "132컴-4-02"
+   },
+   {
+    "t": "한국지능정보사회진흥원에서 제시한 클라우드 서비스 활용사업 감리 점검에 대하여 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/22237",
+    "k": "2교시형",
+    "q": "132컴-4-02"
+   },
+   {
+    "t": "클라우드 서비스에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/25006",
+    "k": "2교시형",
+    "q": "131컴-2-06"
+   },
+   {
+    "t": "최근 다수의 기업들이 클라우드 서비스를 도입하면서 다양한 보안 문제가 대두되고 있다.",
+    "u": "https://cafe.naver.com/strnd/15066",
+    "k": "2교시형",
+    "q": "130정-4-03"
+   },
+   {
+    "t": "조직이 클라우드 컴퓨팅 서비스를 이용하고자 할 경우, 클라우드 서비스 제공자(CSP, Cloud Service Provider)에 대한 리스크를",
+    "u": "https://cafe.naver.com/strnd/18612",
+    "k": "2교시형",
+    "q": "129정-4-06"
+   },
+   {
+    "t": "클라우드 서비스의 품질 성능에 관한 기준 제정의 추진배경 및 평가 기준에 대하여 작성하고, 서비스 회복시간의 정량적 측정을 위한 지표에 대하여 ",
+    "u": "https://cafe.naver.com/strnd/19261",
+    "k": "1교시형",
+    "q": "128컴-4-06"
+   },
+   {
+    "t": "클라우드 서비스 제공자는 AIaaS(AI as a Service)를 통해 인공지능을 쉽게 이용할 수 있도록 다양한 API(Application ",
+    "u": "https://cafe.naver.com/strnd/32387",
+    "k": "1교시형",
+    "q": "128컴-3-04"
+   },
+   {
+    "t": "클라우드 서비스의 품질 성능에 관한 기준 제정의 추진배경 및 평가 기준에 대하여 작성하고, 서비스 회복시간의 정량적 측정을 위한 지표에 대하여 ",
+    "u": "https://cafe.naver.com/strnd/15788",
+    "k": "2교시형",
+    "q": "128컴-4-06"
+   },
+   {
+    "t": "공공부문에서 민간 클라우드 서비스를 활용하여 운영하고자 한다. 다음 사항들에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/17580",
+    "k": "2교시형",
+    "q": "128정-2-02"
+   },
+   {
+    "t": "클라우드 서비스 제공자는 AIaaS(AI as a Service)를 통해 인공지능을 쉽게 이용할 수 있도록 다양한 API(Application ",
+    "u": "https://cafe.naver.com/strnd/19319",
+    "k": "2교시형",
+    "q": "128컴-3-04"
+   }
+  ],
+  "pr_AuditFramework": [
+   {
+    "t": "한국지능정보사회진흥원에서 제시한 클라우드 서비스 활용사업 감리 점검에 대하여 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/28169",
+    "k": "1교시형",
+    "q": "132컴-4-02"
+   },
+   {
+    "t": "한국지능정보사회진흥원에서 제시한 클라우드 서비스 활용사업 감리 점검에 대하여 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/22237",
+    "k": "2교시형",
+    "q": "132컴-4-02"
+   },
+   {
+    "t": "사업유형이 정보시스템 개발인 경우 정보시스템 감리 점검 프레임워크 V3.0에 따라 다음 두 모델에 대하여 감리시점과 감리영역을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/1992",
+    "k": "2교시형",
+    "q": "125컴-2-04"
+   }
+  ],
+  "dg_DigitalTwin": [
+   {
+    "t": "디지털 트윈 기술을 이용한 제조(정보통신단체표준, TTAKKO-11.0284)에 대하여 아래 사항을 설명하시오",
+    "u": "https://cafe.naver.com/strnd/27031",
+    "k": "2교시형",
+    "q": "132컴-4-03"
+   },
+   {
+    "t": "디지털 트윈(Digital Twin)과 메타버스(Metaverse)   (127정)",
+    "u": "https://cafe.naver.com/strnd/22581",
+    "k": "1교시형",
+    "q": "127정-1-12"
+   },
+   {
+    "t": "디지털 트윈(Digital Twins) 시스템에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/1650",
+    "k": "1교시형",
+    "q": "125컴-3-04"
+   },
+   {
+    "t": "디지털 트윈(Digital Twins) 시스템에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/12046",
+    "k": "2교시형",
+    "q": "125컴-3-04"
+   }
+  ],
+  "dg_MEC": [
+   {
+    "t": "초저지연 서비스와 부하분산을 위한 모바일 엣지 컴퓨팅 (Mobile Edge Computing) 기술이 확대되고 있다. 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/1824",
+    "k": "1교시형",
+    "q": "132컴-4-06"
+   },
+   {
+    "t": "초저지연 서비스와 부하분산을 위한 모바일 엣지 컴퓨팅 (Mobile Edge Computing) 기술이 확대되고 있다. 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/21599",
+    "k": "2교시형",
+    "q": "132컴-4-06"
+   }
+  ],
+  "nw_MEC": [
+   {
+    "t": "초저지연 서비스와 부하분산을 위한 모바일 엣지 컴퓨팅 (Mobile Edge Computing) 기술이 확대되고 있다. 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/1824",
+    "k": "1교시형",
+    "q": "132컴-4-06"
+   },
+   {
+    "t": "초저지연 서비스와 부하분산을 위한 모바일 엣지 컴퓨팅 (Mobile Edge Computing) 기술이 확대되고 있다. 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/21599",
+    "k": "2교시형",
+    "q": "132컴-4-06"
+   }
+  ],
+  "nw_NFC": [
+   {
+    "t": "NFC(Near Field Communication)   (131정)",
+    "u": "https://cafe.naver.com/strnd/27007",
+    "k": "1교시형",
+    "q": "131정-1-02"
+   }
+  ],
+  "se_Waterfall": [
+   {
+    "t": "폭포수 개발 방법론과 애자일 개발 방법론의 특징 및 장단점 비교   (131정)",
+    "u": "https://cafe.naver.com/strnd/22367",
+    "k": "1교시형",
+    "q": "131정-1-03"
+   }
+  ],
+  "ai_DimReduction": [
+   {
+    "t": "데이터 차원 축소(Data Dimensionality Reduction)   (131정)",
+    "u": "https://cafe.naver.com/strnd/33061",
+    "k": "1교시형",
+    "q": "131정-1-05"
+   }
+  ],
+  "dg_ScaleOut": [
+   {
+    "t": "오토 스케일링(Auto Scaling)   (131정)",
+    "u": "https://cafe.naver.com/strnd/26928",
+    "k": "1교시형",
+    "q": "131정-1-08"
+   }
+  ],
+  "sc_CredStuffing": [
+   {
+    "t": "크리덴셜 스터핑(Credential stuffing)   (131정)",
+    "u": "https://cafe.naver.com/strnd/21412",
+    "k": "1교시형",
+    "q": "131정-1-10"
+   }
+  ],
+  "db_DataStd": [
+   {
+    "t": "데이터 표준화의 필요성과 기대효과   (131정)",
+    "u": "https://cafe.naver.com/strnd/27746",
+    "k": "1교시형",
+    "q": "131정-1-11"
+   }
+  ],
+  "se_OOMethod": [
+   {
+    "t": "객체지향 방법론에서 캡슐화(Encapsulation)와 정보은닉(Information Hiding)   (131정)",
+    "u": "https://cafe.naver.com/strnd/29375",
+    "k": "1교시형",
+    "q": "131정-1-12"
+   },
+   {
+    "t": "객체지향 기법 중에는 리팩토링(Refactoring)과 디자인패턴(Design Pattern)이 있다.",
+    "u": "https://cafe.naver.com/strnd/15065",
+    "k": "1교시형",
+    "q": "129정-2-06"
+   },
+   {
+    "t": "객체지향 기법 중에는 리팩토링(Refactoring)과 디자인패턴(Design Pattern)이 있다.",
+    "u": "https://cafe.naver.com/strnd/19945",
+    "k": "2교시형",
+    "q": "129정-2-06"
+   }
+  ],
+  "nw_Encapsulation": [
+   {
+    "t": "객체지향 방법론에서 캡슐화(Encapsulation)와 정보은닉(Information Hiding)   (131정)",
+    "u": "https://cafe.naver.com/strnd/29375",
+    "k": "1교시형",
+    "q": "131정-1-12"
+   }
+  ],
+  "pr_BPR": [
+   {
+    "t": "ISP(Information Strategy Planning)과 BPR(Business Process Reengineering)의 개념과 수행절",
+    "u": "https://cafe.naver.com/strnd/22845",
+    "k": "2교시형",
+    "q": "131정-2-01"
+   }
+  ],
+  "pr_ISP": [
+   {
+    "t": "ISP(Information Strategy Planning)과 BPR(Business Process Reengineering)의 개념과 수행절",
+    "u": "https://cafe.naver.com/strnd/22845",
+    "k": "2교시형",
+    "q": "131정-2-01"
+   },
+   {
+    "t": "한국지능정보사회진흥원(NIA) 및 기획재정부는 최근 'ISP(Information Strategy",
+    "u": "https://cafe.naver.com/strnd/10062",
+    "k": "1교시형",
+    "q": "129정-3-01"
+   },
+   {
+    "t": "한국지능정보사회진흥원(NIA) 및 기획재정부는 최근 'ISP(Information Strategy",
+    "u": "https://cafe.naver.com/strnd/14496",
+    "k": "2교시형",
+    "q": "129정-3-01"
+   },
+   {
+    "t": "정보전략계획(Information Strategy Planning)에 대하여 아래의 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/6681",
+    "k": "2교시형",
+    "q": "127정-3-01"
+   }
+  ],
+  "dg_Virtualization": [
+   {
+    "t": "ISP(Information Strategy Planning)과 BPR(Business Process Reengineering)의 개념과 수행절",
+    "u": "https://cafe.naver.com/strnd/22845",
+    "k": "2교시형",
+    "q": "131정-2-01"
+   },
+   {
+    "t": "가상화(Virtualization)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/24913",
+    "k": "1교시형",
+    "q": "129정-2-01"
+   },
+   {
+    "t": "가상화(Virtualization)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/13658",
+    "k": "2교시형",
+    "q": "129정-2-01"
+   },
+   {
+    "t": "VM(Virtual Machine)과 Container   (128컴)",
+    "u": "https://cafe.naver.com/strnd/21151",
+    "k": "1교시형",
+    "q": "128컴-1-03"
+   },
+   {
+    "t": "VM(Virtual Machine)과 Container   (128컴)",
+    "u": "https://cafe.naver.com/strnd/27202",
+    "k": "2교시형",
+    "q": "128컴-1-03"
+   }
+  ],
+  "nw_Socket": [
+   {
+    "t": "소켓(Socket) 통신과 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/21600",
+    "k": "2교시형",
+    "q": "131정-2-05"
+   }
+  ],
+  "se_ArchStyle": [
+   {
+    "t": "아키텍처 스타일과 디자인 패턴에 대하여 다음을 설명하시오.   (131정)",
+    "u": "https://cafe.naver.com/strnd/22386",
+    "k": "1교시형",
+    "q": "131정-2-06"
+   }
+  ],
+  "se_IntegTest": [
+   {
+    "t": "통합테스트(Integration Test)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/22299",
+    "k": "2교시형",
+    "q": "131정-3-03"
+   }
+  ],
+  "se_SafetyAnalysis": [
+   {
+    "t": "소프트웨어 안전성 분석의 필요성과 다음의 분석 기법을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/22419",
+    "k": "1교시형",
+    "q": "131정-3-04"
+   },
+   {
+    "t": "소프트웨어 안전성 분석의 필요성과 다음의 분석 기법을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/22164",
+    "k": "2교시형",
+    "q": "131정-3-04"
+   },
+   {
+    "t": "시스템 위험분석(위험성평가)기법 중 ETA(Event Tree Analysis)   (128컴)",
+    "u": "https://cafe.naver.com/strnd/8683",
+    "k": "1교시형",
+    "q": "128컴-1-09"
+   },
+   {
+    "t": "소프트웨어 안전 관리에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/14505",
+    "k": "2교시형",
+    "q": "128컴-2-05"
+   },
+   {
+    "t": "최근 SW가 대부분 산업에 적용되면서 소프트웨어 안전이 중요하게 여겨지고 있다. <소프트웨어 안전진단 가이드(공통분야)> 에 따른 소프트웨어 안",
+    "u": "https://cafe.naver.com/strnd/7510",
+    "k": "2교시형",
+    "q": "126정-3-03"
+   }
+  ],
+  "os_Paging": [
+   {
+    "t": "운영체제 메모리 관리 기법 중 페이징 기법과 세그멘티이션 기법의 개념을 설명하고, 두 기법에 대하여 비교 설명하시오.   (131정)",
+    "u": "https://cafe.naver.com/strnd/26545",
+    "k": "2교시형",
+    "q": "131정-3-05"
+   }
+  ],
+  "sc_SafetyMeasure": [
+   {
+    "t": "개인정보보호를 위한 '개인정보의 안전성 확보조치 기준' 고시 내용 중 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/9129",
+    "k": "1교시형",
+    "q": "131정-4-02"
+   },
+   {
+    "t": "개인정보보호를 위한 '개인정보의 안전성 확보조치 기준' 고시 내용 중 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/21485",
+    "k": "2교시형",
+    "q": "131정-4-02"
+   },
+   {
+    "t": "개인정보 안전성 확보조치 기준에 명시된 내부관리계획의 정의 및 필요성, 주요 내용에 대해 설명하시오.   (127정)",
+    "u": "https://cafe.naver.com/strnd/13747",
+    "k": "2교시형",
+    "q": "127정-2-05"
+   }
+  ],
+  "db_DQM": [
+   {
+    "t": "데이터 품질관리에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/22714",
+    "k": "2교시형",
+    "q": "131정-4-03"
+   },
+   {
+    "t": "A기관은 데이터 품질관리 역량을 갖추고, 품질 제고 활동을 하기 위해 데이터",
+    "u": "https://cafe.naver.com/strnd/13233",
+    "k": "2교시형",
+    "q": "129정-3-04"
+   },
+   {
+    "t": "공공기관의 데이터베이스 표준화지침에서 정의하는 테이블 정의서에 기록될 항목과 항목의 작성 지침에 대하여 설명하시오.   (126정)",
+    "u": "https://cafe.naver.com/strnd/13200",
+    "k": "2교시형",
+    "q": "126정-3-01"
+   }
+  ],
+  "ai_FoundationModel": [
+   {
+    "t": "인공지능 분야에서 파운데이션 모델의 개념, 특징, 기반기술 및 구현시 법적, 사회적 측면의 고려사항에 대하여 설명하시오.   (131정)",
+    "u": "https://cafe.naver.com/strnd/24130",
+    "k": "2교시형",
+    "q": "131정-4-04"
+   }
+  ],
+  "pm_SWSizing": [
+   {
+    "t": "소프트웨어 규모산정에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/22270",
+    "k": "2교시형",
+    "q": "131정-4-05"
+   }
+  ],
+  "al_A02": [
+   {
+    "t": "정렬 알고리즘은 데이터Set이 주어졌을 때, 이를 사용자가 지정한 기준에 맞게 순서대로 나열하여 재배치하는 기법이다. 정렬 알고리즘과 관련하여 ",
+    "u": "https://cafe.naver.com/strnd/29915",
+    "k": "1교시형",
+    "q": "131정-4-06"
+   },
+   {
+    "t": "정렬 알고리즘은 데이터Set이 주어졌을 때, 이를 사용자가 지정한 기준에 맞게 순서대로 나열하여 재배치하는 기법이다. 정렬 알고리즘과 관련하여 ",
+    "u": "https://cafe.naver.com/strnd/24134",
+    "k": "2교시형",
+    "q": "131정-4-06"
+   }
+  ],
+  "st_MonteCarlo": [
+   {
+    "t": "몬테 카를로 방법(Monte Carlo Method)   (131컴)",
+    "u": "https://cafe.naver.com/strnd/27387",
+    "k": "1교시형",
+    "q": "131컴-1-01"
+   }
+  ],
+  "ai_Autoencoder": [
+   {
+    "t": "오토인코더(Autoencoder)   (131컴)",
+    "u": "https://cafe.naver.com/strnd/27371",
+    "k": "1교시형",
+    "q": "131컴-1-03"
+   }
+  ],
+  "ai_TransferLearn": [
+   {
+    "t": "전이학습(Transfer Learning)   (131컴)",
+    "u": "https://cafe.naver.com/strnd/27417",
+    "k": "1교시형",
+    "q": "131컴-1-04"
+   }
+  ],
+  "se_ATAM": [
+   {
+    "t": "ATAM(Architecture Tradeoff Analysis method)과 CBAM(Cost Benefit Analysis Method) ",
+    "u": "https://cafe.naver.com/strnd/14448",
+    "k": "1교시형",
+    "q": "131컴-1-05"
+   }
+  ],
+  "se_CBAM": [
+   {
+    "t": "ATAM(Architecture Tradeoff Analysis method)과 CBAM(Cost Benefit Analysis Method) ",
+    "u": "https://cafe.naver.com/strnd/14448",
+    "k": "1교시형",
+    "q": "131컴-1-05"
+   },
+   {
+    "t": "소프트웨어 아키텍처 평가모델 중 CBAM(Cost Benefit Analysis Method)에 대하여 설명하시오.   (128정)",
+    "u": "https://cafe.naver.com/strnd/8791",
+    "k": "1교시형",
+    "q": "128정-1-07"
+   }
+  ],
+  "ca_PIM": [
+   {
+    "t": "PNM(Processing Near Memory)   (131컴)",
+    "u": "https://cafe.naver.com/strnd/20085",
+    "k": "1교시형",
+    "q": "131컴-1-06"
+   },
+   {
+    "t": "PIM (Processing in Memory)   (129컴)",
+    "u": "https://cafe.naver.com/strnd/18954",
+    "k": "1교시형",
+    "q": "129컴-1-01"
+   }
+  ],
+  "db_CAP": [
+   {
+    "t": "NoSQL의 CAP(Consistency, Availability, Partition Tolerance)   (131컴)",
+    "u": "https://cafe.naver.com/strnd/26291",
+    "k": "1교시형",
+    "q": "131컴-1-07"
+   },
+   {
+    "t": "CAP 이론의 한계와 PACELC(Partition Availability Consistency Else Latency Consistency) ",
+    "u": "https://cafe.naver.com/strnd/15548",
+    "k": "1교시형",
+    "q": "126정-1-07"
+   },
+   {
+    "t": "CAP 이론의 한계와 PACELC(Partition Availability Consistency Else Latency Consistency) ",
+    "u": "https://cafe.naver.com/strnd/13258",
+    "k": "2교시형",
+    "q": "126정-1-07"
+   }
+  ],
+  "dg_RPA": [
+   {
+    "t": "RPA(Robotic Process Automation)   (131컴)",
+    "u": "https://cafe.naver.com/strnd/26977",
+    "k": "1교시형",
+    "q": "131컴-1-08"
+   }
+  ],
+  "sc_WebAttack": [
+   {
+    "t": "CSRF(Cross-Site Request Forgery)   (131컴)",
+    "u": "https://cafe.naver.com/strnd/23126",
+    "k": "1교시형",
+    "q": "131컴-1-13"
+   }
+  ],
+  "st_ProbDist": [
+   {
+    "t": "마르코프 특성(Markov Property)은 미래 상태의 조건부 확률분포가 과거 상태와는 독립적으로 현재 상태에 의해서만 결정된다는 것을 뜻한",
+    "u": "https://cafe.naver.com/strnd/27384",
+    "k": "2교시형",
+    "q": "131컴-2-01"
+   }
+  ],
+  "os_Thrashing": [
+   {
+    "t": "프로세스 스레싱(Thrashing)의 정의, 발생 원인과 해결방법을 설명하시오   (131컴)",
+    "u": "https://cafe.naver.com/strnd/13207",
+    "k": "1교시형",
+    "q": "131컴-2-02"
+   },
+   {
+    "t": "프로세스 스레싱(Thrashing)의 정의, 발생 원인과 해결방법을 설명하시오   (131컴)",
+    "u": "https://cafe.naver.com/strnd/28414",
+    "k": "1교시형",
+    "q": "131컴-2-02"
+   }
+  ],
+  "nw_SDN": [
+   {
+    "t": "네트워크 자원을 보다 효율적으로 관리하고 최적화하기 위해, 네트워크 인프라에 머신러닝 기법을 적용하고 있다. 이와 관련하여 다음을 설명하시오",
+    "u": "https://cafe.naver.com/strnd/7266",
+    "k": "1교시형",
+    "q": "131컴-2-04"
+   },
+   {
+    "t": "네트워크 자원을 보다 효율적으로 관리하고 최적화하기 위해, 네트워크 인프라에 머신러닝 기법을 적용하고 있다. 이와 관련하여 다음을 설명하시오",
+    "u": "https://cafe.naver.com/strnd/21380",
+    "k": "2교시형",
+    "q": "131컴-2-04"
+   }
+  ],
+  "ca_Chiplet": [
+   {
+    "t": "칩렛(Chiplet)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/20561",
+    "k": "2교시형",
+    "q": "131컴-2-05"
+   }
+  ],
+  "ca_RAID": [
+   {
+    "t": "디스크 여러 개를 활용하여 속도를 높이고 안정성을 향상시키는 기술인 RAID(Redundant Array of Inexpensive Disk) ",
+    "u": "https://cafe.naver.com/strnd/26552",
+    "k": "1교시형",
+    "q": "131컴-3-03"
+   },
+   {
+    "t": "디스크 여러 개를 활용하여 속도를 높이고 안정성을 향상시키는 기술인 RAID(Redundant Array of Inexpensive Disk) ",
+    "u": "https://cafe.naver.com/strnd/28435",
+    "k": "2교시형",
+    "q": "131컴-3-03"
+   },
+   {
+    "t": "RAID 0+1과 RAID 1+0   (125컴)",
+    "u": "https://cafe.naver.com/strnd/11435",
+    "k": "1교시형",
+    "q": "125컴-1-06"
+   }
+  ],
+  "pr_PreConsult": [
+   {
+    "t": "공공기관 정보화 사업 추진 시 국가정보원 보안성 검토 절차를 설명하시오.   (131컴)",
+    "u": "https://cafe.naver.com/strnd/21353",
+    "k": "2교시형",
+    "q": "131컴-3-05"
+   }
+  ],
+  "dg_DataOps": [
+   {
+    "t": "데이터옵스(DataOps)의 주요 기술을 설명하고, 데브옵스(DevOps)와의 차이점을 설명하시오   (131컴)",
+    "u": "https://cafe.naver.com/strnd/19720",
+    "k": "2교시형",
+    "q": "131컴-3-06"
+   },
+   {
+    "t": "데이터옵스(DataOps)와 데브옵스(DevOps)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/32580",
+    "k": "1교시형",
+    "q": "130정-4-06"
+   }
+  ],
+  "ai_RL": [
+   {
+    "t": "강화학습(Reinforcement Learning)은 최적의 행동정책을 찾아가는 기계학습 방법이다. 이와 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/27453",
+    "k": "2교시형",
+    "q": "131컴-4-01"
+   }
+  ],
+  "db_RecSysDB": [
+   {
+    "t": "추천시스템은 사용자의 과거 행동데이터 등을 바탕으로 사용자가 좋아할 만한 정보나 제품을 제시해 주는 시스템이다. 이와 관련하여 다음을 설명하시오",
+    "u": "https://cafe.naver.com/strnd/20118",
+    "k": "1교시형",
+    "q": "131컴-4-02"
+   }
+  ],
+  "dg_RecSys": [
+   {
+    "t": "추천시스템은 사용자의 과거 행동데이터 등을 바탕으로 사용자가 좋아할 만한 정보나 제품을 제시해 주는 시스템이다. 이와 관련하여 다음을 설명하시오",
+    "u": "https://cafe.naver.com/strnd/20118",
+    "k": "1교시형",
+    "q": "131컴-4-02"
+   }
+  ],
+  "nw_Matter": [
+   {
+    "t": "스마트홈 연결 표준인 매터에 대하여 다음을 설명하시오",
+    "u": "https://cafe.naver.com/strnd/31164",
+    "k": "1교시형",
+    "q": "131컴-4-04"
+   },
+   {
+    "t": "스마트홈 연결 표준인 매터에 대하여 다음을 설명하시오",
+    "u": "https://cafe.naver.com/strnd/23335",
+    "k": "2교시형",
+    "q": "131컴-4-04"
+   }
+  ],
+  "se_PerfTest": [
+   {
+    "t": "시스템 성능 테스트 수행 시 성능 지표 관련하여 다음 물음에 답하시오.",
+    "u": "https://cafe.naver.com/strnd/22354",
+    "k": "2교시형",
+    "q": "131컴-4-05"
+   }
+  ],
+  "pr_DirectPurchase": [
+   {
+    "t": "공공기관 정보화 사업 추진 시 상용SW 직접구매 제도와 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/23152",
+    "k": "2교시형",
+    "q": "131컴-4-06"
+   },
+   {
+    "t": "상용 소프트웨어 직접구매 제도   (129컴)",
+    "u": "https://cafe.naver.com/strnd/13056",
+    "k": "1교시형",
+    "q": "129컴-1-13"
+   }
+  ],
+  "db_ConcurrencyCtrl": [
+   {
+    "t": "데이터베이스 병행 제어 기법 및 필요성   (130정)",
+    "u": "https://cafe.naver.com/strnd/30417",
+    "k": "1교시형",
+    "q": "130정-1-02"
+   },
+   {
+    "t": "데이터베이스의 병행제어(Concurrency Control)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/10240",
+    "k": "2교시형",
+    "q": "128정-4-05"
+   }
+  ],
+  "se_PhAnalysis": [
+   {
+    "t": "요구사항명세서에 기술되어야 하는 항목 설명   (130정)",
+    "u": "https://cafe.naver.com/strnd/27668",
+    "k": "1교시형",
+    "q": "130정-1-03"
+   }
+  ],
+  "dg_Drone": [
+   {
+    "t": "드론의 보안위협과 대응방안   (130정)",
+    "u": "https://cafe.naver.com/strnd/21259",
+    "k": "1교시형",
+    "q": "130정-1-05"
+   },
+   {
+    "t": "안티드론(Anti-Drone)   (125컴)",
+    "u": "https://cafe.naver.com/strnd/9489",
+    "k": "1교시형",
+    "q": "125컴-1-08"
+   }
+  ],
+  "sc_BlockMode": [
+   {
+    "t": "블록 암호화 알고리즘   (130정)",
+    "u": "https://cafe.naver.com/strnd/21488",
+    "k": "1교시형",
+    "q": "130정-1-06"
+   },
+   {
+    "t": "블록 암호화 알고리즘   (130정)",
+    "u": "https://cafe.naver.com/strnd/29710",
+    "k": "2교시형",
+    "q": "130정-1-06"
+   }
+  ],
+  "nw_VXLAN": [
+   {
+    "t": "VXLAN(Virtual eXtensible LAN)   (130정)",
+    "u": "https://cafe.naver.com/strnd/19402",
+    "k": "1교시형",
+    "q": "130정-1-08"
+   }
+  ],
+  "nw_VLAN": [
+   {
+    "t": "VXLAN(Virtual eXtensible LAN)   (130정)",
+    "u": "https://cafe.naver.com/strnd/19402",
+    "k": "1교시형",
+    "q": "130정-1-08"
+   }
+  ],
+  "ai_Optimizer": [
+   {
+    "t": "머신러닝 최적화 알고리즘 (Optimization Algorithm) 유형 및 장단점   (130정)",
+    "u": "https://cafe.naver.com/strnd/21885",
+    "k": "1교시형",
+    "q": "130정-1-09"
+   },
+   {
+    "t": "데이터베이스 옵티마이저(Optimizer)에 대한 아래의 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/15571",
+    "k": "2교시형",
+    "q": "127정-3-04"
+   }
+  ],
+  "al_Optimization": [
+   {
+    "t": "머신러닝 최적화 알고리즘 (Optimization Algorithm) 유형 및 장단점   (130정)",
+    "u": "https://cafe.naver.com/strnd/21885",
+    "k": "1교시형",
+    "q": "130정-1-09"
+   }
+  ],
+  "mg_AHP": [
+   {
+    "t": "AHP (Analytic Hierarchy Process) 기법   (130정)",
+    "u": "https://cafe.naver.com/strnd/22892",
+    "k": "1교시형",
+    "q": "130정-1-11"
+   }
+  ],
+  "pm_ISO21500": [
+   {
+    "t": "ISO 21500 구성모델   (130정)",
+    "u": "https://cafe.naver.com/strnd/22188",
+    "k": "1교시형",
+    "q": "130정-1-13"
+   }
+  ],
+  "dg_MetaverseEthics": [
+   {
+    "t": "과학기술정보통신부가 발표한 '메타버스 윤리원칙'에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/19379",
+    "k": "1교시형",
+    "q": "130정-2-05"
+   }
+  ],
+  "ai_DecisionTree": [
+   {
+    "t": "머신 러닝(Machine Learning)에서 활용되는 의사결정나무(Decision Tree)모델을 설명하시오.   (130정)",
+    "u": "https://cafe.naver.com/strnd/31289",
+    "k": "1교시형",
+    "q": "130정-3-01"
+   },
+   {
+    "t": "머신 러닝(Machine Learning)에서 활용되는 의사결정나무(Decision Tree)모델을 설명하시오.   (130정)",
+    "u": "https://cafe.naver.com/strnd/18394",
+    "k": "2교시형",
+    "q": "130정-3-01"
+   },
+   {
+    "t": "의사결정나무의 지니 지수(Gini Index)와 엔트로피 지수(Entropy Index)   (126정)",
+    "u": "https://cafe.naver.com/strnd/13199",
+    "k": "1교시형",
+    "q": "126정-1-08"
+   }
+  ],
+  "se_PhDesign": [
+   {
+    "t": "인공지능 등 지능정보 기술에 비현실적인 감리기준을 해결하기 위해 지능정보기술 감리 실무 가이드(한국지능정보사회진흥원, 2023년)를 발간했다. ",
+    "u": "https://cafe.naver.com/strnd/22251",
+    "k": "2교시형",
+    "q": "130정-3-05"
+   }
+  ],
+  "dg_Web3": [
+   {
+    "t": "웹3.0에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/19991",
+    "k": "1교시형",
+    "q": "130정-4-05"
+   },
+   {
+    "t": "웹3.0에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/28681",
+    "k": "2교시형",
+    "q": "130정-4-05"
+   }
+  ],
+  "dg_DPG": [
+   {
+    "t": "디지털 플랫폼 정부의 특징, 구성요소, 기대효과   (129정)",
+    "u": "https://cafe.naver.com/strnd/15807",
+    "k": "1교시형",
+    "q": "129정-1-01"
+   },
+   {
+    "t": "2022년 9월 2일 정부는 디지털플랫폼 정부위원회를 설립하고 기존 정부의 파이프라인 비즈니스 형태를 디지털플랫폼 형태로 변화를 추진하고 있다.",
+    "u": "https://cafe.naver.com/strnd/19128",
+    "k": "2교시형",
+    "q": "129컴-4-05"
+   }
+  ],
+  "se_AOP": [
+   {
+    "t": "AOP(Aspect Oriented Programming)의 정의, 구성, 기대효과   (129정)",
+    "u": "https://cafe.naver.com/strnd/22338",
+    "k": "1교시형",
+    "q": "129정-1-03"
+   }
+  ],
+  "pr_APField": [
+   {
+    "t": "정보시스템 감리기준 고시(2021-4호, 2021.1.19)에 의거한 현장감리의 활동, 작업내용을 기술하고 PMO(Project Manageme",
+    "u": "https://cafe.naver.com/strnd/19932",
+    "k": "1교시형",
+    "q": "129정-1-04"
+   }
+  ],
+  "ai_KMeans": [
+   {
+    "t": "K-Means Clustering과 DBSCAN(Density-Based Spatial Clustering of Applications with",
+    "u": "https://cafe.naver.com/strnd/13191",
+    "k": "1교시형",
+    "q": "129정-1-05"
+   }
+  ],
+  "ai_DBSCAN": [
+   {
+    "t": "K-Means Clustering과 DBSCAN(Density-Based Spatial Clustering of Applications with",
+    "u": "https://cafe.naver.com/strnd/13191",
+    "k": "1교시형",
+    "q": "129정-1-05"
+   }
+  ],
+  "se_Coupling": [
+   {
+    "t": "소프트웨어 결합도(Coupling)의 종류   (129정)",
+    "u": "https://cafe.naver.com/strnd/22340",
+    "k": "1교시형",
+    "q": "129정-1-07"
+   },
+   {
+    "t": "소프트웨어 모듈(Module)과 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/19890",
+    "k": "1교시형",
+    "q": "128정-3-01"
+   },
+   {
+    "t": "소프트웨어 모듈(Module)과 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/19978",
+    "k": "2교시형",
+    "q": "128정-3-01"
+   }
+  ],
+  "se_BlackBox": [
+   {
+    "t": "화이트박스 테스트(White Box Test)와 블랙박스 테스트(Black Box Test)   (129정)",
+    "u": "https://cafe.naver.com/strnd/22373",
+    "k": "1교시형",
+    "q": "129정-1-08"
+   },
+   {
+    "t": "화이트박스 테스트(White Box Test)와 블랙박스 테스트(Black Box Test)   (129정)",
+    "u": "https://cafe.naver.com/strnd/5612",
+    "k": "2교시형",
+    "q": "129정-1-08"
+   }
+  ],
+  "dg_IaC": [
+   {
+    "t": "코드형 인프라스트럭처   (129정)",
+    "u": "https://cafe.naver.com/strnd/28039",
+    "k": "1교시형",
+    "q": "129정-1-10"
+   }
+  ],
+  "nw_MultipleAccess": [
+   {
+    "t": "비직교 다중접속(NOMA, Non-Orthogonal Multiple Access)   (129정)",
+    "u": "https://cafe.naver.com/strnd/19467",
+    "k": "1교시형",
+    "q": "129정-1-12"
+   }
+  ],
+  "nw_NOMA": [
+   {
+    "t": "비직교 다중접속(NOMA, Non-Orthogonal Multiple Access)   (129정)",
+    "u": "https://cafe.naver.com/strnd/19467",
+    "k": "1교시형",
+    "q": "129정-1-12"
+   }
+  ],
+  "se_Refactoring": [
+   {
+    "t": "객체지향 기법 중에는 리팩토링(Refactoring)과 디자인패턴(Design Pattern)이 있다.",
+    "u": "https://cafe.naver.com/strnd/15065",
+    "k": "1교시형",
+    "q": "129정-2-06"
+   },
+   {
+    "t": "소프트웨어 리팩토링 (Refactoring)   (129컴)",
+    "u": "https://cafe.naver.com/strnd/31473",
+    "k": "1교시형",
+    "q": "129컴-1-07"
+   },
+   {
+    "t": "객체지향 기법 중에는 리팩토링(Refactoring)과 디자인패턴(Design Pattern)이 있다.",
+    "u": "https://cafe.naver.com/strnd/19945",
+    "k": "2교시형",
+    "q": "129정-2-06"
+   },
+   {
+    "t": "리팩토링(Refactoring)에 대한 아래의 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/7559",
+    "k": "2교시형",
+    "q": "127정-3-02"
+   }
+  ],
+  "pm_WBS": [
+   {
+    "t": "정보화사업에서 작업분류체계(WBS, Work Breakdown Structure)를 이용하여 범위 및",
+    "u": "https://cafe.naver.com/strnd/8688",
+    "k": "1교시형",
+    "q": "129정-3-02"
+   },
+   {
+    "t": "정보화사업에서 작업분류체계(WBS, Work Breakdown Structure)를 이용하여 범위 및",
+    "u": "https://cafe.naver.com/strnd/14501",
+    "k": "2교시형",
+    "q": "129정-3-02"
+   }
+  ],
+  "se_EDA": [
+   {
+    "t": "EDA(Event Driven Architecture)의 토폴로지 구성요소인 중재자 토폴로지(Mediator Topology), 브로커 토폴로지",
+    "u": "https://cafe.naver.com/strnd/19893",
+    "k": "2교시형",
+    "q": "129정-3-05"
+   }
+  ],
+  "st_EDA": [
+   {
+    "t": "EDA(Event Driven Architecture)의 토폴로지 구성요소인 중재자 토폴로지(Mediator Topology), 브로커 토폴로지",
+    "u": "https://cafe.naver.com/strnd/19893",
+    "k": "2교시형",
+    "q": "129정-3-05"
+   }
+  ],
+  "sc_ClickFix": [
+   {
+    "t": "인포스틸러(InfoStealer) 개념을 설명하고 공격 절차와 공격에 대한 대응방안을 조직의 정보보안 담당자 입장에서 설명하시오.   (129정",
+    "u": "https://cafe.naver.com/strnd/16076",
+    "k": "1교시형",
+    "q": "129정-4-01"
+   }
+  ],
+  "db_FuncDep": [
+   {
+    "t": "데이터베이스에서 정규화는 이상현상(Anomaly)이 있는 릴레이션(Relation)을 해결하기 위한 방법이다. 다음의 <수강테이블>을 활용하여 ",
+    "u": "https://cafe.naver.com/strnd/13141",
+    "k": "2교시형",
+    "q": "129정-4-02"
+   }
+  ],
+  "db_Normalization": [
+   {
+    "t": "데이터베이스에서 정규화는 이상현상(Anomaly)이 있는 릴레이션(Relation)을 해결하기 위한 방법이다. 다음의 <수강테이블>을 활용하여 ",
+    "u": "https://cafe.naver.com/strnd/13141",
+    "k": "2교시형",
+    "q": "129정-4-02"
+   },
+   {
+    "t": "관계형 데이터베이스의 정규화와 역정규화   (125정)",
+    "u": "https://cafe.naver.com/strnd/2788",
+    "k": "1교시형",
+    "q": "125정-1-06"
+   }
+  ],
+  "mg_ITInvestAnalysis": [
+   {
+    "t": "IT 투자분석의 프로세스, 프레임워크, 분석방법론에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/15810",
+    "k": "2교시형",
+    "q": "129정-4-05"
+   }
+  ],
+  "dg_MSP": [
+   {
+    "t": "조직이 클라우드 컴퓨팅 서비스를 이용하고자 할 경우, 클라우드 서비스 제공자(CSP, Cloud Service Provider)에 대한 리스크를",
+    "u": "https://cafe.naver.com/strnd/18612",
+    "k": "2교시형",
+    "q": "129정-4-06"
+   }
+  ],
+  "sc_CloudSec": [
+   {
+    "t": "CSAP (Cloud Security Assurance Program)   (129컴)",
+    "u": "https://cafe.naver.com/strnd/21565",
+    "k": "1교시형",
+    "q": "129컴-1-02"
+   },
+   {
+    "t": "SECaaS(Security as a Service)   (125정)",
+    "u": "https://cafe.naver.com/strnd/11688",
+    "k": "1교시형",
+    "q": "125정-1-01"
+   }
+  ],
+  "dg_SmartAgri": [
+   {
+    "t": "스마트양식장 (Smar Fish Farm)   (129컴)",
+    "u": "https://cafe.naver.com/strnd/21229",
+    "k": "1교시형",
+    "q": "129컴-1-04"
+   }
+  ],
+  "se_XP": [
+   {
+    "t": "페어 프로그래밍(Pair Programming) 기법과 핑퐁 프로그래밍(Ping Pong Programming)기법에 대하여 각각 설명하시오. ",
+    "u": "https://cafe.naver.com/strnd/14514",
+    "k": "1교시형",
+    "q": "129컴-1-05"
+   }
+  ],
+  "nw_Coding": [
+   {
+    "t": "전송 부호화 기법의 소스코딩(Source Coding)과 채널코딩(Channel Coding)을 비교하여 설명하시오.   (129컴)",
+    "u": "https://cafe.naver.com/strnd/19503",
+    "k": "1교시형",
+    "q": "129컴-1-08"
+   }
+  ],
+  "nw_CAN": [
+   {
+    "t": "자동차 통신 등에 활용하는 CAN(Controller Area Network) 통신   (129컴)",
+    "u": "https://cafe.naver.com/strnd/21186",
+    "k": "1교시형",
+    "q": "129컴-1-10"
+   }
+  ],
+  "ai_TuringTest": [
+   {
+    "t": "튜링 테스트 (Turing Test)   (129컴)",
+    "u": "https://cafe.naver.com/strnd/31422",
+    "k": "1교시형",
+    "q": "129컴-1-11"
+   },
+   {
+    "t": "튜링 테스트 (Turing Test)   (129컴)",
+    "u": "https://cafe.naver.com/strnd/31238",
+    "k": "2교시형",
+    "q": "129컴-1-11"
+   }
+  ],
+  "ca_IC5": [
+   {
+    "t": "Cache Memory의 쓰기 정책인 Write Through 방식과 Write Back 방식을 비교하여  설명하시오.   (129컴)",
+    "u": "https://cafe.naver.com/strnd/26508",
+    "k": "1교시형",
+    "q": "129컴-1-12"
+   }
+  ],
+  "ca_CachePolicy": [
+   {
+    "t": "Cache Memory의 쓰기 정책인 Write Through 방식과 Write Back 방식을 비교하여  설명하시오.   (129컴)",
+    "u": "https://cafe.naver.com/strnd/26508",
+    "k": "1교시형",
+    "q": "129컴-1-12"
+   }
+  ],
+  "dg_ImmersiveVideo": [
+   {
+    "t": "MIV(MPEG-Immersive Video)에 대하여 설명하시오.   (129컴)",
+    "u": "https://cafe.naver.com/strnd/19296",
+    "k": "1교시형",
+    "q": "129컴-2-03"
+   }
+  ],
+  "se_AccTest": [
+   {
+    "t": "사용자 테스트와 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/19900",
+    "k": "2교시형",
+    "q": "129컴-2-06"
+   }
+  ],
+  "se_TestProcess": [
+   {
+    "t": "사용자 테스트와 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/19900",
+    "k": "2교시형",
+    "q": "129컴-2-06"
+   }
+  ],
+  "pr_Inspection": [
+   {
+    "t": "사용자 테스트와 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/19900",
+    "k": "2교시형",
+    "q": "129컴-2-06"
+   }
+  ],
+  "ds_Queue": [
+   {
+    "t": "운영체제 프로세스 스케줄링 알고리즘과 관련하여 단일 큐 멀티프로세서 스케줄링(SQMS: Single Queue Multiprocessor Sch",
+    "u": "https://cafe.naver.com/strnd/13252",
+    "k": "1교시형",
+    "q": "129컴-3-01"
+   },
+   {
+    "t": "운영체제 프로세스 스케줄링 알고리즘과 관련하여 단일 큐 멀티프로세서 스케줄링(SQMS: Single Queue Multiprocessor Sch",
+    "u": "https://cafe.naver.com/strnd/26630",
+    "k": "2교시형",
+    "q": "129컴-3-01"
+   },
+   {
+    "t": "배열을 이용하여 큐(Queue)를 구성할 때의 단점과 해결 방법을 설명하시오.   (125정)",
+    "u": "https://cafe.naver.com/strnd/19654",
+    "k": "1교시형",
+    "q": "125정-3-01"
+   }
+  ],
+  "nw_NWSwitch": [
+   {
+    "t": "네트워크 스위치(Network Switch)와 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/19424",
+    "k": "2교시형",
+    "q": "129컴-3-02"
+   }
+  ],
+  "nw_L4Switch": [
+   {
+    "t": "네트워크 스위치(Network Switch)와 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/19424",
+    "k": "2교시형",
+    "q": "129컴-3-02"
+   }
+  ],
+  "nw_L7": [
+   {
+    "t": "네트워크 스위치(Network Switch)와 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/19424",
+    "k": "2교시형",
+    "q": "129컴-3-02"
+   }
+  ],
+  "nw_ISAC": [
+   {
+    "t": "최근 의료기관을 대상으로 사이버 침해공격이 지능화 및 다양화되고 있다. 이에 대한 대안으로 병원정보시스템(HIS: Hospital Informa",
+    "u": "https://cafe.naver.com/strnd/21290",
+    "k": "2교시형",
+    "q": "129컴-3-03"
+   }
+  ],
+  "dg_Qubit": [
+   {
+    "t": "양자 컴퓨터(Quantum Computer)와 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/15944",
+    "k": "2교시형",
+    "q": "129컴-3-04"
+   },
+   {
+    "t": "큐비트(Qubit)에 대하여 설명하시오.   (128정)",
+    "u": "https://cafe.naver.com/strnd/19371",
+    "k": "1교시형",
+    "q": "128정-1-13"
+   }
+  ],
+  "nw_SyncAsync": [
+   {
+    "t": "DDR SDRAM(Double Date Rate Synchronous DRAM)의 갱신(Refresh)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/20755",
+    "k": "2교시형",
+    "q": "129컴-3-06"
+   }
+  ],
+  "nw_UDP": [
+   {
+    "t": "다음 표준 통신 프로토콜에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/19457",
+    "k": "2교시형",
+    "q": "129컴-4-01"
+   }
+  ],
+  "dg_OTT": [
+   {
+    "t": "다음 표준 통신 프로토콜에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/19457",
+    "k": "2교시형",
+    "q": "129컴-4-01"
+   },
+   {
+    "t": "OTT(Over The Top) 서비스에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/1460",
+    "k": "2교시형",
+    "q": "125컴-3-06"
+   }
+  ],
+  "sc_FR1": [
+   {
+    "t": "디스크 이미징(Disk Imaging)과 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/16044",
+    "k": "1교시형",
+    "q": "129컴-4-03"
+   },
+   {
+    "t": "디지털 포렌식(Digital Forensic)의 증거수집을 중 하나인 파일 카빙(FC : File Carving)에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/7224",
+    "k": "1교시형",
+    "q": "126정-4-06"
+   },
+   {
+    "t": "디지털 포렌식(Digital Forensic)의 증거수집을 중 하나인 파일 카빙(FC : File Carving)에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/5316",
+    "k": "2교시형",
+    "q": "126정-4-06"
+   }
+  ],
+  "ai_Benchmark": [
+   {
+    "t": "인공지능 생태계에서 벤치마크 데이터셋의 개요와 주요 역할에 대하여 설명하시오.   (129컴)",
+    "u": "https://cafe.naver.com/strnd/31247",
+    "k": "1교시형",
+    "q": "129컴-4-04"
+   },
+   {
+    "t": "인공지능 생태계에서 벤치마크 데이터셋의 개요와 주요 역할에 대하여 설명하시오.   (129컴)",
+    "u": "https://cafe.naver.com/strnd/21902",
+    "k": "2교시형",
+    "q": "129컴-4-04"
+   }
+  ],
+  "dg_WirelessCharge": [
+   {
+    "t": "무선충전기술과 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/1596",
+    "k": "1교시형",
+    "q": "129컴-4-06"
+   },
+   {
+    "t": "무선충전기술과 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/15801",
+    "k": "2교시형",
+    "q": "129컴-4-06"
+   },
+   {
+    "t": "휴대용 전자기기 및 전기 자동차 등의 확대로 인해 무선으로 전력을 전송하여 배터리를 충전하는 무선충전기술이 주목 받고 있다. 이와 관련하여 다음",
+    "u": "https://cafe.naver.com/strnd/6999",
+    "k": "1교시형",
+    "q": "126컴-3-06"
+   },
+   {
+    "t": "휴대용 전자기기 및 전기 자동차 등의 확대로 인해 무선으로 전력을 전송하여 배터리를 충전하는 무선충전기술이 주목 받고 있다. 이와 관련하여 다음",
+    "u": "https://cafe.naver.com/strnd/9476",
+    "k": "2교시형",
+    "q": "126컴-3-06"
+   },
+   {
+    "t": "무선충전기술 3가지 방식을 비교 설명하시오.   (125컴)",
+    "u": "https://cafe.naver.com/strnd/1490",
+    "k": "1교시형",
+    "q": "125컴-4-05"
+   }
+  ],
+  "mg_ITROI": [
+   {
+    "t": "IT-ROI 투자 성과평가 모델에 대하여 설명하시오.   (128정)",
+    "u": "https://cafe.naver.com/strnd/22935",
+    "k": "1교시형",
+    "q": "128정-1-02"
+   }
+  ],
+  "mg_StratStep5": [
+   {
+    "t": "IT-ROI 투자 성과평가 모델에 대하여 설명하시오.   (128정)",
+    "u": "https://cafe.naver.com/strnd/22935",
+    "k": "1교시형",
+    "q": "128정-1-02"
+   }
+  ],
+  "mg_ERP": [
+   {
+    "t": "POP(Point Of Production)에 대하여 설명하시오.   (128정)",
+    "u": "https://cafe.naver.com/strnd/12473",
+    "k": "1교시형",
+    "q": "128정-1-03"
+   }
+  ],
+  "ai_ModelOps": [
+   {
+    "t": "기계학습(Machine Learning) 모델링(Modeling)과 모델옵스(ModelOps)에 대하여 설명하시오.   (128정)",
+    "u": "https://cafe.naver.com/strnd/25618",
+    "k": "1교시형",
+    "q": "128정-1-04"
+   },
+   {
+    "t": "모델옵스(ModelOps)   (127정)",
+    "u": "https://cafe.naver.com/strnd/14215",
+    "k": "1교시형",
+    "q": "127정-1-02"
+   }
+  ],
+  "se_CoQ": [
+   {
+    "t": "소프트웨어 개발 프로젝트 품질비용 항목 4가지를 제시하고, 각 항목별로 사례를 들어 설명하시오.   (128정)",
+    "u": "https://cafe.naver.com/strnd/14399",
+    "k": "1교시형",
+    "q": "128정-1-05"
+   }
+  ],
+  "se_SWArch": [
+   {
+    "t": "소프트웨어 아키텍처 평가모델 중 CBAM(Cost Benefit Analysis Method)에 대하여 설명하시오.   (128정)",
+    "u": "https://cafe.naver.com/strnd/8791",
+    "k": "1교시형",
+    "q": "128정-1-07"
+   },
+   {
+    "t": "소프트웨어 구조의 평가 및 개선을 위한 소프트웨어 아키텍처 분석 방법에 대하여 다음 내용을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/16742",
+    "k": "2교시형",
+    "q": "126정-3-05"
+   }
+  ],
+  "se_ArchEval": [
+   {
+    "t": "소프트웨어 아키텍처 평가모델 중 CBAM(Cost Benefit Analysis Method)에 대하여 설명하시오.   (128정)",
+    "u": "https://cafe.naver.com/strnd/8791",
+    "k": "1교시형",
+    "q": "128정-1-07"
+   }
+  ],
+  "st_Causation": [
+   {
+    "t": "빅데이터 분석에서 상관관계(Correlation)와 인과관계(Causation)에 대하여 비교하여 설명하시오.   (128정)",
+    "u": "https://cafe.naver.com/strnd/21708",
+    "k": "1교시형",
+    "q": "128정-1-08"
+   }
+  ],
+  "dg_Neuromorphic": [
+   {
+    "t": "뉴로모픽 칩(Neuromorphic Chip)에 대하여 설명하시오.   (128정)",
+    "u": "https://cafe.naver.com/strnd/28431",
+    "k": "1교시형",
+    "q": "128정-1-09"
+   }
+  ],
+  "ca_Interleaving": [
+   {
+    "t": "메모리 인터리빙(Memory Interleaving)에 대하여 설명하시오.   (128정)",
+    "u": "https://cafe.naver.com/strnd/28337",
+    "k": "1교시형",
+    "q": "128정-1-11"
+   }
+  ],
+  "ai_DataQuality": [
+   {
+    "t": "인공지능(AI, Aritificial Intelligence) 학습용 데이터 품질의 중요성이 대두됨에 따라, '인공지능 학습용 데이터 품질관리 ",
+    "u": "https://cafe.naver.com/strnd/16523",
+    "k": "2교시형",
+    "q": "128정-2-01"
+   }
+  ],
+  "dg_DataLaw": [
+   {
+    "t": "개정된 '데이터 3법'이 국회를 통과한 후에 데이터를 활용한 클라우드, IoT 등 여러 산업 군에서의 혁신과 신사업 개발 속도가 빨라지고 있다.",
+    "u": "https://cafe.naver.com/strnd/9256",
+    "k": "2교시형",
+    "q": "128정-2-04"
+   }
+  ],
+  "mg_Disruptive": [
+   {
+    "t": "디지털 혁신을 위한 고려사항과 CoE(Center of Excellence)의 역할에 대하여 설명하시오.   (128정)",
+    "u": "https://cafe.naver.com/strnd/19260",
+    "k": "1교시형",
+    "q": "128정-2-05"
+   }
+  ],
+  "ai_InductiveReason": [
+   {
+    "t": "귀납적사고(Inductive Reasoning)와 기계학습(Machine-Learning)에 대하여 설명하시오.   (128정)",
+    "u": "https://cafe.naver.com/strnd/16476",
+    "k": "1교시형",
+    "q": "128정-2-06"
+   }
+  ],
+  "se_Cohesion": [
+   {
+    "t": "소프트웨어 모듈(Module)과 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/19890",
+    "k": "1교시형",
+    "q": "128정-3-01"
+   },
+   {
+    "t": "소프트웨어 모듈(Module)과 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/19978",
+    "k": "2교시형",
+    "q": "128정-3-01"
+   }
+  ],
+  "se_PhFeasibility": [
+   {
+    "t": "공공소프트웨어 사업의 계획단계에서 사업의 확정 및 사업 기간의 적정성 평가를 위한 검토항목과 사업수행 중 과업 변경에 대한 적정성 판단 평가 기",
+    "u": "https://cafe.naver.com/strnd/14391",
+    "k": "2교시형",
+    "q": "128정-3-04"
+   }
+  ],
+  "pr_TaskChange": [
+   {
+    "t": "공공소프트웨어 사업의 계획단계에서 사업의 확정 및 사업 기간의 적정성 평가를 위한 검토항목과 사업수행 중 과업 변경에 대한 적정성 판단 평가 기",
+    "u": "https://cafe.naver.com/strnd/14391",
+    "k": "2교시형",
+    "q": "128정-3-04"
+   }
+  ],
+  "ai_FedLearning": [
+   {
+    "t": "개인정보 보호를 위한 분산 인공지능(AI, Artifical Intelligence) 학습 모델인 연합학습(Federated Learning) ",
+    "u": "https://cafe.naver.com/strnd/12646",
+    "k": "1교시형",
+    "q": "128정-3-06"
+   },
+   {
+    "t": "개인정보 보호를 위한 분산 인공지능(AI, Artifical Intelligence) 학습 모델인 연합학습(Federated Learning) ",
+    "u": "https://cafe.naver.com/strnd/9919",
+    "k": "2교시형",
+    "q": "128정-3-06"
+   }
+  ],
+  "dg_NFT": [
+   {
+    "t": "최근 NFT(Non-Fungible Token) 시장의 활성화 및 생태계 형성의 견인차인 NFT 마켓 플레이스가 해커들의 주요 타겟이 되고 있다",
+    "u": "https://cafe.naver.com/strnd/19210",
+    "k": "1교시형",
+    "q": "128정-4-01"
+   },
+   {
+    "t": "최근 NFT(Non-Fungible Token) 시장의 활성화 및 생태계 형성의 견인차인 NFT 마켓 플레이스가 해커들의 주요 타겟이 되고 있다",
+    "u": "https://cafe.naver.com/strnd/8388",
+    "k": "2교시형",
+    "q": "128정-4-01"
+   },
+   {
+    "t": "대체불가능 토큰(Non-Fungible Token)   (127정)",
+    "u": "https://cafe.naver.com/strnd/26223",
+    "k": "1교시형",
+    "q": "127정-1-01"
+   },
+   {
+    "t": "최근 메타버스 산업이 활성화 되면서 NFT(Non Fungible Token)의 중요성이 대두되고있다. NFT 에 대하여 설명하시오   (126",
+    "u": "https://cafe.naver.com/strnd/9574",
+    "k": "2교시형",
+    "q": "126컴-2-05"
+   }
+  ],
+  "nw_SATIN": [
+   {
+    "t": "6G 이동통신을 위한 위성-상공-지상 통합형 무선 네트워크(Satelite-Aerial-Terrestrial Integrated Network,",
+    "u": "https://cafe.naver.com/strnd/24389",
+    "k": "1교시형",
+    "q": "128정-4-03"
+   },
+   {
+    "t": "6G 이동통신을 위한 위성-상공-지상 통합형 무선 네트워크(Satelite-Aerial-Terrestrial Integrated Network,",
+    "u": "https://cafe.naver.com/strnd/13829",
+    "k": "2교시형",
+    "q": "128정-4-03"
+   }
+  ],
+  "dg_QKD": [
+   {
+    "t": "최근 정보통신의 발전으로 인해 도감청이 불가능한 양자암호통신에 대한 관심이 높아지고 있다. 양자암호통신에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/13792",
+    "k": "2교시형",
+    "q": "128정-4-04"
+   },
+   {
+    "t": "양자키분배(Quantum Key Distribution) 기술   (126컴)",
+    "u": "https://cafe.naver.com/strnd/10620",
+    "k": "1교시형",
+    "q": "126컴-1-11"
+   }
+  ],
+  "dg_DID": [
+   {
+    "t": "DID(Digital Information Display)   (128컴)",
+    "u": "https://cafe.naver.com/strnd/21232",
+    "k": "1교시형",
+    "q": "128컴-1-01"
+   }
+  ],
+  "ca_SoC": [
+   {
+    "t": "SOC(System On Chip) 구조   (128컴)",
+    "u": "https://cafe.naver.com/strnd/28420",
+    "k": "1교시형",
+    "q": "128컴-1-02"
+   }
+  ],
+  "ca_NeuromorphicCA": [
+   {
+    "t": "뉴로모픽(Neuromorphic) 반도체   (128컴)",
+    "u": "https://cafe.naver.com/strnd/28431",
+    "k": "1교시형",
+    "q": "128컴-1-05"
+   }
+  ],
+  "sc_DLP": [
+   {
+    "t": "DRM(Digital Rights Management), DLP(Data Loss Prevention)의 비교   (128컴)",
+    "u": "https://cafe.naver.com/strnd/19443",
+    "k": "1교시형",
+    "q": "128컴-1-06"
+   }
+  ],
+  "ai_CNN": [
+   {
+    "t": "CNN(Convolutional Neural Network) 계층(Layer)   (128컴)",
+    "u": "https://cafe.naver.com/strnd/19735",
+    "k": "1교시형",
+    "q": "128컴-1-07"
+   }
+  ],
+  "db_DataIndep": [
+   {
+    "t": "데이터 독립성(Data Independency)   (128컴)",
+    "u": "https://cafe.naver.com/strnd/23008",
+    "k": "1교시형",
+    "q": "128컴-1-13"
+   }
+  ],
+  "dg_UAM": [
+   {
+    "t": "UAM(Urban Air Mobility)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/14834",
+    "k": "1교시형",
+    "q": "128컴-2-03"
+   },
+   {
+    "t": "UAM(Urban Air Mobility)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/24205",
+    "k": "2교시형",
+    "q": "128컴-2-03"
+   }
+  ],
+  "ai_Similarity": [
+   {
+    "t": "인공지능 학습에서 두 객체가 얼마나 유사한지를 나타내는 척도를 유사도(Similarity)라고 한다. 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/31293",
+    "k": "1교시형",
+    "q": "128컴-2-06"
+   },
+   {
+    "t": "인공지능 학습에서 두 객체가 얼마나 유사한지를 나타내는 척도를 유사도(Similarity)라고 한다. 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/18440",
+    "k": "2교시형",
+    "q": "128컴-2-06"
+   }
+  ],
+  "se_ISO29119": [
+   {
+    "t": "KS X ISO/IEC/IEEE 29119을 활용하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/31613",
+    "k": "1교시형",
+    "q": "128컴-3-05"
+   }
+  ],
+  "db_RelModel": [
+   {
+    "t": "관계 데이터 모델이 가지고 있는 개체 무결성(Entity Integrity)과 참조 무결성(Referential Integrity)에 대하여 설",
+    "u": "https://cafe.naver.com/strnd/15506",
+    "k": "1교시형",
+    "q": "128컴-3-06"
+   }
+  ],
+  "ai_CrossVal": [
+   {
+    "t": "머신러닝(Machine Learning)에서 교차검증(Cross Validation)에 대하여 설명하시오.   (128컴)",
+    "u": "https://cafe.naver.com/strnd/12594",
+    "k": "1교시형",
+    "q": "128컴-4-01"
+   },
+   {
+    "t": "머신러닝(Machine Learning)에서 교차검증(Cross Validation)에 대하여 설명하시오.   (128컴)",
+    "u": "https://cafe.naver.com/strnd/3136",
+    "k": "2교시형",
+    "q": "128컴-4-01"
+   }
+  ],
+  "mg_BSC": [
+   {
+    "t": "균형성과기록표(Balanced Score Card)의 구성요소   (127정)",
+    "u": "https://cafe.naver.com/strnd/17588",
+    "k": "1교시형",
+    "q": "127정-1-04"
+   }
+  ],
+  "se_FrameworkSW": [
+   {
+    "t": "스프링 부트(Spring Boot)   (127정)",
+    "u": "https://cafe.naver.com/strnd/14451",
+    "k": "1교시형",
+    "q": "127정-1-06"
+   }
+  ],
+  "se_Coverage": [
+   {
+    "t": "테스트 커버리지(Test Coverage)와 코드 커버리지(Code Coverage)   (127정)",
+    "u": "https://cafe.naver.com/strnd/14517",
+    "k": "1교시형",
+    "q": "127정-1-07"
+   }
+  ],
+  "ai_Overfitting": [
+   {
+    "t": "과적합(Overfitting)의 발생이유와 해결방안   (127정)",
+    "u": "https://cafe.naver.com/strnd/31351",
+    "k": "1교시형",
+    "q": "127정-1-11"
+   }
+  ],
+  "dg_Metaverse": [
+   {
+    "t": "디지털 트윈(Digital Twin)과 메타버스(Metaverse)   (127정)",
+    "u": "https://cafe.naver.com/strnd/22581",
+    "k": "1교시형",
+    "q": "127정-1-12"
+   },
+   {
+    "t": "최근 메타버스 산업이 활성화 되면서 NFT(Non Fungible Token)의 중요성이 대두되고있다. NFT 에 대하여 설명하시오   (126",
+    "u": "https://cafe.naver.com/strnd/26223",
+    "k": "1교시형",
+    "q": "126컴-2-05"
+   },
+   {
+    "t": "최근 사화적으로 관심이 확대되고있는 메타버스(Metaverse)에 대하여 다음을 설명하시오",
+    "u": "https://cafe.naver.com/strnd/4990",
+    "k": "1교시형",
+    "q": "126컴-2-02"
+   },
+   {
+    "t": "메타버스(Metaverse)는 현실과 가상을 혼합하는 기술이다. 메타버스로 구현된 세계에는 편리한 면도 있지만 보안적, 사회적으로 많은 문제가 ",
+    "u": "https://cafe.naver.com/strnd/5101",
+    "k": "2교시형",
+    "q": "126정-4-01"
+   },
+   {
+    "t": "최근 사화적으로 관심이 확대되고있는 메타버스(Metaverse)에 대하여 다음을 설명하시오",
+    "u": "https://cafe.naver.com/strnd/9492",
+    "k": "2교시형",
+    "q": "126컴-2-02"
+   },
+   {
+    "t": "최근 메타버스 산업이 활성화 되면서 NFT(Non Fungible Token)의 중요성이 대두되고있다. NFT 에 대하여 설명하시오   (126",
+    "u": "https://cafe.naver.com/strnd/9574",
+    "k": "2교시형",
+    "q": "126컴-2-05"
+   }
+  ],
+  "dg_VDI": [
+   {
+    "t": "DaaS(Desktop as a Service)   (127정)",
+    "u": "https://cafe.naver.com/strnd/22623",
+    "k": "1교시형",
+    "q": "127정-1-13"
+   }
+  ],
+  "dg_EGovEval": [
+   {
+    "t": "국제연합(UN)은 매 2년마다 전체 회원국을 대상으로 전자정부 평가를 실시한다. 전자정부 평가에 대한 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/23338",
+    "k": "1교시형",
+    "q": "127정-2-01"
+   },
+   {
+    "t": "국제연합(UN)은 매 2년마다 전체 회원국을 대상으로 전자정부 평가를 실시한다. 전자정부 평가에 대한 아래 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/19177",
+    "k": "2교시형",
+    "q": "127정-2-01"
+   }
+  ],
+  "db_DBTuning": [
+   {
+    "t": "데이터 용량이 증가할수록 데이터베이스 튜닝(Tuning)의 필요성이 증가하고 있다. 데이터베이스 튜닝에 대한 아래의 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/12450",
+    "k": "1교시형",
+    "q": "127정-2-03"
+   },
+   {
+    "t": "데이터 용량이 증가할수록 데이터베이스 튜닝(Tuning)의 필요성이 증가하고 있다. 데이터베이스 튜닝에 대한 아래의 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/13206",
+    "k": "2교시형",
+    "q": "127정-2-03"
+   }
+  ],
+  "pm_IntegMgmt": [
+   {
+    "t": "A기업에서는 비지니스 수행과정에서 수집된 많은 양의 빅데이터(Bigdata)를 통합 관리하고자 한다. 데이터 관리에 대한 아래의 사항을 설명하시",
+    "u": "https://cafe.naver.com/strnd/10094",
+    "k": "2교시형",
+    "q": "127정-3-03"
+   }
+  ],
+  "db_Optimizer": [
+   {
+    "t": "데이터베이스 옵티마이저(Optimizer)에 대한 아래의 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/15571",
+    "k": "2교시형",
+    "q": "127정-3-04"
+   }
+  ],
+  "se_MSAPattern": [
+   {
+    "t": "최근 여러 기업에서 MSA(Mirco Service Architecture) 도입이 활발하게 이루어지고 있다. MSA에 대한 아래의 사항을 설명",
+    "u": "https://cafe.naver.com/strnd/20013",
+    "k": "2교시형",
+    "q": "127정-4-01"
+   }
+  ],
+  "db_Sharding": [
+   {
+    "t": "데이터베이스 샤딩(Sharding)에 대한 아래의 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/13257",
+    "k": "2교시형",
+    "q": "127정-4-03"
+   }
+  ],
+  "st_NormalDist": [
+   {
+    "t": "정규분포 특징   (126정)",
+    "u": "https://cafe.naver.com/strnd/16473",
+    "k": "1교시형",
+    "q": "126정-1-01"
+   },
+   {
+    "t": "한 공장에서 스마트 팩토리(Smart Factory) 적용을 통한 생산시간 단축을 확인하려고한다. 기존 공정에서의 제품 생산시간이 정규분포를 따",
+    "u": "https://cafe.naver.com/strnd/12280",
+    "k": "2교시형",
+    "q": "125정-4-03"
+   }
+  ],
+  "ai_Metaheuristic": [
+   {
+    "t": "메타휴리스틱스(Metaheuristics)   (126정)",
+    "u": "https://cafe.naver.com/strnd/19737",
+    "k": "1교시형",
+    "q": "126정-1-02"
+   }
+  ],
+  "al_MetaHeuristicAlg": [
+   {
+    "t": "메타휴리스틱스(Metaheuristics)   (126정)",
+    "u": "https://cafe.naver.com/strnd/19737",
+    "k": "1교시형",
+    "q": "126정-1-02"
+   }
+  ],
+  "os_RaceCondition": [
+   {
+    "t": "Race Condition   (126정)",
+    "u": "https://cafe.naver.com/strnd/11352",
+    "k": "1교시형",
+    "q": "126정-1-03"
+   },
+   {
+    "t": "Race Condition   (126정)",
+    "u": "https://cafe.naver.com/strnd/20670",
+    "k": "1교시형",
+    "q": "126정-1-03"
+   }
+  ],
+  "ai_SNN": [
+   {
+    "t": "SNN (Spiking Neural Network)   (126정)",
+    "u": "https://cafe.naver.com/strnd/31341",
+    "k": "1교시형",
+    "q": "126정-1-04"
+   }
+  ],
+  "db_BigDataTool": [
+   {
+    "t": "빅데이터 분석도구를 선택하는 원칙   (126정)",
+    "u": "https://cafe.naver.com/strnd/6113",
+    "k": "1교시형",
+    "q": "126정-1-05"
+   },
+   {
+    "t": "빅데이터 분석도구를 선택하는 원칙   (126정)",
+    "u": "https://cafe.naver.com/strnd/23536",
+    "k": "2교시형",
+    "q": "126정-1-05"
+   }
+  ],
+  "nw_NWScan": [
+   {
+    "t": "네트워크 스캐닝(Network Scanning)   (126정)",
+    "u": "https://cafe.naver.com/strnd/19448",
+    "k": "1교시형",
+    "q": "126정-1-12"
+   }
+  ],
+  "mg_ESG": [
+   {
+    "t": "포스트 코로나 시대의 지속가능 경영전략으로 ESG(Environmental, Social and Governance)경영이 각광받고 있다. ES",
+    "u": "https://cafe.naver.com/strnd/6116",
+    "k": "2교시형",
+    "q": "126정-2-02"
+   }
+  ],
+  "dg_ESG": [
+   {
+    "t": "최근 경제협력개발기구(OEDC)에서 2023년부터 부과하기로 합의한 디지털세의 내용과 의미 및 전망에 대하여 설명하시오.   (126정)",
+    "u": "https://cafe.naver.com/strnd/15624",
+    "k": "1교시형",
+    "q": "126정-2-03"
+   }
+  ],
+  "dg_BCType": [
+   {
+    "t": "퍼블릭 블록체인(Public Blockchain), 프라이빗 블록체인(Private Blockchain), 하이브리드 블록체인(Hybrid Bl",
+    "u": "https://cafe.naver.com/strnd/22646",
+    "k": "2교시형",
+    "q": "126정-2-05"
+   }
+  ],
+  "se_UIDesign": [
+   {
+    "t": "전자정부 웹사이트 UI/UX 설계기준 7가지와 웹접근성, 웹호환성, 웹개방성, 웹최적화에 대해 각각 설명하시오.   (126정)",
+    "u": "https://cafe.naver.com/strnd/4986",
+    "k": "1교시형",
+    "q": "126정-3-02"
+   },
+   {
+    "t": "전자정부 웹사이트 UI/UX 설계기준 7가지와 웹접근성, 웹호환성, 웹개방성, 웹최적화에 대해 각각 설명하시오.   (126정)",
+    "u": "https://cafe.naver.com/strnd/9572",
+    "k": "2교시형",
+    "q": "126정-3-02"
+   }
+  ],
+  "dg_WebAccess": [
+   {
+    "t": "전자정부 웹사이트 UI/UX 설계기준 7가지와 웹접근성, 웹호환성, 웹개방성, 웹최적화에 대해 각각 설명하시오.   (126정)",
+    "u": "https://cafe.naver.com/strnd/4986",
+    "k": "1교시형",
+    "q": "126정-3-02"
+   },
+   {
+    "t": "전자정부 웹사이트 UI/UX 설계기준 7가지와 웹접근성, 웹호환성, 웹개방성, 웹최적화에 대해 각각 설명하시오.   (126정)",
+    "u": "https://cafe.naver.com/strnd/9572",
+    "k": "2교시형",
+    "q": "126정-3-02"
+   }
+  ],
+  "ai_Boosting": [
+   {
+    "t": "앙상블(Ensemble) 모형의 Bagging과 Boosting 알고리즘을 설명하시오.   (126정)",
+    "u": "https://cafe.naver.com/strnd/24403",
+    "k": "1교시형",
+    "q": "126정-3-04"
+   }
+  ],
+  "ai_Bagging": [
+   {
+    "t": "앙상블(Ensemble) 모형의 Bagging과 Boosting 알고리즘을 설명하시오.   (126정)",
+    "u": "https://cafe.naver.com/strnd/24403",
+    "k": "1교시형",
+    "q": "126정-3-04"
+   }
+  ],
+  "ai_Ensemble": [
+   {
+    "t": "앙상블(Ensemble) 모형의 Bagging과 Boosting 알고리즘을 설명하시오.   (126정)",
+    "u": "https://cafe.naver.com/strnd/24403",
+    "k": "1교시형",
+    "q": "126정-3-04"
+   }
+  ],
+  "dg_AIDataBuild": [
+   {
+    "t": "디지털 뉴딜 '데이터 댐'의 핵심인 인공지능 학습용 빅데이터 구축 사업의 성공적 추진을 위한 정책과 데이터 품질에 대한 관심도가 높아지고 있다.",
+    "u": "https://cafe.naver.com/strnd/16531",
+    "k": "2교시형",
+    "q": "126정-3-06"
+   }
+  ],
+  "os_RTSched": [
+   {
+    "t": "Real Time Scheduling이 갖는 문제 중 우선순위 역전(Priority Inversion)이 있다. Task1, Task2, Tas",
+    "u": "https://cafe.naver.com/strnd/28422",
+    "k": "1교시형",
+    "q": "126정-4-02"
+   },
+   {
+    "t": "Real Time Scheduling이 갖는 문제 중 우선순위 역전(Priority Inversion)이 있다. Task1, Task2, Tas",
+    "u": "https://cafe.naver.com/strnd/17335",
+    "k": "2교시형",
+    "q": "126정-4-02"
+   }
+  ],
+  "sc_DDoS": [
+   {
+    "t": "미라이 봇넷(Mirai Botnet)애 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/22531",
+    "k": "2교시형",
+    "q": "126정-4-03"
+   },
+   {
+    "t": "다음의 그림은 서비스 거부(DDoS, Distributed Denial of Service) 공격 사례이다. DDoS에 대하여 다음 내용을 설명",
+    "u": "https://cafe.naver.com/strnd/5515",
+    "k": "2교시형",
+    "q": "125컴-2-06"
+   }
+  ],
+  "sc_DigitalSig": [
+   {
+    "t": "RSA(Rivest-Shamir-Adleman)알고리즘과 DSA(Digital Signature Algorithm)를 비교하여 설명하시오.   ",
+    "u": "https://cafe.naver.com/strnd/5514",
+    "k": "1교시형",
+    "q": "126정-4-05"
+   }
+  ],
+  "nw_MANET": [
+   {
+    "t": "FANET (Flying Ad-Hoc Network)   (126컴)",
+    "u": "https://cafe.naver.com/strnd/13752",
+    "k": "1교시형",
+    "q": "126컴-1-01"
+   }
+  ],
+  "dg_ComputeContinuum": [
+   {
+    "t": "컴퓨팅 컨티뉴엄(Computing Continuum)   (126컴)",
+    "u": "https://cafe.naver.com/strnd/22624",
+    "k": "1교시형",
+    "q": "126컴-1-02"
+   }
+  ],
+  "nw_ComputeContinuumNW": [
+   {
+    "t": "컴퓨팅 컨티뉴엄(Computing Continuum)   (126컴)",
+    "u": "https://cafe.naver.com/strnd/22624",
+    "k": "1교시형",
+    "q": "126컴-1-02"
+   }
+  ],
+  "pm_FP": [
+   {
+    "t": "기능점수(Function Point)의 간이법과 정통법   (126컴)",
+    "u": "https://cafe.naver.com/strnd/7563",
+    "k": "1교시형",
+    "q": "126컴-1-07"
+   }
+  ],
+  "pm_FPMethod": [
+   {
+    "t": "기능점수(Function Point)의 간이법과 정통법   (126컴)",
+    "u": "https://cafe.naver.com/strnd/7563",
+    "k": "1교시형",
+    "q": "126컴-1-07"
+   }
+  ],
+  "dg_SplitBrain": [
+   {
+    "t": "서버 클러스터링 구성에서 발생하는 Split Brain 현상   (126컴)",
+    "u": "https://cafe.naver.com/strnd/13201",
+    "k": "1교시형",
+    "q": "126컴-1-08"
+   },
+   {
+    "t": "서버 클러스터링 구성에서 발생하는 Split Brain 현상   (126컴)",
+    "u": "https://cafe.naver.com/strnd/24536",
+    "k": "2교시형",
+    "q": "126컴-1-08"
+   }
+  ],
+  "ai_Preprocess": [
+   {
+    "t": "데이터 분석 시 결측값(Missing Value) 처리기법   (126컴)",
+    "u": "https://cafe.naver.com/strnd/19656",
+    "k": "1교시형",
+    "q": "126컴-1-10"
+   }
+  ],
+  "dg_FogComputing": [
+   {
+    "t": "엣지컴퓨팅(Edge Computing)과 포그컴퓨팅(Fog Computiong)의 비교   (126컴)",
+    "u": "https://cafe.naver.com/strnd/22524",
+    "k": "1교시형",
+    "q": "126컴-1-12"
+   },
+   {
+    "t": "엣지컴퓨팅(Edge Computing)과 포그컴퓨팅(Fog Computiong)의 비교   (126컴)",
+    "u": "https://cafe.naver.com/strnd/25074",
+    "k": "2교시형",
+    "q": "126컴-1-12"
+   }
+  ],
+  "ca_NPUCA": [
+   {
+    "t": "인공지능시스템에서 활용되는 CPU, GPU, FPGA, ASIC 을 설명하고 처리 능력과 전력 소비 측면에서 비교하시오.   (126컴)",
+    "u": "https://cafe.naver.com/strnd/30701",
+    "k": "1교시형",
+    "q": "126컴-2-01"
+   },
+   {
+    "t": "인공지능시스템에서 활용되는 CPU, GPU, FPGA, ASIC 을 설명하고 처리 능력과 전력 소비 측면에서 비교하시오.   (126컴)",
+    "u": "https://cafe.naver.com/strnd/13261",
+    "k": "2교시형",
+    "q": "126컴-2-01"
+   }
+  ],
+  "nw_CCTVProtocol": [
+   {
+    "t": "지능형 CCTV 나 비대면 서비스에서 얼굴 데이터 활용이 증가하고 있다. 이와 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/19692",
+    "k": "2교시형",
+    "q": "126컴-2-03"
+   }
+  ],
+  "dg_SmartFactory": [
+   {
+    "t": "스마트 팩토리(Smart Factory)의 보안위협과 보안 요구사항을 제시하고, 각 보안 요구사항별 보안대책에 대하여 설명하시오.   (126컴",
+    "u": "https://cafe.naver.com/strnd/4208",
+    "k": "1교시형",
+    "q": "126컴-2-04"
+   },
+   {
+    "t": "스마트 팩토리(Smart Factory)의 보안위협과 보안 요구사항을 제시하고, 각 보안 요구사항별 보안대책에 대하여 설명하시오.   (126컴",
+    "u": "https://cafe.naver.com/strnd/5320",
+    "k": "2교시형",
+    "q": "126컴-2-04"
+   },
+   {
+    "t": "스마트 공장(Smart Factory)   (125컴)",
+    "u": "https://cafe.naver.com/strnd/11978",
+    "k": "1교시형",
+    "q": "125컴-1-11"
+   },
+   {
+    "t": "한 공장에서 스마트 팩토리(Smart Factory) 적용을 통한 생산시간 단축을 확인하려고한다. 기존 공정에서의 제품 생산시간이 정규분포를 따",
+    "u": "https://cafe.naver.com/strnd/12280",
+    "k": "2교시형",
+    "q": "125정-4-03"
+   }
+  ],
+  "sc_DevSecGuide": [
+   {
+    "t": "행정안전부에서는 공공기관 등이 정보시스템 사업을 추진할떄 SW보안약점을제거하기위해 사용하는 \"소프트웨어 개발 보안 가이드\" 개정(2021년 11",
+    "u": "https://cafe.naver.com/strnd/5361",
+    "k": "2교시형",
+    "q": "126컴-3-01"
+   }
+  ],
+  "nw_SpreadSpectrum": [
+   {
+    "t": "드론과 사용자간의 무선통신을 위해 신호다중화 기술 중 FHSS(Frequency Hopping Spread Spectrum)와 DSSS(Dire",
+    "u": "https://cafe.naver.com/strnd/22522",
+    "k": "2교시형",
+    "q": "126컴-3-03"
+   }
+  ],
+  "nw_Multiplexing": [
+   {
+    "t": "드론과 사용자간의 무선통신을 위해 신호다중화 기술 중 FHSS(Frequency Hopping Spread Spectrum)와 DSSS(Dire",
+    "u": "https://cafe.naver.com/strnd/22522",
+    "k": "2교시형",
+    "q": "126컴-3-03"
+   }
+  ],
+  "ds_TreeBasic": [
+   {
+    "t": "이진트리를 순회하는 방식은 전위순회, 중위순회, 후위순회 등으로 나뉜다. 모든 순회방식은 루트로 부터 순회를 시작하여 트리의 모든 노드들을 반드",
+    "u": "https://cafe.naver.com/strnd/19738",
+    "k": "2교시형",
+    "q": "126컴-4-01"
+   }
+  ],
+  "dg_AMI": [
+   {
+    "t": "최근 국가적으로 지능형 검침인프라(AMI : Advanced Metering Infrastructure)확산을 추진하고 있다. 이와 관련하여 다",
+    "u": "https://cafe.naver.com/strnd/22670",
+    "k": "1교시형",
+    "q": "126컴-4-02"
+   },
+   {
+    "t": "최근 국가적으로 지능형 검침인프라(AMI : Advanced Metering Infrastructure)확산을 추진하고 있다. 이와 관련하여 다",
+    "u": "https://cafe.naver.com/strnd/22612",
+    "k": "2교시형",
+    "q": "126컴-4-02"
+   }
+  ],
+  "dg_UPS": [
+   {
+    "t": "귀하는 데이터센터의 운영관리자이다. 최근 다수 장비들의 전원을 공급하는 UPS(Uninterruptible Power Supply) 시스템에 장",
+    "u": "https://cafe.naver.com/strnd/12569",
+    "k": "2교시형",
+    "q": "126컴-4-03"
+   }
+  ],
+  "pr_SWPromAct": [
+   {
+    "t": "소프트웨어진흥법에 따라 국가기관 등의 장은 상용소프트웨어를 직접 구매하는 경우, 품질성능 평가시험을 직접하거나 지정된 시험기관에 품질성능 평가시",
+    "u": "https://cafe.naver.com/strnd/5877",
+    "k": "2교시형",
+    "q": "126컴-4-04"
+   }
+  ],
+  "ds_LinearNonlinear": [
+   {
+    "t": "선형 자료구조와 비선형 자료구조   (125정)",
+    "u": "https://cafe.naver.com/strnd/19701",
+    "k": "1교시형",
+    "q": "125정-1-04"
+   }
+  ],
+  "mg_MECE": [
+   {
+    "t": "MECE(Mutually Exclusive Collectively Exhaustive)   (125정)",
+    "u": "https://cafe.naver.com/strnd/6131",
+    "k": "1교시형",
+    "q": "125정-1-08"
+   }
+  ],
+  "sc_PQC": [
+   {
+    "t": "포스트 양자 암호(Post-Quantum Cryptography)   (125정)",
+    "u": "https://cafe.naver.com/strnd/11655",
+    "k": "1교시형",
+    "q": "125정-1-09"
+   }
+  ],
+  "nw_WFQ": [
+   {
+    "t": "WFQ(Weighted Fair Queuing)   (125정)",
+    "u": "https://cafe.naver.com/strnd/1756",
+    "k": "1교시형",
+    "q": "125정-1-10"
+   }
+  ],
+  "nw_SDR": [
+   {
+    "t": "SDR(Software Defined Radio)   (125정)",
+    "u": "https://cafe.naver.com/strnd/11690",
+    "k": "1교시형",
+    "q": "125정-1-12"
+   },
+   {
+    "t": "SDR(Software Defined Radio)   (125정)",
+    "u": "https://cafe.naver.com/strnd/23942",
+    "k": "2교시형",
+    "q": "125정-1-12"
+   }
+  ],
+  "pm_EVM": [
+   {
+    "t": "프로젝트 획득가치관리(Earned Value Management) 보고서의 EV(Earned Value)가 500만원, PV(Planned Va",
+    "u": "https://cafe.naver.com/strnd/28219",
+    "k": "2교시형",
+    "q": "125정-2-02"
+   }
+  ],
+  "se_PhImpl": [
+   {
+    "t": "구현단계에서 발생 가능한 코딩 보안 약점인 검사시점과 사용시점(TOCTOU)에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/1811",
+    "k": "2교시형",
+    "q": "125정-2-04"
+   }
+  ],
+  "pr_AuditTiming": [
+   {
+    "t": "IT 프로젝트의 위험도가 크거나 대규모 사업은 상주감리 제도를 적용할 수 있다. 상주감리 업무 수행 범위와 절차를 설명하고, PMO(Projec",
+    "u": "https://cafe.naver.com/strnd/31784",
+    "k": "1교시형",
+    "q": "125정-3-02"
+   },
+   {
+    "t": "IT 프로젝트의 위험도가 크거나 대규모 사업은 상주감리 제도를 적용할 수 있다. 상주감리 업무 수행 범위와 절차를 설명하고, PMO(Projec",
+    "u": "https://cafe.naver.com/strnd/2258",
+    "k": "2교시형",
+    "q": "125정-3-02"
+   }
+  ],
+  "nw_QoS": [
+   {
+    "t": "QoS(Quality of Service) 방식인 DiffServ와 IntServ를 설명하시오.   (125정)",
+    "u": "https://cafe.naver.com/strnd/11679",
+    "k": "1교시형",
+    "q": "125정-3-03"
+   }
+  ],
+  "nw_DiffServ": [
+   {
+    "t": "QoS(Quality of Service) 방식인 DiffServ와 IntServ를 설명하시오.   (125정)",
+    "u": "https://cafe.naver.com/strnd/11679",
+    "k": "1교시형",
+    "q": "125정-3-03"
+   }
+  ],
+  "nw_IntServ": [
+   {
+    "t": "QoS(Quality of Service) 방식인 DiffServ와 IntServ를 설명하시오.   (125정)",
+    "u": "https://cafe.naver.com/strnd/11679",
+    "k": "1교시형",
+    "q": "125정-3-03"
+   }
+  ],
+  "ai_GenAIPrivacy": [
+   {
+    "t": "인공지능(AI) 기술이 확산됨에 따라 개인정보 침해 등 다양한 사회적 문제 발생 우려가 높아졌다. 이를 대응하기 위하여, 최근 개인정보보호위원회",
+    "u": "https://cafe.naver.com/strnd/16461",
+    "k": "2교시형",
+    "q": "125정-3-04"
+   }
+  ],
+  "dg_JWT": [
+   {
+    "t": "JASON Web Token에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/16958",
+    "k": "1교시형",
+    "q": "125정-3-05"
+   },
+   {
+    "t": "JASON Web Token에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/5038",
+    "k": "2교시형",
+    "q": "125정-3-05"
+   }
+  ],
+  "mg_ITInvestEval": [
+   {
+    "t": "IT 투자평가 기법에 대하여 다음 물음에 답하시오.",
+    "u": "https://cafe.naver.com/strnd/2789",
+    "k": "2교시형",
+    "q": "125정-3-06"
+   }
+  ],
+  "dg_FinTech": [
+   {
+    "t": "금융 환경의 변화로 최근 은행권 공동 오픈 플랫폼을 구축하여 핀테크서비스가 활성화 되고 있다. 다음 내용에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/1658",
+    "k": "1교시형",
+    "q": "125정-4-01"
+   },
+   {
+    "t": "금융 환경의 변화로 최근 은행권 공동 오픈 플랫폼을 구축하여 핀테크서비스가 활성화 되고 있다. 다음 내용에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/5061",
+    "k": "2교시형",
+    "q": "125정-4-01"
+   }
+  ],
+  "ds_DAG": [
+   {
+    "t": "방향성 비순환 그래프(Directed Acyclic Graph)에 대하여 다음 물음에 답하시오.",
+    "u": "https://cafe.naver.com/strnd/10225",
+    "k": "2교시형",
+    "q": "125정-4-04"
+   }
+  ],
+  "nw_WiFi6": [
+   {
+    "t": "IEEE 802.11ax와 IEEE 802.11be 비교   (125컴)",
+    "u": "https://cafe.naver.com/strnd/11638",
+    "k": "1교시형",
+    "q": "125컴-1-01"
+   }
+  ],
+  "dg_LidarRadar": [
+   {
+    "t": "LiDAR(Light Detection and Ranging)와 RADAR(Radio Detection and Ranging)   (125컴)",
+    "u": "https://cafe.naver.com/strnd/1595",
+    "k": "1교시형",
+    "q": "125컴-1-07"
+   },
+   {
+    "t": "LiDAR(Light Detection and Ranging)와 RADAR(Radio Detection and Ranging)   (125컴)",
+    "u": "https://cafe.naver.com/strnd/24837",
+    "k": "2교시형",
+    "q": "125컴-1-07"
+   }
+  ],
+  "dg_Trilemma": [
+   {
+    "t": "블록체인 트릴레마(Trilemma)   (125컴)",
+    "u": "https://cafe.naver.com/strnd/9632",
+    "k": "1교시형",
+    "q": "125컴-1-10"
+   }
+  ],
+  "se_SQuaRE": [
+   {
+    "t": "ISO/IEC 25000   (125컴)",
+    "u": "https://cafe.naver.com/strnd/2111",
+    "k": "1교시형",
+    "q": "125컴-1-12"
+   }
+  ],
+  "sc_NAC": [
+   {
+    "t": "내부망과 외부망을 분리하는 망분리시스템에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/7016",
+    "k": "1교시형",
+    "q": "125컴-2-01"
+   }
+  ],
+  "nw_Hamming": [
+   {
+    "t": "코드 전송 시 발생하는 오류를 검출(Detection)할 수 있을 뿐만 아니라 오류 코드의 정정(Correction)이 가능한 해밍코드(Hamm",
+    "u": "https://cafe.naver.com/strnd/10497",
+    "k": "1교시형",
+    "q": "125컴-2-02"
+   },
+   {
+    "t": "코드 전송 시 발생하는 오류를 검출(Detection)할 수 있을 뿐만 아니라 오류 코드의 정정(Correction)이 가능한 해밍코드(Hamm",
+    "u": "https://cafe.naver.com/strnd/17961",
+    "k": "2교시형",
+    "q": "125컴-2-02"
+   }
+  ],
+  "nw_CRC": [
+   {
+    "t": "코드 전송 시 발생하는 오류를 검출(Detection)할 수 있을 뿐만 아니라 오류 코드의 정정(Correction)이 가능한 해밍코드(Hamm",
+    "u": "https://cafe.naver.com/strnd/10497",
+    "k": "1교시형",
+    "q": "125컴-2-02"
+   },
+   {
+    "t": "코드 전송 시 발생하는 오류를 검출(Detection)할 수 있을 뿐만 아니라 오류 코드의 정정(Correction)이 가능한 해밍코드(Hamm",
+    "u": "https://cafe.naver.com/strnd/17961",
+    "k": "2교시형",
+    "q": "125컴-2-02"
+   }
+  ],
+  "nw_RANSharing": [
+   {
+    "t": "공공안전망에 구현된 RAN-Sharing 목적과 기술방식을 각각 설명하시오.   (125컴)",
+    "u": "https://cafe.naver.com/strnd/3858",
+    "k": "1교시형",
+    "q": "125컴-2-05"
+   }
+  ],
+  "nw_FlowControl": [
+   {
+    "t": "전송계층(Transport Layer)에서 전송 데이터의 단위는 Segment이다. 전송계층 기능 중 흐름제어(Flow Control)에 대하여",
+    "u": "https://cafe.naver.com/strnd/5322",
+    "k": "2교시형",
+    "q": "125컴-3-01"
+   }
+  ],
+  "ds_SegmentTree": [
+   {
+    "t": "전송계층(Transport Layer)에서 전송 데이터의 단위는 Segment이다. 전송계층 기능 중 흐름제어(Flow Control)에 대하여",
+    "u": "https://cafe.naver.com/strnd/5322",
+    "k": "2교시형",
+    "q": "125컴-3-01"
+   }
+  ],
+  "se_CMMI": [
+   {
+    "t": "CMMI 모델에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/27193",
+    "k": "1교시형",
+    "q": "125컴-3-03"
+   },
+   {
+    "t": "CMMI 모델에 대하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/2140",
+    "k": "2교시형",
+    "q": "125컴-3-03"
+   }
+  ],
+  "nw_CSMACD": [
+   {
+    "t": "통신 프로토콜 매체접근제어 방식인 CSMA/CD 개념과 동작원리를 설명하고 I-Persistent, P-Persistent, Non-Persis",
+    "u": "https://cafe.naver.com/strnd/26233",
+    "k": "1교시형",
+    "q": "125컴-4-01"
+   }
+  ],
+  "nw_L2": [
+   {
+    "t": "데이터링크 계층은 네트워크에서 오류제어를 담당한다. 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/11278",
+    "k": "1교시형",
+    "q": "125컴-4-03"
+   },
+   {
+    "t": "데이터링크 계층은 네트워크에서 오류제어를 담당한다. 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/1733",
+    "k": "2교시형",
+    "q": "125컴-4-03"
+   }
+  ],
+  "dg_NBIoT": [
+   {
+    "t": "IoT 3대 핵심기술과 NB-IoT 3가지 동작모드를 각각 설명하시오.   (125컴)",
+    "u": "https://cafe.naver.com/strnd/16963",
+    "k": "1교시형",
+    "q": "125컴-4-06"
+   }
+  ]
+ }
+}

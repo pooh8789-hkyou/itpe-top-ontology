@@ -13,7 +13,8 @@
   <a href="https://pooh8789-hkyou.github.io/itpe-top-ontology/"><b>▶ 바로 사용하기</b></a> ·
   <a href="https://pooh8789-hkyou.github.io/itpe-top-ontology/ontology.html">PC 버전</a> ·
   <a href="https://pooh8789-hkyou.github.io/itpe-top-ontology/ontology-mobile.html">모바일 버전</a> ·
-  <a href="data/itpe_ontology.json">데이터(JSON)</a>
+  <a href="data/itpe_ontology.json">데이터(JSON)</a> ·
+  <a href="https://open.kakao.com/o/sA96qMog">문의(오픈채팅)</a>
 </p>
 
 ---
@@ -131,8 +132,15 @@
 | [`data/itpe_ontology.json`](data/itpe_ontology.json) | 토픽 · 관계 · 정의 · 키워드 · 쉬운 설명 · 두음 · 중요도 전체 (v2.4) |
 | [`data/itpe_selte_links.json`](data/itpe_selte_links.json) | 참고 셀테 링크 팩 (토픽 517개 · 링크 1,024개) |
 
+## 문의
+
+| 채널 | 연락처 |
+|---|---|
+| 카카오톡 오픈채팅 | [https://open.kakao.com/o/sA96qMog](https://open.kakao.com/o/sA96qMog) |
+| 전화 | 공일공-5862-팔사육구 |
+
 ## 저작권 · 이용 안내
 
-- © 유술사(유희권) · ITPE TOP반
-- 탐색기 화면은 보호 처리된 배포본(복사 방지 · 워터마크 · 사용 기한 2027-04-30)입니다.
+- © ITPE TOP반 멘토 유술사
+- 탐색기 화면은 보호 처리된 배포본입니다(복사 방지 · 워터마크 · 사용 기한 2027-04-30).
 - 무단 복제·수정·재배포와 AI 학습·요약 활용을 허락하지 않습니다. 학습 목적의 링크 공유는 환영합니다.

@@ -4,7 +4,7 @@
  "version": 1,
  "source": "TOP반 기출문제 DB 참고 셀테",
  "exported": "2026-10-31",
- "ontologyVersion": "2.5",
+ "ontologyVersion": "2.6",
  "links": {
   "nw_WiFi7": [
    {
@@ -498,6 +498,24 @@
     "u": "https://cafe.naver.com/strnd/32851",
     "k": "2교시형",
     "q": "138정-3-04"
+   },
+   {
+    "t": "NoSQL의 CAP(Consistency, Availability, Partition Tolerance)   (131컴)",
+    "u": "https://cafe.naver.com/strnd/26291",
+    "k": "1교시형",
+    "q": "131컴-1-07"
+   },
+   {
+    "t": "CAP 이론의 한계와 PACELC(Partition Availability Consistency Else Latency Consistency) ",
+    "u": "https://cafe.naver.com/strnd/15548",
+    "k": "1교시형",
+    "q": "126정-1-07"
+   },
+   {
+    "t": "CAP 이론의 한계와 PACELC(Partition Availability Consistency Else Latency Consistency) ",
+    "u": "https://cafe.naver.com/strnd/13258",
+    "k": "2교시형",
+    "q": "126정-1-07"
    }
   ],
   "sc_APT": [
@@ -3054,14 +3072,6 @@
     "q": "135컴-1-05"
    }
   ],
-  "se_MSAArch": [
-   {
-    "t": "모놀리식 아키텍처(Monolithic Architecture)와 마이크로서비스 아키텍처(MicroServiceArchitecture)를 비교 설",
-    "u": "https://cafe.naver.com/strnd/29222",
-    "k": "1교시형",
-    "q": "135컴-1-05"
-   }
-  ],
   "se_Monolith": [
    {
     "t": "모놀리식 아키텍처(Monolithic Architecture)와 마이크로서비스 아키텍처(MicroServiceArchitecture)를 비교 설",
@@ -3366,26 +3376,6 @@
     "q": "130정-1-04"
    }
   ],
-  "dg_DataGov": [
-   {
-    "t": "스마트시티 데이터 거버넌스(Smart City Data Governance)에 대하여 설명하시오. (135컴)",
-    "u": "https://cafe.naver.com/strnd/32292",
-    "k": "2교시형",
-    "q": "135컴-4-02"
-   },
-   {
-    "t": "데이터 거버넌스   (130정)",
-    "u": "https://cafe.naver.com/strnd/22933",
-    "k": "1교시형",
-    "q": "130정-1-04"
-   },
-   {
-    "t": "데이터 거버넌스   (130정)",
-    "u": "https://cafe.naver.com/strnd/26330",
-    "k": "2교시형",
-    "q": "130정-1-04"
-   }
-  ],
   "nw_HA": [
    {
     "t": "고장허용(Fault Tolerant) 시스템과 고가용성(High Availability) 시스템에 대하여 아래 사항을 설명하시오.",
@@ -3466,6 +3456,104 @@
     "u": "https://cafe.naver.com/strnd/23578",
     "k": "1교시형",
     "q": "133정-1-06"
+   }
+  ],
+  "ai_ML": [
+   {
+    "t": "머신러닝(Machine Learning) 성능지표  (134정)",
+    "u": "https://cafe.naver.com/strnd/27295",
+    "k": "1교시형",
+    "q": "134정-1-03"
+   },
+   {
+    "t": "서포트 벡터 머신(Support Vector Machine)은 기계학습 분야에서 많이 활용되는 학습",
+    "u": "https://cafe.naver.com/strnd/22837",
+    "k": "2교시형",
+    "q": "132컴-4-05"
+   },
+   {
+    "t": "머신러닝의 분류 모델인 서포트 벡터 머신(Support Vector Machine) 중 선형 서포트 벡터 머신의 마진(Margin) 분류 방법 ",
+    "u": "https://cafe.naver.com/strnd/27722",
+    "k": "2교시형",
+    "q": "132정-2-02"
+   },
+   {
+    "t": "머신러닝(Machin Learning)과 딥러닝(Deep Learning) 차이   (131정)",
+    "u": "https://cafe.naver.com/strnd/27332",
+    "k": "1교시형",
+    "q": "131정-1-07"
+   },
+   {
+    "t": "네트워크 자원을 보다 효율적으로 관리하고 최적화하기 위해, 네트워크 인프라에 머신러닝 기법을 적용하고 있다. 이와 관련하여 다음을 설명하시오",
+    "u": "https://cafe.naver.com/strnd/7266",
+    "k": "1교시형",
+    "q": "131컴-2-04"
+   },
+   {
+    "t": "네트워크 자원을 보다 효율적으로 관리하고 최적화하기 위해, 네트워크 인프라에 머신러닝 기법을 적용하고 있다. 이와 관련하여 다음을 설명하시오",
+    "u": "https://cafe.naver.com/strnd/21380",
+    "k": "2교시형",
+    "q": "131컴-2-04"
+   },
+   {
+    "t": "강화학습(Reinforcement Learning)은 최적의 행동정책을 찾아가는 기계학습 방법이다. 이와 관련하여 다음을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/27453",
+    "k": "2교시형",
+    "q": "131컴-4-01"
+   },
+   {
+    "t": "머신러닝 최적화 알고리즘 (Optimization Algorithm) 유형 및 장단점   (130정)",
+    "u": "https://cafe.naver.com/strnd/21885",
+    "k": "1교시형",
+    "q": "130정-1-09"
+   },
+   {
+    "t": "머신 러닝(Machine Learning)에서 활용되는 의사결정나무(Decision Tree)모델을 설명하시오.   (130정)",
+    "u": "https://cafe.naver.com/strnd/31289",
+    "k": "1교시형",
+    "q": "130정-3-01"
+   },
+   {
+    "t": "머신 러닝(Machine Learning)에서 활용되는 의사결정나무(Decision Tree)모델을 설명하시오.   (130정)",
+    "u": "https://cafe.naver.com/strnd/18394",
+    "k": "2교시형",
+    "q": "130정-3-01"
+   },
+   {
+    "t": "최근 데이터사이언스와 기계학습이 융합된 DSML(Data Science & Machine Learning) 프로젝트가 확산되고 있다. 성공적인 ",
+    "u": "https://cafe.naver.com/strnd/25464",
+    "k": "2교시형",
+    "q": "130정-2-02"
+   },
+   {
+    "t": "머신러닝(Machine Learning)에서 교차검증(Cross Validation)에 대하여 설명하시오.   (128컴)",
+    "u": "https://cafe.naver.com/strnd/12594",
+    "k": "1교시형",
+    "q": "128컴-4-01"
+   },
+   {
+    "t": "귀납적사고(Inductive Reasoning)와 기계학습(Machine-Learning)에 대하여 설명하시오.   (128정)",
+    "u": "https://cafe.naver.com/strnd/16476",
+    "k": "1교시형",
+    "q": "128정-2-06"
+   },
+   {
+    "t": "기계학습(Machine Learning) 모델링(Modeling)과 모델옵스(ModelOps)에 대하여 설명하시오.   (128정)",
+    "u": "https://cafe.naver.com/strnd/25618",
+    "k": "1교시형",
+    "q": "128정-1-04"
+   },
+   {
+    "t": "머신러닝(Machine Learning)에서 교차검증(Cross Validation)에 대하여 설명하시오.   (128컴)",
+    "u": "https://cafe.naver.com/strnd/3136",
+    "k": "2교시형",
+    "q": "128컴-4-01"
+   },
+   {
+    "t": "모델옵스(ModelOps)   (127정)",
+    "u": "https://cafe.naver.com/strnd/14215",
+    "k": "1교시형",
+    "q": "127정-1-02"
    }
   ],
   "ca_CPUTime": [
@@ -3714,6 +3802,44 @@
     "u": "https://cafe.naver.com/strnd/28580",
     "k": "2교시형",
     "q": "134정-3-06"
+   }
+  ],
+  "ai_DL": [
+   {
+    "t": "딥러닝에서 대규모 신경망을 효율적으로 훈련하기 위한 멀티 GPU 기술에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/26586",
+    "k": "2교시형",
+    "q": "134정-4-02"
+   },
+   {
+    "t": "딥러닝에서 대규모 신경망을 효율적으로 훈련하기 위한 멀티 GPU 기술에 대하여 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/28439",
+    "k": "2교시형",
+    "q": "134정-4-02"
+   },
+   {
+    "t": "머신러닝(Machin Learning)과 딥러닝(Deep Learning) 차이   (131정)",
+    "u": "https://cafe.naver.com/strnd/27332",
+    "k": "1교시형",
+    "q": "131정-1-07"
+   },
+   {
+    "t": "현재의 딥러닝 기술은 사람의 눈으로 식별되지 않을 만큼 작은 노이즈를 추가해서 만든 적대적 예제(Adversarial Example)를 활용한 ",
+    "u": "https://cafe.naver.com/strnd/5315",
+    "k": "1교시형",
+    "q": "131컴-3-01"
+   },
+   {
+    "t": "현재의 딥러닝 기술은 사람의 눈으로 식별되지 않을 만큼 작은 노이즈를 추가해서 만든 적대적 예제(Adversarial Example)를 활용한 ",
+    "u": "https://cafe.naver.com/strnd/21585",
+    "k": "2교시형",
+    "q": "131컴-3-01"
+   },
+   {
+    "t": "딥뷰(DeepView)의 개념과 기술요소를 설명하시오   (129정)",
+    "u": "https://cafe.naver.com/strnd/21759",
+    "k": "2교시형",
+    "q": "129정-2-03"
    }
   ],
   "dg_API": [
@@ -4012,14 +4138,6 @@
     "q": "125정-1-02"
    }
   ],
-  "dg_TAM": [
-   {
-    "t": "기술수용모델(Technology Acceptance Model: TAM)의 개념과 주요 구성요소에 대하여 설명하시오.   (133정)",
-    "u": "https://cafe.naver.com/strnd/23578",
-    "k": "1교시형",
-    "q": "133정-1-06"
-   }
-  ],
   "db_CRUD": [
    {
     "t": "데이터모델링에서 CRUD 매트릭스(Matrix)를 사용하는 목적과 이를 표현하는 방법에 래하여 설명하시오.   (133정)",
@@ -4140,23 +4258,27 @@
     "q": "133정-2-02"
    }
   ],
-  "mg_ISO20000Mgt": [
+  "se_UIDesign": [
    {
-    "t": "ISO/IEC 20000에서 제시하는 기준을 중심으로, 정보기술 서비스 관리체계(ITSM)의 개념을 설명하고, 이 시스템의 서비스 설계 및 구축",
-    "u": "https://cafe.naver.com/strnd/27893",
+    "t": "‘디지털 정부서비스 UI/UX 가이드라인'(2024.2, 행정안전부)은 디지털 서비스를 구성하는 사용자 인터페이스(User Interface; ",
+    "u": "https://cafe.naver.com/strnd/27153",
     "k": "2교시형",
-    "q": "133정-2-03"
+    "q": "133정-2-02"
+   },
+   {
+    "t": "전자정부 웹사이트 UI/UX 설계기준 7가지와 웹접근성, 웹호환성, 웹개방성, 웹최적화에 대해 각각 설명하시오.   (126정)",
+    "u": "https://cafe.naver.com/strnd/4986",
+    "k": "1교시형",
+    "q": "126정-3-02"
+   },
+   {
+    "t": "전자정부 웹사이트 UI/UX 설계기준 7가지와 웹접근성, 웹호환성, 웹개방성, 웹최적화에 대해 각각 설명하시오.   (126정)",
+    "u": "https://cafe.naver.com/strnd/9572",
+    "k": "2교시형",
+    "q": "126정-3-02"
    }
   ],
   "se_ISO20000": [
-   {
-    "t": "ISO/IEC 20000에서 제시하는 기준을 중심으로, 정보기술 서비스 관리체계(ITSM)의 개념을 설명하고, 이 시스템의 서비스 설계 및 구축",
-    "u": "https://cafe.naver.com/strnd/27893",
-    "k": "2교시형",
-    "q": "133정-2-03"
-   }
-  ],
-  "se_ITSM": [
    {
     "t": "ISO/IEC 20000에서 제시하는 기준을 중심으로, 정보기술 서비스 관리체계(ITSM)의 개념을 설명하고, 이 시스템의 서비스 설계 및 구축",
     "u": "https://cafe.naver.com/strnd/27893",
@@ -4868,20 +4990,6 @@
     "q": "125컴-3-04"
    }
   ],
-  "dg_MEC": [
-   {
-    "t": "초저지연 서비스와 부하분산을 위한 모바일 엣지 컴퓨팅 (Mobile Edge Computing) 기술이 확대되고 있다. 아래 사항을 설명하시오.",
-    "u": "https://cafe.naver.com/strnd/1824",
-    "k": "1교시형",
-    "q": "132컴-4-06"
-   },
-   {
-    "t": "초저지연 서비스와 부하분산을 위한 모바일 엣지 컴퓨팅 (Mobile Edge Computing) 기술이 확대되고 있다. 아래 사항을 설명하시오.",
-    "u": "https://cafe.naver.com/strnd/21599",
-    "k": "2교시형",
-    "q": "132컴-4-06"
-   }
-  ],
   "nw_MEC": [
    {
     "t": "초저지연 서비스와 부하분산을 위한 모바일 엣지 컴퓨팅 (Mobile Edge Computing) 기술이 확대되고 있다. 아래 사항을 설명하시오.",
@@ -5290,20 +5398,6 @@
     "q": "131컴-2-02"
    }
   ],
-  "nw_SDN": [
-   {
-    "t": "네트워크 자원을 보다 효율적으로 관리하고 최적화하기 위해, 네트워크 인프라에 머신러닝 기법을 적용하고 있다. 이와 관련하여 다음을 설명하시오",
-    "u": "https://cafe.naver.com/strnd/7266",
-    "k": "1교시형",
-    "q": "131컴-2-04"
-   },
-   {
-    "t": "네트워크 자원을 보다 효율적으로 관리하고 최적화하기 위해, 네트워크 인프라에 머신러닝 기법을 적용하고 있다. 이와 관련하여 다음을 설명하시오",
-    "u": "https://cafe.naver.com/strnd/21380",
-    "k": "2교시형",
-    "q": "131컴-2-04"
-   }
-  ],
   "ca_Chiplet": [
    {
     "t": "칩렛(Chiplet)에 대하여 다음을 설명하시오.",
@@ -5360,14 +5454,6 @@
     "u": "https://cafe.naver.com/strnd/27453",
     "k": "2교시형",
     "q": "131컴-4-01"
-   }
-  ],
-  "db_RecSysDB": [
-   {
-    "t": "추천시스템은 사용자의 과거 행동데이터 등을 바탕으로 사용자가 좋아할 만한 정보나 제품을 제시해 주는 시스템이다. 이와 관련하여 다음을 설명하시오",
-    "u": "https://cafe.naver.com/strnd/20118",
-    "k": "1교시형",
-    "q": "131컴-4-02"
    }
   ],
   "dg_RecSys": [
@@ -6068,20 +6154,6 @@
     "q": "128정-1-03"
    }
   ],
-  "ai_ModelOps": [
-   {
-    "t": "기계학습(Machine Learning) 모델링(Modeling)과 모델옵스(ModelOps)에 대하여 설명하시오.   (128정)",
-    "u": "https://cafe.naver.com/strnd/25618",
-    "k": "1교시형",
-    "q": "128정-1-04"
-   },
-   {
-    "t": "모델옵스(ModelOps)   (127정)",
-    "u": "https://cafe.naver.com/strnd/14215",
-    "k": "1교시형",
-    "q": "127정-1-02"
-   }
-  ],
   "se_CoQ": [
    {
     "t": "소프트웨어 개발 프로젝트 품질비용 항목 4가지를 제시하고, 각 항목별로 사례를 들어 설명하시오.   (128정)",
@@ -6494,6 +6566,14 @@
     "q": "127정-3-04"
    }
   ],
+  "nw_SDN": [
+   {
+    "t": "소프트웨어 정의 네트워크(SDN)에 대한 아래의 사항을 설명하시오.",
+    "u": "https://cafe.naver.com/strnd/7266",
+    "k": "1교시형",
+    "q": "127정-3-05"
+   }
+  ],
   "se_MSAPattern": [
    {
     "t": "최근 여러 기업에서 MSA(Mirco Service Architecture) 도입이 활발하게 이루어지고 있다. MSA에 대한 아래의 사항을 설명",
@@ -6522,14 +6602,6 @@
     "u": "https://cafe.naver.com/strnd/12280",
     "k": "2교시형",
     "q": "125정-4-03"
-   }
-  ],
-  "ai_Metaheuristic": [
-   {
-    "t": "메타휴리스틱스(Metaheuristics)   (126정)",
-    "u": "https://cafe.naver.com/strnd/19737",
-    "k": "1교시형",
-    "q": "126정-1-02"
    }
   ],
   "al_MetaHeuristicAlg": [
@@ -6606,20 +6678,6 @@
     "u": "https://cafe.naver.com/strnd/22646",
     "k": "2교시형",
     "q": "126정-2-05"
-   }
-  ],
-  "se_UIDesign": [
-   {
-    "t": "전자정부 웹사이트 UI/UX 설계기준 7가지와 웹접근성, 웹호환성, 웹개방성, 웹최적화에 대해 각각 설명하시오.   (126정)",
-    "u": "https://cafe.naver.com/strnd/4986",
-    "k": "1교시형",
-    "q": "126정-3-02"
-   },
-   {
-    "t": "전자정부 웹사이트 UI/UX 설계기준 7가지와 웹접근성, 웹호환성, 웹개방성, 웹최적화에 대해 각각 설명하시오.   (126정)",
-    "u": "https://cafe.naver.com/strnd/9572",
-    "k": "2교시형",
-    "q": "126정-3-02"
    }
   ],
   "dg_WebAccess": [
@@ -6710,14 +6768,6 @@
     "u": "https://cafe.naver.com/strnd/13752",
     "k": "1교시형",
     "q": "126컴-1-01"
-   }
-  ],
-  "dg_ComputeContinuum": [
-   {
-    "t": "컴퓨팅 컨티뉴엄(Computing Continuum)   (126컴)",
-    "u": "https://cafe.naver.com/strnd/22624",
-    "k": "1교시형",
-    "q": "126컴-1-02"
    }
   ],
   "nw_ComputeContinuumNW": [

@@ -10,10 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://pooh8789-hkyou.github.io/itpe-top-ontology/"><b>▶ 바로 사용하기</b></a> ·
-  <a href="https://pooh8789-hkyou.github.io/itpe-top-ontology/ontology.html">PC 버전</a> ·
-  <a href="https://pooh8789-hkyou.github.io/itpe-top-ontology/ontology-mobile.html">모바일 버전</a> ·
-  <a href="data/itpe_ontology.json">데이터(JSON)</a> ·
+  <a href="https://pooh8789-hkyou.github.io/itpe-top-ontology/"><b>▶ 이용 안내</b></a> ·
   <a href="https://open.kakao.com/o/sA96qMog">문의(오픈채팅)</a>
 </p>
 
@@ -146,23 +143,11 @@
 
 ---
 
-## 사용 방법
+## 이용 방법
 
-| 용도 | 주소 |
-|---|---|
-| 첫 화면(기기 자동 추천) | https://pooh8789-hkyou.github.io/itpe-top-ontology/ |
-| PC 버전 | https://pooh8789-hkyou.github.io/itpe-top-ontology/ontology.html |
-| 모바일 버전 | https://pooh8789-hkyou.github.io/itpe-top-ontology/ontology-mobile.html |
-
-- 설치나 로그인 없이 브라우저에서 바로 열립니다. 노트와 링크는 **각자의 브라우저에만** 저장됩니다.
-- 셀테 링크 팩 가져오기: [`data/itpe_selte_links.json`](data/itpe_selte_links.json)을 내려받아 「내 노트 → 가져오기」를 누릅니다.
-
-## 데이터
-
-| 파일 | 내용 |
-|---|---|
-| [`data/itpe_ontology.json`](data/itpe_ontology.json) | 토픽 · 관계 · 정의 · 키워드 · 쉬운 설명 · 두음 · 중요도 전체 (v2.6, 강의 본문·해설지 INDEX는 탐색기에서만 제공) |
-| [`data/itpe_selte_links.json`](data/itpe_selte_links.json) | 참고 셀테 링크 팩 (토픽 708개 · 링크 2,896개, 카페 셀테 포함) |
+- 온톨로지 탐색기는 **TOP반 승인 회원 전용 서비스**로 제공합니다.
+- 승인된 Google 계정으로 학습 플랫폼에 로그인하면 PC 탐색기 내려받기와 모바일 열람을 이용할 수 있습니다.
+- 이용 승인과 문의는 [이용 안내 페이지](https://pooh8789-hkyou.github.io/itpe-top-ontology/) 또는 아래 오픈채팅으로 해 주세요.
 
 ## 문의
 
@@ -174,5 +159,5 @@
 ## 저작권 · 이용 안내
 
 - © ITPE TOP반 멘토 유술사
-- 탐색기 화면은 보호 처리된 배포본입니다(복사 방지 · 워터마크 · 사용 기한 2027-04-30).
-- 무단 복제·수정·재배포와 AI 학습·요약 활용을 허락하지 않습니다. 학습 목적의 링크 공유는 환영합니다.
+- 탐색기는 승인 회원에게만 회원별 식별 정보가 담긴 보호 배포본으로 제공합니다.
+- 무단 복제·수정·재배포와 AI 학습·요약 활용을 허락하지 않습니다. 이 안내 페이지 링크의 공유는 환영합니다.
